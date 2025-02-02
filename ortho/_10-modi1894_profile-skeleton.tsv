@@ -2,27 +2,28 @@ Left	Grapheme	Right	Class	Replacement
 	gi			c
 	tg			c
 	gn			ñ
-	ae			aːe
-	aè			aːe
-	aé			aːe
-	ai			aːi
-	aí			aːi
-	aì			aːi
-	ei			eːi
-	eí			eːi
-	eì			eːi
-	òí			oːi
-	òì			oːi
-	òi			oːi
-	aò			aːO
-	ao			aːo
-	aó			aːo
-	au			aːu
-	aú			aːu
-	aù			aːu
-	ou			oːu
-	oú			oːu
-	où			oːu
+	ae			a:e
+	aè			a:e
+	aé			a:e
+	ai			a:i
+	aí			a:i
+	aì			a:i
+	ei			e:i
+	eí			e:i
+	eì			e:i
+	òí			o:i
+	òì			o:i
+	òi			o:i
+	aò			a:O
+	ao			a:o
+	aó			a:o
+	au̇			a:u
+	aú			a:u
+	aù			a:u
+	au			a:u
+	ou			o:u
+	oú			o:u
+	où			o:u
 	ch	[iíìeéè]		k
 	cc	[aàáoòóuúù]		k
 	Ch	[iíìeéè]		k
@@ -37,6 +38,7 @@ Left	Grapheme	Right	Class	Replacement
 	;			;
 	\[			[
 	\]			]
+	\?			?
 	²			²
 	a			a
 	á			a
