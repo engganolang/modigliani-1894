@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised, annotated comparative word list in Modigliani’s
+  “L’isola delle donne” from 1894
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: University of Oxford
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+repository-code: 'https://github.com/engganolang/modigliani-1894'
+abstract: >-
+  Digitised comparative word list (with light annotation) in
+  Modigliani's "L'isola delle donne" from 1894. The word
+  list captures forms in Nias, Toba-Batak, Enggano, and
+  Malay, with Italian as the reference gloss. The Enggano
+  forms from Modigliani (1894) are included in the EnoLEX
+  diachronic lexical database for Enggano
+  (https://doi.org/10.25446/oxford.28282169). The
+  orthography standardisation for Nias and Toba Batak is
+  adapted from the orthography standardisation for Enggano
+  for this work by Modigliani (1894), which is available in
+  the following link
+  (https://enggano.ling-phil.ox.ac.uk/static/Enggano-transcriptions.xlsx)
+  from our Enggano research webpage
+  (https://enggano.ling-phil.ox.ac.uk/static/previous.html).
+keywords:
+  - Enggano
+  - Nias
+  - Toba-Batak
+  - Batak-Toba
+  - Bahasa Nias
+  - Bahasa Enggano
+  - Austronesia
+  - Legacy Material
+  - Digital Humanities
+  - Word List
+  - Old Word List
+  - Language Documentation
+  - Lexical Database
+  - Historical Linguistics
+  - Lexicology
+  - Diachronic Lexicology
+  - Comparative Linguistics
+  - Historical Comparative Linguistics
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2025-02-02'
