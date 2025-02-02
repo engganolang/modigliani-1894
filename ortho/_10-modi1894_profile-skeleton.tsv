@@ -27,7 +27,7 @@ Left	Grapheme	Right	Class	Replacement
 	où			o:u
 	ch	[iíìeéè]		k
 	cc	[aàáoòóuúù]		k
-	Ch	[iíìeéè]		k
+	Ch	[aàáiíìeéè]		k
 	c	[aàáoòóuúù]		k
 	C	[aàáoòóuúù]		k
 (ai)	h			x
@@ -40,6 +40,9 @@ Left	Grapheme	Right	Class	Replacement
 	\[			[
 	\]			]
 	\?			?
+	\’			'
+	\'			'
+	\*			*
 	²			²
 	a			a
 	á			a
@@ -57,6 +60,7 @@ Left	Grapheme	Right	Class	Replacement
 	g			j
 	h			h
 	i			i
+	j			j
 	í			i
 	ì			i
 	k			k
@@ -64,13 +68,17 @@ Left	Grapheme	Right	Class	Replacement
 	m			m
 	n			n
 	o			o
+	ɔ			ɔ
 	ó			o
 	ò			O
 	p			p
 	r			r
+	s			s
 	ſ			f
 	t			t
 	u			u
+	v			v
 	ú			u
 	ù			u
 	w			w
+	z			z

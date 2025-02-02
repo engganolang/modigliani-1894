@@ -72,24 +72,44 @@ eno_df <- eno_df |>
 eno_df |> write_tsv("ortho/ortho_enggano.tsv")
 
 # Need to figure out for Nias orthography independently as its sole profile
-# nias <- stringi::stri_trans_nfc(str_to_lower(df_wide$NIAS_1))
-# nias_df <- qlcData::tokenize(strings = nias,
-#                             profile = "ortho/_10-modi1894_profile-skeleton.tsv",
-#                             method = "global",
-#                             transliterate = "Replacement",
-#                             ordering = NULL,
-#                             normalize = "NFC",
-#                             sep.replace = "#",
-#                             regex = TRUE)
-# 
-# nias_df <- nias_df %>%
-#   .$strings |> 
-#   as_tibble() |> 
-#   rename(nias_TOKEN = tokenized,
-#          nias_TRANSLITERATED = transliterated) |> 
-#   mutate(nias_COMMON = str_replace_all(nias_TRANSLITERATED, "\\s", ""),
-#          nias_COMMON = str_replace_all(nias_COMMON, "\\#", " "))
-# nias_df |> write_tsv("ortho/ortho_nias.tsv")
+nias <- stringi::stri_trans_nfc(str_to_lower(df_wide$NIAS_1))
+nias_df <- qlcData::tokenize(strings = nias,
+                            profile = "ortho/_10-modi1894_profile-skeleton.tsv",
+                            method = "global",
+                            transliterate = "Replacement",
+                            ordering = NULL,
+                            normalize = "NFC",
+                            sep.replace = "#",
+                            regex = TRUE)
+
+nias_df <- nias_df %>%
+  .$strings |>
+  as_tibble() |>
+  rename(nias_TOKEN = tokenized,
+         nias_TRANSLITERATED = transliterated) |>
+  mutate(nias_COMMON = str_replace_all(nias_TRANSLITERATED, "\\s", ""),
+         nias_COMMON = str_replace_all(nias_COMMON, "\\#", " "))
+nias_df |> write_tsv("ortho/ortho_nias.tsv")
+
+
+toba_batak <- stringi::stri_trans_nfc(str_to_lower(df_wide$TOBA_BATAK_1))
+toba_batak_df <- qlcData::tokenize(strings = toba_batak,
+                             profile = "ortho/_10-modi1894_profile-skeleton.tsv",
+                             method = "global",
+                             transliterate = "Replacement",
+                             ordering = NULL,
+                             normalize = "NFC",
+                             sep.replace = "#",
+                             regex = TRUE)
+
+toba_batak_df <- toba_batak_df %>%
+  .$strings |>
+  as_tibble() |>
+  rename(toba_batak_TOKEN = tokenized,
+         toba_batak_TRANSLITERATED = transliterated) |>
+  mutate(toba_batak_COMMON = str_replace_all(toba_batak_TRANSLITERATED, "\\s", ""),
+         toba_batak_COMMON = str_replace_all(toba_batak_COMMON, "\\#", " "))
+toba_batak_df |> write_tsv("ortho/ortho_toba_batak.tsv")
 
 # word count
 # df |> mutate(across(matches("(MALESE|NIAS|TOBA_BATACCO|ENGANESE)"), ~str_count(., "\\b[^;\\s]+\\b"), .names = "nwrd_{.col}"))
@@ -117,6 +137,12 @@ df_long3 <- df_long2 |>
                           REMARK)) |> 
   mutate(WORD2 = str_replace_all(WORD2, "\\<.+?\\>", "")) |> 
   relocate(TOBA_BATAK_SOURCE, .after = WORD2) |> 
-  relocate(REMARK, .after = TOBA_BATAK_SOURCE)
+  relocate(REMARK, .after = TOBA_BATAK_SOURCE) |> 
+  mutate(ID = row_number()) |> 
+  relocate(ID, .before = PAGE) |> 
+  rename(ITALIAN = ITALIANO,
+         MALAY = MALESE) |> 
+  mutate(DOCULECT = replace(DOCULECT, DOCULECT == "ENGANESE", "ENGGANO"),
+         DOCULECT = replace(DOCULECT, DOCULECT == "TOBA_BATACCO", "TOBA_BATAK"))
 
 df_long3
