@@ -1,0 +1,73 @@
+Left	Grapheme	Right	Class	Replacement
+	gi			c
+	tg			c
+	gn			ñ
+	ae			aːe
+	aè			aːe
+	aé			aːe
+	ai			aːi
+	aí			aːi
+	aì			aːi
+	ei			eːi
+	eí			eːi
+	eì			eːi
+	òí			oːi
+	òì			oːi
+	òi			oːi
+	aò			aːO
+	ao			aːo
+	aó			aːo
+	au			aːu
+	aú			aːu
+	aù			aːu
+	ou			oːu
+	oú			oːu
+	où			oːu
+	ch	[iíìeéè]		k
+	cc	[aàáoòóuúù]		k
+	Ch	[iíìeéè]		k
+	c	[aàáoòóuúù]		k
+	C	[aàáoòóuúù]		k
+(ai)	h			x
+(?<!a)i	h			x
+	 			 
+	\(			(
+	\)			)
+	\.			.
+	;			;
+	\[			[
+	\]			]
+	²			²
+	a			a
+	á			a
+	à			a
+	b			b
+	c			c
+	C			k
+	d			d
+	e			e
+	é			e
+	è			E
+	È			E
+	ə			ė
+	f			f
+	g			j
+	h			h
+	i			i
+	í			i
+	ì			i
+	k			k
+	l			l
+	m			m
+	n			n
+	o			o
+	ó			o
+	ò			O
+	p			p
+	r			r
+	ſ			f
+	t			t
+	u			u
+	ú			u
+	ù			u
+	w			w
