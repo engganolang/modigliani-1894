@@ -115,13 +115,16 @@ toba_batak_df |> write_tsv("ortho/ortho_toba_batak.tsv")
 #   select(-MALAY, -NIAS, -TOBA_BATAK, -ENGGANO) |> 
 #   rename_with(\(x) str_replace(x, "_1", ""), .cols = matches("(MALAY|NIAS|TOBA_BATAK|ENGGANO)"))
 
-df_wide |> 
+df_wide1 <- df_wide |> 
   mutate(ID = row_number()) |> 
   relocate(ID, .before = PAGE) |> 
+  bind_cols(select(nias_df, -originals)) |> 
+  bind_cols(select(toba_batak_df, -originals)) |> 
+  bind_cols(select(eno_df, -originals))
+
+df_wide1 |> 
   write_tsv("data-output/modigliani-1894-wide-table.tsv", na = "")
-df_wide |> 
-  mutate(ID = row_number()) |> 
-  relocate(ID, .before = PAGE) |> 
+df_wide1 |> 
   write_csv("data-output/modigliani-1894-wide-table.csv", na = "")
 
 # word count
@@ -178,6 +181,10 @@ df_long3_ortho_strings <- df_long3_ortho$strings |>
 write_tsv(df_long3_ortho_strings, file = "ortho/ortho_ALL_WORDS_LONG_TABLE.tsv")  
 
 df_long3 |> 
+  bind_cols(select(df_long3_ortho_strings, -originals)) |> 
+  relocate(tokenized, transliterated, transliterated_common, .before = TOBA_BATAK_SOURCE) |> 
   write_tsv("data-output/modigliani-1894-long-table.tsv", na = "")
 df_long3 |> 
+  bind_cols(select(df_long3_ortho_strings, -originals)) |> 
+  relocate(tokenized, transliterated, transliterated_common, .before = TOBA_BATAK_SOURCE) |> 
   write_csv("data-output/modigliani-1894-long-table.csv", na = "")

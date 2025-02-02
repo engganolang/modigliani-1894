@@ -1,650 +1,650 @@
-ID	PAGE	TYPE	ITALIAN	MALAY	NIAS	TOBA_BATAK	ENGGANO	MALAY_1	NIAS_1	TOBA_BATAK_1	ENGGANO_1	NIAS_1_rm	TOBA_BATAK_1_sem	TOBA_BATAK_1_rm	ENGGANO_1_sem	ENGGANO_1_rm	REMARK	TOBA_BATAK_SOURCE
-1	266	word	Abbassare	Turún	Manada	Munduc	Paúho tópo	Turún	Manada	Munduc	Paúho tópo							J. S. A. Van Dissel
-2	266	word	Abbastanza	Sampé	Irugi	Siccop	Ho abacó	Sampé	Irugi	Siccop	Ho abacó							J. S. A. Van Dissel
-3	266	word	Abbastanza (Non)	Tida sampé	Loo irugi	Sowada siccop	Chèfe iabacó	Tida sampé	Loo irugi	Sowada siccop	Chèfe iabacó							J. S. A. Van Dissel
-4	266	word	Abitazione grande	Rúma besár	Banúa sebúa	Bagas na balga	Èuba	Rúma besár	Banúa sebúa	Bagas na balga	Èuba							
-5	266	word	Accanto	Decát	Ba<i>ng</i>ái	Giala	Panéna	Decát	Bangái	Giala	Panéna						GPWR--In Modigliani's table, certain sound segment(s) is italicised and through out this machine-readable form of the table I tag it for easing further computational processing.	
-6	266	word	Accesso , piaga	Bárah	Fao sa	Cugang	Baro	Bárah	Fao sa	Cugang	Baro							
-7	266	word	Accettare	Trimá	Tema halo	Mandgialo	Menaá	Trimá	Tema halo	Mandgialo	Menaá							J. S. A. Van Dissel
-8	266	word	Accomodare	Membaíchi	Gama²	Mangundgiam	Paríe ecáua	Membaíchi	Gama²	Mangundgiam	Paríe ecáua							J. S. A. Van Dissel
-9	266	word	Acqua	Aier	Idáno	Aec	Ebò	Aier	Idáno	Aec	Ebò							
-10	266	word	Acqua mare	Aier laút		Aec ni tao<rm=""veramente acqua di lago perchè i Toba non hanno mare"">	Lebo²	Aier laút		Aec ni tao	Lebo²			veramente acqua di lago perchè i Toba non hanno mare				J. S. A. Van Dissel
-11	266	word	Acqua mare	Aier laút		Aec ni tao<rm=""veramente acqua di lago perchè i Toba non hanno mare"">	Eué	Aier laút		Aec ni tao	Eué			veramente acqua di lago perchè i Toba non hanno mare				J. S. A. Van Dissel
-12	266	word	Acquavite	Arrác	Sópi	Tuwac<rm=""veramente vino di palma"">	Minu²	Arrác	Sópi	Tuwac	Minu²			veramente vino di palma				J. S. A. Van Dissel
-13	266	word	A destra	Sablá canán	Ba gambólo	Hipas	Epeèca	Sablá canán	Ba gambólo	Hipas	Epeèca						GPWR--When in the Toba-Batak side there are two words and one is marked with asterisk, like in this line, I include the asterisk and keep including the content of the TOBA-BATAK-SOURCE.	J. S. A. Van Dissel
-14	266	word	A destra	Sablá canán	Ba gambólo	Malo *	Epeèca	Sablá canán	Ba gambólo	Malo *	Epeèca						GPWR--When in the Toba-Batak side there are two words and one is marked with asterisk, like in this line, I include the asterisk and keep including the content of the TOBA-BATAK-SOURCE.	J. S. A. Van Dissel
-15	266	word	Addio vado via	Tabé sáia pulá<i>ng</i>		Bar bówa bova	Teeó oacahána	Tabé sáia puláng		Bar bówa bova	Teeó oacahána							J. S. A. Van Dissel
-16	266	word	Affamato	Lépar	Olòfo	Male	Eabahágnia	Lépar	Olòfo	Male	Eabahágnia							
-17	266	word	Affamato	Lépar	Olòfo	Male	Ecògnio	Lépar	Olòfo	Male	Ecògnio							
-18	266	word	Affamato	Lépar	Olòfo	Tonga	Eabahágnia	Lépar	Olòfo	Tonga	Eabahágnia							
-19	266	word	Affamato	Lépar	Olòfo	Tonga	Ecògnio	Lépar	Olòfo	Tonga	Ecògnio							
-20	266	word	Affilare	Menagiám	Mondráli	Patadgiom	Baia eèa	Menagiám	Mondráli	Patadgiom	Baia eèa							
-21	266	word	Affilare	Gossò	Mondráli	Patadgiom	Baia eèa	Gossò	Mondráli	Patadgiom	Baia eèa							
-22	266	word	Ago per reti e stuoie	Giárum gíari<i>ng</i>		Panut	Eparòpa	Giárum gíaring		Panut	Eparòpa							
-23	266	word	Agro	Asám	Simai		Húche	Asám	Simai		Húche							
-24	266	word	Aiutare	Tolò<i>ng</i>	Folulúi	Paingothon	Cuhái	Tolòng	Folulúi	Paingothon	Cuhái							
-25	266	word	Ala	Saiáp	Casafi	Habong	Eápo cheèpa	Saiáp	Casafi	Habong	Eápo cheèpa							
-26	266	word	Albero	Pohún caiú	T<i>o</i>laghéu	Batang	Eiocúo	Pohún caiú	Tolaghéu	Batang	Eiocúo							
-27	266	word	Albero	Pohún caiú	T<i>o</i>laghéu	Batang	Epúno ito	Pohún caiú	Tolaghéu	Batang	Epúno ito							
-28	266	word	Albero di cocco	Pohún clapá	Ohi	Négiur	Epúno pó	Pohún clapá	Ohi	Négiur	Epúno pó							J. S. A. Van Dissel
-29	266	word	Al di qua	Sablá sini	Tano andré	Di son	Mahatcè	Sablá sini	Tano andré	Di son	Mahatcè							J. S. A. Van Dissel
-30	266	word	Al di là	Sablá sána	Gièfo	Di adúwi	Maha io	Sablá sána	Gièfo	Di adúwi	Maha io							J. S. A. Van Dissel
-31	266	word	Aldisopra	Diatás	Si ava	Di atas	Itcébe	Diatás	Si ava	Di atas	Itcébe							J. S. A. Van Dissel
-32	266	word	Allattare	Menúsu	Di fèinu	Pa susu hon	Pecocòbu	Menúsu	Di fèinu	Pa susu hon	Pecocòbu							J. S. A. Van Dissel
-33	266	word	Alto	Tenghí	Alawa	Timbo	Tgiebè	Tenghí	Alawa	Timbo	Tgiebè							
-34	266	word	Alzare peso	Naèc	Monooi	Sihanti<i>ng</i>	Balalát	Naèc	Monooi	Sihanting	Balalát							
-35	266	word	Alzarsi al mattino	Bangún	Maóso sangahúlo wòngi	Tarsungul	Maénu	Bangún	Maóso sangahúlo wòngi	Tarsungul	Maénu							J. S. A. Van Dissel
-36	266	word	Amare (d'amore)	Beráhi	Omássidi	Manghasi	Cahapí	Beráhi	Omássidi	Manghasi	Cahapí							
-37	266	word	Amaro	Páit	Afeto	Pait	Cadahóai	Páit	Afeto	Pait	Cadahóai							J. S. A. Van Dissel
-38	266	word	Amico	Sóbat	Aw<i>o</i>	Ale²	Paano	Sóbat	Awo	Ale²	Paano							
-39	266	word	Amico	Sóbat	Aw<i>o</i>	Ale²	Opahawo	Sóbat	Awo	Ale²	Opahawo							
-40	266	word	Ammalarsi	Giatò sacchè	Tobali mafóch<i>o</i>	Malla	Cabapuho anòca	Giatò sacchè	Tobali mafócho	Malla	Cabapuho anòca							J. S. A. Van Dissel
-41	266	word	Ancóra	Laghi	To	Dape	Nuchi pecaia	Laghi	To	Dape	Nuchi pecaia							
-42	266	word	Ancóra	Laghi	To	Podo	Nuchi pecaia	Laghi	To	Podo	Nuchi pecaia							
-43	266	word	Andare	Pighi	M<i>o</i>i	Lao	Uacahai	Pighi	Moi	Lao	Uacahai							
-44	266	word	Andare	Pighi	M<i>o</i>i	Lao	Uaha	Pighi	Moi	Lao	Uaha							
-45	266	word	Andare	Pighi	M<i>o</i>i	Laho	Uacahai	Pighi	Moi	Laho	Uacahai							
-46	266	word	Andare	Pighi	M<i>o</i>i	Laho	Uaha	Pighi	Moi	Laho	Uaha							
-47	267	word	Andare a caccia	Pighi membúru	M<i>o</i>i malu	Marburu	Uuaha puo còio	Pighi membúru	Moi malu	Marburu	Uuaha puo còio							
-48	267	word	Andare a casa	Pighi ca rúma	M<i>o</i> ch<i>o</i> banúa	Lao tu bagas	Caha iubaha	Pighi ca rúma	Mo cho banúa	Lao tu bagas	Caha iubaha							
-49	267	word	Andare a dormire	Pighi tídor	M<i>o</i>i mor<i>o</i>	Lao modom	Uaha cabaùho	Pighi tídor	Moi moro	Lao modom	Uaha cabaùho							
-50	267	word	Andare a prendere	Pighi ambil	Mahalo	Mangalap	Uaha mena	Pighi ambil	Mahalo	Mangalap	Uaha mena							
-51	267	word	Andare in punta di piedi	Pighi plán plán	Menana		Bacòcu parihòpi	Pighi plán plán	Menana		Bacòcu parihòpi							
-52	267	word	Andar via	Pulá<i>ng</i>	Mufano	Laho	Abuha puaka	Puláng	Mufano	Laho	Abuha puaka							
-53	267	word	Andar via	Pulá<i>ng</i>	Mufano	Borhat	Abuha puaka	Puláng	Mufano	Borhat	Abuha puaka							
-54	267	word	Anello	Tcíntcín	Leiduru	Tittin	Carèo apo	Tcíntcín	Leiduru	Tittin	Carèo apo							
-55	267	word	Animale acquatico	Binatáng aier	Saliwa liwa ba nidano		Cheèpa<rm=""veramente uccello"">	Binatáng aier	Saliwa liwa ba nidano		Cheèpa					veramente uccello		
-56	267	word	Animale terrestre	Binatáng tána	Saliwa liwa ba dan<i>o</i>		Láio iane	Binatáng tána	Saliwa liwa ba dano		Láio iane							
-57	267	word	Antenato	Nenèc	Furugo	Si tuwa tuwa	Napuaca	Nenèc	Furugo	Si tuwa tuwa	Napuaca							
-58	267	word	Antenato	Orang dulú	Furugo	Si tuwa tuwa	Napuaca	Orang dulú	Furugo	Si tuwa tuwa	Napuaca							
-59	267	word	Antipatia	Caghelían	D<i>o</i>d<i>o</i> ide ide		Cheòba ehapi<rm=""veramente non voglio"">	Caghelían	Dodo ide ide		Cheòba ehapi					veramente non voglio		
-60	267	word	Anulare	Giari manis	Turu mani	Giari mánis	Eu apo	Giari manis	Turu mani	Giari mánis	Eu apo							
-61	267	word	Anulare del piede	Giari cachi			Eminuáe	Giari cachi			Eminuáe							
-62	267	word	Appassito	Burus	Aleu	Langan	Cabaoha	Burus	Aleu	Langan	Cabaoha							
-63	267	word	Aprire	Bucà	Teboca	Mamuha	Bucae	Bucà	Teboca	Mamuha	Bucae							
-64	267	word	Arco	Pana		Dano<rm=""Sanscritto"">	Ea pica<rm=""termine usato dai Malesi"">	Pana		Dano	Ea pica			Sanscritto		termine usato dai Malesi		
-65	267	word	Arrampicarsi	Naèc	Lamanu	Matugarang	Ua cabaccò	Naèc	Lamanu	Matugarang	Ua cabaccò							
-66	267	word	Arrampicarsi	Naèc	Lamanu	Matugarang	Uah itgebe ié ecuo	Naèc	Lamanu	Matugarang	Uah itgebe ié ecuo							
-67	267	word	Arrampicarsi	Memangiát	Lamanu	Matugarang	Ua cabaccò	Memangiát	Lamanu	Matugarang	Ua cabaccò							
-68	267	word	Arrampicarsi	Memangiát	Lamanu	Matugarang	Uah itgebe ié ecuo	Memangiát	Lamanu	Matugarang	Uah itgebe ié ecuo							
-69	267	word	Arrostire	Pangán	Nisala	Manaoc	Pabuha eòbi	Pangán	Nisala	Manaoc	Pabuha eòbi							
-70	267	word	Arrostire pollo	Pangán aiam	Fanunu manu		Cadicorè	Pangán aiam	Fanunu manu		Cadicorè							
-71	267	word	Asciare legno	Me<i>ng</i>hirís	Laòho òho	Manahil	Ocaca cuo	Menghirís	Laòho òho	Manahil	Ocaca cuo							
-72	267	word	Asciare legno	Me<i>ng</i>hirís	Laòho òho	Manarangsáng	Ocaca cuo	Menghirís	Laòho òho	Manarangsáng	Ocaca cuo							
-73	267	word	Asciugare	Menapù	Ogò<i>o</i>	Mangunsilát	Bacaáia	Menapù	Ogòo	Mangunsilát	Bacaáia							
-74	267	word	A sinistra	Sabla chiri	Ba gabèra	Hambiráng	Albaca	Sabla chiri	Ba gabèra	Hambiráng	Albaca							
-75	267	word	Aspettare	Tongo	Labalobalói	Pa ima hon	Naahapé	Tongo	Labalobalói	Pa ima hon	Naahapé							
-76	267	word	Assassinare	Bunù	Búnu	Mamunu	Pacahalé	Bunù	Búnu	Mamunu	Pacahalé							
-77	267	word	Atap	Atáp	Bulu sago		Prururu èuba	Atáp	Bulu sago		Prururu èuba							
-78	267	word	Attaccare	Tambát		Gantú<i>ng</i>	Paraiá	Tambát		Gantúng	Paraiá							
-79	267	word	Attaccare	Icát		Gantú<i>ng</i>	Paraiá	Icát		Gantúng	Paraiá							
-80	267	word	Attaccare	Gantú<i>ng</i>		Gantú<i>ng</i>	Paraiá	Gantúng		Gantúng	Paraiá							
-81	267	word	Avambraccio	La<i>ng</i>án		Ta<i>ng</i>án	Ehoachia	Langán		Tangán	Ehoachia							J. S. A. Van Dissel
-82	267	word	Avambraccio	Ta<i>ng</i>án		Ta<i>ng</i>án	Ehoachia	Tangán		Tangán	Ehoachia							J. S. A. Van Dissel
-83	267	word	Avere	Ada	So	Mamoiòp	Chichía	Ada	So	Mamoiòp	Chichía							J. S. A. Van Dissel
-84	267	word	Avere (Non …)	Tida ada		Dan adon	Chèoba	Tida ada		Dan adon	Chèoba							
-85	267	word	Aver fame	Lepar	Olófo	Rapar	Coignó	Lepar	Olófo	Rapar	Coignó							
-86	267	word	Aver fastidi	Ada susa	D<i>o</i>d<i>o</i> bucala		Cucubahu	Ada susa	Dodo bucala		Cucubahu							
-87	268	word	Aver sete	Berdahaga	D<i>o</i>d<i>o</i> odufo dufo	Manguwás	Chibo	Berdahaga	Dodo odufo dufo	Manguwás	Chibo							J. S. A. Van Dissel
-88	268	word	Azzuffarsi	Berpráng	Fasóndra	Manghinsadái	Bacai	Berpráng	Fasóndra	Manghinsadái	Bacai							
-89	268	word	Azzuffarsi	Berpukúl	Fasóndra	Manghinsadái	Bacai	Berpukúl	Fasóndra	Manghinsadái	Bacai							
-90	268	word	Baciare	Ciúm	Agombáva	Mangúmma	Manu	Ciúm	Agombáva	Mangúmma	Manu							J. S. A. Van Dissel
-91	268	word	Baffi	Misèi	Bumbèwe	Gumis	Pruru ripodia	Misèi	Bumbèwe	Gumis	Pruru ripodia							J. S. A. Van Dissel
-92	268	word	Baffi	Misèi	Bumbèwe	Misè *	Pruru ripodia	Misèi	Bumbèwe	Misè *	Pruru ripodia							J. S. A. Van Dissel
-93	268	word	Bagaglio	Barang²	Fasoro	Barang²	Dobu	Barang²	Fasoro	Barang²	Dobu							J. S. A. Van Dissel
-94	268	word	Bagnarsi	Mandi	Mondri	Maridi	Baèche	Mandi	Mondri	Maridi	Baèche							J. S. A. Van Dissel
-95	268	word	Bagno	Tampát mandi	Ba’a vemóndri		Ebo iaha baèche	Tampát mandi	Ba’a vemóndri		Ebo iaha baèche							J. S. A. Van Dissel
-96	268	word	Ballo donne	Menari	Manari	Manortòr	Maenu cahora	Menari	Manari	Manortòr	Maenu cahora							
-97	268	word	Ballo uomini	Menari	Maulèia	Manortòr	Maenu cahora	Menari	Maulèia	Manortòr	Maenu cahora							
-98	268	word	Bambini	Anac	Iraòno	Dacdanac	Pamo	Anac	Iraòno	Dacdanac	Pamo							
-99	268	word	Bambini	Anac	Iraòno	Dacdanac	Epa	Anac	Iraòno	Dacdanac	Epa							
-100	268	word	Bambù	Bulu	Léwu	Bulu	Abeha	Bulu	Léwu	Bulu	Abeha							
-101	268	word	Bambù per attingere acqua	Garighíc	Cole²	Poti<i>ng</i>	Enoà	Garighíc	Cole²	Poting	Enoà							
-102	268	word	Bambù per attingere acqua	Chendí	Cole²	Poti<i>ng</i>	Enoà	Chendí	Cole²	Poting	Enoà							
-103	268	word	Banane	Pisa<i>ng</i>	Bae	Gaol	Eígio	Pisang	Bae	Gaol	Eígio							
-104	268	word	Banco di corallo	Cara<i>ng</i>án	Gozo	Hará<i>ng</i><rm=""dal malese"">	Eèa	Carangán	Gozo	Haráng	Eèa			dal malese				J. S. A. Van Dissel
-105	268	word	Barattare	Tocar	Fatucao	Paubahon	Pachèli	Tocar	Fatucao	Paubahon	Pachèli							
-106	268	word	Barba	Gia<i>ng</i>gút		Giangút	Prururu ipo	Gianggút		Giangút	Prururu ipo							J. S. A. Van Dissel
-107	268	word	Barba a punta	Gia<i>ng</i>gút pangiá<i>ng</i>	Gambi	Giangút	Prururu chidía	Gianggút pangiáng	Gambi	Giangút	Prururu chidía							J. S. A. Van Dissel
-108	268	word	Barba a sulle guance	Tciambá<i>ng</i>	R<i>o</i>ng<i>o</i>	Banc		Tciambáng	Rongo	Banc								J. S. A. Van Dissel
-109	268	word	Barca a remi	Prau daiúng	Dundráha	Sòlu	Elòha	Prau daiúng	Dundráha	Sòlu	Elòha							
-110	268	word	Barca a vela	Prau laiár	Owo solòio	Pindís		Prau laiár	Owo solòio	Pindís								J. S. A. Van Dissel
-111	268	word	Basta ǃ	Sampé	Noá	Sappè	Abacochía	Sampé	Noá	Sappè	Abacochía							
-112	268	word	Bastantemente	Pada	Tob<i>o</i>no	Pala	Abóha	Pada	Tobono	Pala	Abóha							J. S. A. Van Dissel
-113	268	word	Bello	Bagús	S<i>o</i>chi	Dengán	Cáua	Bagús	Sochi	Dengán	Cáua							
-114	268	word	Bere	Minúm	Famadu	Manhinúm	Baigiòho	Minúm	Famadu	Manhinúm	Baigiòho							
-115	268	word	Bianco	Putí	Afusi	Bottar	Caudáhio	Putí	Afusi	Bottar	Caudáhio							
-116	268	word	Bocca	Mulút	Bava	Bawa	Eca	Mulút	Bava	Bawa	Eca							
-117	268	word	Braccialetto	Gla<i>ng</i> Ta<i>ng</i>án	Aia mbul<i>o</i>cha	Lèa<i>ng</i>	Chinacò	Glang Tangán	Aia mbulocha	Lèang	Chinacò							
-118	268	word	Braccio	La<i>ng</i>án	Siu	Gólang	Apo	Langán	Siu	Gólang	Apo							J. S. A. Van Dissel
-119	268	word	Braccio	La<i>ng</i>án	Siu	Gólang	Earahaori	Langán	Siu	Gólang	Earahaori							J. S. A. Van Dissel
-120	268	word	Braccio	Ta<i>ng</i>án	Siu	Gólang	Apo	Tangán	Siu	Gólang	Apo							J. S. A. Van Dissel
-121	268	word	Braccio	Ta<i>ng</i>án	Siu	Gólang	Earahaori	Tangán	Siu	Gólang	Earahaori							J. S. A. Van Dissel
-122	268	word	Bramare	Succá	Uhalo	Haghi iòt	Cahápi	Succá	Uhalo	Haghi iòt	Cahápi							
-123	268	word	Bramare	Succá	Uhalo	Ra	Cahápi	Succá	Uhalo	Ra	Cahápi							
-124	268	word	Brivido di febbre	Gelugút sebáb demóm	Otu²	Manghirgir	Eoho	Gelugút sebáb demóm	Otu²	Manghirgir	Eoho							
-125	268	word	Bruciare (Cucinare troppo)	Bacar	Acògi	Masac	Bachíco	Bacar	Acògi	Masac	Bachíco							
-126	268	word	Bruciare (Cucinare troppo)	Bacar	Acògi	Gor	Bachíco	Bacar	Acògi	Gor	Bachíco							
-127	268	word	Bruciare	Ber<i>ng</i>ala	Atunu	Matutúng	Cachíco	Berngala	Atunu	Matutúng	Cachíco							
-128	268	word	Brutto	Burúc	L<i>o</i> s<i>o</i>chi	Dae	Chioha	Burúc	Lo sochi	Dae	Chioha							
-129	268	word	Bucar orecchi	Mentciutciúc teli<i>ng</i>a	Latogi	Manombúe	Caricu cariahadía	Mentciutciúc telinga	Latogi	Manombúe	Caricu cariahadía							
-130	268	word	Buio	Glap	Agomigómi	Bot	Capòpo elòpo	Glap	Agomigómi	Bot	Capòpo elòpo							
-131	269	word	Buono	Bagús	S<i>o</i>chi	Dengán	Cáua	Bagús	Sochi	Dengán	Cáua							
-132	269	word	Buttar via	Buáng		Mandangurhón	Epacúa	Buáng		Mandangurhón	Epacúa							
-133	269	word	Cacciare	Membúru	Memòlo	Marburu	Bacocòi ebèo iahiacúe<sem=""col cane"">	Membúru	Memòlo	Marburu	Bacocòi ebèo iahiacúe				col cane			
-134	269	word	Cacciare	Membúru	Memòlo	Marburu	Cabacocòi ba buru còio<sem=""senza cane"">	Membúru	Memòlo	Marburu	Cabacocòi ba buru còio				senza cane			
-135	269	word	Cadere	Giatò	Aèchu	Madabu	Capunda	Giatò	Aèchu	Madabu	Capunda							
-136	269	word	Caldo	Panás	Aucu	Las	Cadodohodi	Panás	Aucu	Las	Cadodohodi							
-137	269	word	Calpestare	Banti<i>ng</i> cachí	Fam<i>o</i>r<i>o</i> salo	Mamolnat	Chichidi	Banting cachí	Famoro salo	Mamolnat	Chichidi						GPWR--I change the italics tagging with dash for ease of the use of the Keyman IPA keyboard	
-138	269	word	Cammino (via)	Gialán	Lala		Ecò	Gialán	Lala		Ecò							
-139	269	word	Campo	Ládang		Ladang	Epíia	Ládang		Ladang	Epíia							
-140	269	word	Campo	Ládang		Gimma	Epíia	Ládang		Gimma	Epíia							
-141	269	word	Cane	Angi<i>ng</i>	Asso	Asu	Eapí	Anging	Asso	Asu	Eapí							
-142	269	word	Cane	Angi<i>ng</i>	Asso	Asu	Ebèo	Anging	Asso	Asu	Ebèo							
-143	269	word	Canna da zucchro	Tébu	Tòbu	Tobu	Enaio	Tébu	Tòbu	Tobu	Enaio							
-144	269	word	Canto	Gnagní	Fanúno	Ende	Bahora	Gnagní	Fanúno	Ende	Bahora							
-145	269	word	Capelli	Rambút	Bu	Obu	Pruru ulu	Rambút	Bu	Obu	Pruru ulu							
-146	269	word	Capelli	Rambút	Bu	Obu	Pruru uru	Rambút	Bu	Obu	Pruru uru							
-147	269	word	Capire	Mongartí	D<i>o</i>d<i>o</i> m<i>o</i>i	Mangantusi	Pahoiá	Mongartí	Dodo moi	Mangantusi	Pahoiá							
-148	269	word	Carestia	Clapáran	Lofo	Haleon	Chèoba eonai mèhe	Clapáran	Lofo	Haleon	Chèoba eonai mèhe							
-149	269	word	Carne	Daghin	Nagòle	Giuhut	Hela	Daghin	Nagòle	Giuhut	Hela							
-150	269	word	Caro (prezzo)	Mahál	Ibua boli	Rarang	Mocoli	Mahál	Ibua boli	Rarang	Mocoli							
-151	269	word	Casa	Rúma	Omo	Bagas	Èuba	Rúma	Omo	Bagas	Èuba							
-152	269	word	Casa	Rúma	Omo	Bagas	Cacario	Rúma	Omo	Bagas	Cacario							
-153	269	word	Cattivo	Giahát	L<i>o</i> s<i>o</i>chi	Rowa	Ibu	Giahát	Lo sochi	Rowa	Ibu							
-154	269	word	Cercare	Ciari	Fanáo	Lulu	Bahoari	Ciari	Fanáo	Lulu	Bahoari							
-155	269	word	Cesta	Bacul	Raga²	Ampa<i>ng</i>	Eorae	Bacul	Raga²	Ampang	Eorae							
-156	269	word	Cesta	Bacul	Raga²	Ampa<i>ng</i>	Eunèche	Bacul	Raga²	Ampang	Eunèche							
-157	269	word	Cesta	Bacul	Raga²	Si gurup	Eorae	Bacul	Raga²	Si gurup	Eorae							
-158	269	word	Cesta	Bacul	Raga²	Si gurup	Eunèche	Bacul	Raga²	Si gurup	Eunèche							
-159	269	word	Chiamare (per nome)	Memanghíl de<i>ng</i>án namá		Margowar	Ahadi	Memanghíl dengán namá		Margowar	Ahadi							
-160	269	word	Chiamare	Panghil	Fagaoni	Mamigio	Ahadi	Panghil	Fagaoni	Mamigio	Ahadi							
-161	269	word	Chiedere	Minta	Fanòfu	Manuccun	Manunuhi	Minta	Fanòfu	Manuccun	Manunuhi							
-162	269	word	Cieco	Buta	Abòto h<i>o</i>r<i>o</i>	Pitung	Machene	Buta	Abòto horo	Pitung	Machene							
-163	269	word	Ciglio	Bulu mata		Imbulu ni mata	Epruru baca	Bulu mata		Imbulu ni mata	Epruru baca							
-164	269	word	Cignale	Babí hútan		Dalu	Ecòio	Babí hútan		Dalu	Ecòio							
-165	269	word	Cocco (Albero di)	Pohun clapá	Ohi	Negiur	Carahapò	Pohun clapá	Ohi	Negiur	Carahapò							
-166	269	word	Cocco (Noce di)	Búa clapá	Bánio	Migior	Epò	Búa clapá	Bánio	Migior	Epò							
-167	269	word	Cocco (Noce di)	Búa clapá	Bánio	Migior	Huapò	Búa clapá	Bánio	Migior	Huapò							
-168	269	word	Coccodrillo	Buwaia	Buáia	Buwaia	Cohoóca	Buwaia	Buáia	Buwaia	Cohoóca							
-169	269	word	Coda	Ecor	Io	Ihur	Iidia	Ecor	Io	Ihur	Iidia							
-170	269	word	Collera	Mará	F<i>o</i>nu	Giechel	Pahuna chideidia	Mará	Fonu	Giechel	Pahuna chideidia							
-171	269	word	Collera	Mará	F<i>o</i>nu	Pusu	Pahuna chideidia	Mará	Fonu	Pusu	Pahuna chideidia							
-172	269	word	Collo	Leher	Baghi	Ruccung	Eiú	Leher	Baghi	Ruccung	Eiú							
-173	269	word	Collo	Leher	Baghi	Ruccung	Ehanua	Leher	Baghi	Ruccung	Ehanua							
-174	269	word	Coltello	Pisò	Ballatu	Raut	Epèiti	Pisò	Ballatu	Raut	Epèiti							
-175	269	word	Coltello	Pisò	Ballatu	Raut	Eao	Pisò	Ballatu	Raut	Eao							
-176	269	word	Coltello	Pisò	Ballatu	Raut	Eachiebara	Pisò	Ballatu	Raut	Eachiebara							
-177	269	word	Coltello	Pisò	Ballatu	Rahi	Epèiti	Pisò	Ballatu	Rahi	Epèiti							
-178	269	word	Coltello	Pisò	Ballatu	Rahi	Eao	Pisò	Ballatu	Rahi	Eao							
-179	269	word	Coltello	Pisò	Ballatu	Rahi	Eachiebara	Pisò	Ballatu	Rahi	Eachiebara							
-180	269	word	Coltello	Pará<i>ng</i>	Ballatu	Raut	Epèiti	Paráng	Ballatu	Raut	Epèiti							
-181	269	word	Coltello	Pará<i>ng</i>	Ballatu	Raut	Eao	Paráng	Ballatu	Raut	Eao							
-182	269	word	Coltello	Pará<i>ng</i>	Ballatu	Raut	Eachiebara	Paráng	Ballatu	Raut	Eachiebara							
-183	269	word	Coltello	Pará<i>ng</i>	Ballatu	Rahi	Epèiti	Paráng	Ballatu	Rahi	Epèiti							
-184	269	word	Coltello	Pará<i>ng</i>	Ballatu	Rahi	Eao	Paráng	Ballatu	Rahi	Eao							
-185	269	word	Coltello	Pará<i>ng</i>	Ballatu	Rahi	Eachiebara	Paráng	Ballatu	Rahi	Eachiebara							
-186	269	word	Comando	Pasán	Oroisa	Mandoccon	Chihíua Comaná	Pasán	Oroisa	Mandoccon	Chihíua Comaná							
-187	270	word	Combattimento	Lawan	Falelé	Gora	Bapuru chia	Lawan	Falelé	Gora	Bapuru chia							
-188	270	word	Come si ohiama ?	Apa namá	Hadia doi da	Aha nia gowarna	Eia heniène	Apa namá	Hadia doi da	Aha nia gowarna	Eia heniène							
-189	270	word	Comniciare	Mulai	Mam<i>o</i>r<i>o</i>taig<i>o</i>	Hian	Apari echia	Mulai	Mamorotaigo	Hian	Apari echia							
-190	270	word	Compassione	Cassián	Ebúa d<i>o</i>d<i>o</i>	Hassian	Pachinunái	Cassián	Ebúa dodo	Hassian	Pachinunái							
-191	270	word	Comprare	Blí	Mow<i>o</i>li	Manuhor	Èoli	Blí	Mowoli	Manuhor	Èoli							
-192	270	word	Conficcare	Memasáng	Faho	Pagò	Bacòia poco	Memasáng	Faho	Pagò	Bacòia poco							
-193	270	word	Congiungersi carnalmente	Sa tubuh	Faihi		Pahorai	Sa tubuh	Faihi		Pahorai							
-194	270	word	Conterie	Rupa rupa catcia	Mani²	Si mata	Lole²	Rupa rupa catcia	Mani²	Si mata	Lole²							
-195	270	word	Coraggioso	Brani	Amui	Ma begu	Chèoba mahò	Brani	Amui	Ma begu	Chèoba mahò							J. S. A. Van Dissel
-196	270	word	Corda	Tali	Sináli	Riman	Bahoio	Tali	Sináli	Riman	Bahoio							J. S. A. Van Dissel
-197	270	word	Corda	Tali	Sináli	Holting *	Bahoio	Tali	Sináli	Holting *	Bahoio							J. S. A. Van Dissel
-198	270	word	Corrente	Harus	Undro nidano	Su<i>ng</i>e	Ebò chèoba elà eodia	Harus	Undro nidano	Sunge	Ebò chèoba elà eodia							
-199	270	word	Corrente	Harus	Undro nidano	Aec	Ebò chèoba elà eodia	Harus	Undro nidano	Aec	Ebò chèoba elà eodia							
-200	270	word	Cosa è questo ?	Apa itu		Aha ma on	Eiah enione	Apa itu		Aha ma on	Eiah enione							J. S. A. Van Dissel
-201	270	word	Coscia	Paho		Hae hae	Eapalà	Paho		Hae hae	Eapalà							J. S. A. Van Dissel
-202	270	word	Così	Bighítu	Man<i>o</i>	Boti	Enoaha	Bighítu	Mano	Boti	Enoaha							J. S. A. Van Dissel
-203	270	word	Cranio	Batú capála	Binu		Eae euluca	Batú capála	Binu		Eae euluca							
-204	270	word	Cranio	Batú capála	Wole²		Eae euluca	Batú capála	Wole²		Eae euluca							
-205	270	word	Crudo	Blon massác	Sataha	Sowada masac	Chibaca	Blon massác	Sataha	Sowada masac	Chibaca							
-206	270	word	Cucinare	Massác	Fondrino	Marmasah	Manaco	Massác	Fondrino	Marmasah	Manaco							
-207	270	word	Cuore	Atí	D<i>o</i>d<i>o</i>	Ati	Echitèi	Atí	Dodo	Ati	Echitèi							
-208	270	word	Dare	Cassi	Mameé	Mangaleion	Peionia	Cassi	Mameé	Mangaleion	Peionia							J. S. A. Van Dissel
-209	270	word	Denti	Gigi	Ifo	Ni<i>ng</i>i	Eauca	Gigi	Ifo	Ningi	Eauca							
-210	270	word	Dentro	Di dalam	Si bacha	Bagas	Di poco	Di dalam	Si bacha	Bagas	Di poco							
-211	270	word	Dietro	Di blacan	Furi	Pudi	Cahapò	Di blacan	Furi	Pudi	Cahapò							J. S. A. Van Dissel
-212	270	word	Difendere	Melindú<i>ng</i>	Sameèli	Mandugal	Cuhai	Melindúng	Sameèli	Mandugal	Cuhai							J. S. A. Van Dissel
-213	270	word	Dimenticare	Lupá	Olifu	Manghalupai	Caabu	Lupá	Olifu	Manghalupai	Caabu							
-214	270	word	Dire	Bilá<i>ng</i>	Imané	Didoc	Pecuaba	Biláng	Imané	Didoc	Pecuaba							
-215	270	word	Di rado	Giará<i>ng</i>	L<i>o</i> asèse	Rac²		Giaráng	Lo asèse	Rac²								
-216	270	word	Disputa	Bantah	Fasondrata	Bada	Chèoba nene igidia	Bantah	Fasondrata	Bada	Chèoba nene igidia							
-217	270	word	Diventare	Mengiadí	Tòla	Gabe	Odohoda	Mengiadí	Tòla	Gabe	Odohoda							J. S. A. Van Dissel
-218	270	word	Divorziare	Bercerèi	Far<i>o</i>i	Síra<i>ng</i>	Capacoa	Bercerèi	Faroi	Sírang	Capacoa							
-219	270	word	Dolce (sapore)	Manis	Ami		Camoni	Manis	Ami		Camoni							
-220	270	word	Domandare	Tágnia	Fanaha	Mahusò	Peeò	Tágnia	Fanaha	Mahusò	Peeò							
-221	270	word	Domandare	Minta	Fanaha	Mahusò	Peeò	Minta	Fanaha	Mahusò	Peeò							
-222	270	word	Domani	Besòc	Maemòlu	Tòrang ni arima	Naomana	Besòc	Maemòlu	Tòrang ni arima	Naomana							J. S. A. Van Dissel
-223	270	word	Donna	Parampuán	Alave	Potòsi	Cahoda	Parampuán	Alave	Potòsi	Cahoda							
-224	270	word	Dopo	Abís	Dania	Nu<i>ng</i> i	Naapé	Abís	Dania	Nung i	Naapé							
-225	270	word	Dormire	Tídor	M<i>o</i>r<i>o</i>	Módom	Euho	Tídor	Moro	Módom	Euho							
-226	270	word	Dormire	Tídor	M<i>o</i>r<i>o</i>	Módom	Cauho	Tídor	Moro	Módom	Cauho							
-227	270	word	Dormire	Tídor	M<i>o</i>r<i>o</i>	Módom	Bauho	Tídor	Moro	Módom	Bauho							
-228	270	word	Dorso	Bláca<i>ng</i>	Hulu		Cahapò	Blácang	Hulu		Cahapò							
-229	270	word	Dove ?	Di mana	Heza	Di diia	Gno ò	Di mana	Heza	Di diia	Gno ò							
-230	271	word	Egli ; Ella	Dia	Ia	Ibana	Chia	Dia	Ia	Ibana	Chia							
-231	271	word	Egli ; Ella	Dia	Andr<i>o</i>	Ibana	Chia	Dia	Andro	Ibana	Chia							
-232	271	word	Entrare	Massòc	Famègo	Bonhòt	Cahepaco	Massòc	Famègo	Bonhòt	Cahepaco							J. S. A. Van Dissel
-233	271	word	Erba	Rumpút	Duu	Duhút	Pucuma	Rumpút	Duu	Duhút	Pucuma							J. S. A. Van Dissel
-234	271	word	Ereditare	Mendapát pusáca	Manema gondròita	Mangumèi	Mai	Mendapát pusáca	Manema gondròita	Mangumèi	Mai							J. S. A. Van Dissel
-235	271	word	Essere	Ada	So	Adòng	Chichia	Ada	So	Adòng	Chichia							
-236	271	word	Essere ammalato	Suda sacchè	Mof<i>o</i>ch<i>o</i>	Sahít	Capucho	Suda sacchè	Mofocho	Sahít	Capucho							J. S. A. Van Dissel
-237	271	word	Estinguere (del fuoco)	Matí api	Bunú alito	Mintòp	Dipuru	Matí api	Bunú alito	Mintòp	Dipuru							J. S. A. Van Dissel
-238	271	word	Faccia	Muccá	Bava	Bohi	Baca	Muccá	Bava	Bohi	Baca							J. S. A. Van Dissel
-239	271	word	Fame	Lèpar	Olofo	Rapar	Coignò	Lèpar	Olofo	Rapar	Coignò							
-240	271	word	Fanciullo	Anac	Ono	Anac	Ara	Anac	Ono	Anac	Ara							J. S. A. Van Dissel
-241	271	word	Fanciullo	Anac	Ono	Doli	Ara	Anac	Ono	Doli	Ara							J. S. A. Van Dissel
-242	271	word	Fango	Lumpúr	Tai		Canenonèno	Lumpúr	Tai		Canenonèno							
-243	271	word	Fare	Bichín	Mamaz<i>o</i>chi	Mangiadihón	Pari	Bichín	Mamazochi	Mangiadihón	Pari							J. S. A. Van Dissel
-244	271	word	Fastidi	Susa				Susa										
-245	271	word	Febbre	Demom	Ach<i>o</i>m<i>o</i>	Arun	Iadòho (?)	Demom	Achomo	Arun	Iadòho (?)							J. S. A. Van Dissel
-246	271	word	Felice	Enac	Casana	Tuwa	Caúa	Enac	Casana	Tuwa	Caúa							
-247	271	word	Ferire	Melucacán	Maf<i>o</i>ch<i>o</i>	Mamugadi	Capacahale	Melucacán	Mafocho	Mamugadi	Capacahale							
-248	271	word	Ferita	Lucá	Socho	Bugáng	Mehecu	Lucá	Socho	Bugáng	Mehecu							
-249	271	word	Fermarsi	Brenti	Mamato	Matsohòt		Brenti	Mamato	Matsohòt								
-250	271	word	Ferma ǃ	Diám	Tráfa	Maradían	Iapé	Diám	Tráfa	Maradían	Iapé							
-251	271	word	Ferro	Bessí	Siòli	Bòsi	Epacamai	Bessí	Siòli	Bòsi	Epacamai							
-252	271	word	Ferro arrugginito	Bessí carat	Siòli sohòwu	Fasic	Epacamai mòco ecai	Bessí carat	Siòli sohòwu	Fasic	Epacamai mòco ecai							
-253	271	word	Fiamma	Niala	Hohahòla	Gorgòr	Carahu	Niala	Hohahòla	Gorgòr	Carahu							
-254	271	word	Figlio	Anac	Ono	Anac	Ara	Anac	Ono	Anac	Ara							
-255	271	word	Fiore	Cumbá<i>ng</i>	Bowo	Bu<i>ng</i>a	Epòi	Cumbáng	Bowo	Bunga	Epòi							
-256	271	word	Flusso	Aier pasá<i>ng</i>	Ebu lowo	Pasá<i>ng</i>	Caachihi èue<sem=""marea bassa"">	Aier pasáng	Ebu lowo	Pasáng	Caachihi èue				marea bassa			J. S. A. Van Dissel
-257	271	word	Flusso	Aier pasá<i>ng</i>	Ebu lowo	Pasá<i>ng</i>	Cacahoda èue<sem=""marea alta"">	Aier pasáng	Ebu lowo	Pasáng	Cacahoda èue				marea alta			J. S. A. Van Dissel
-258	271	word	Foce	Mulút sungèi	Luaha	Muwara	Eca belowa	Mulút sungèi	Luaha	Muwara	Eca belowa							J. S. A. Van Dissel
-259	271	word	Focolare	Dápur	Auri		Epò	Dápur	Auri		Epò							
-260	271	word	Foresta	Rimbu	Atúa	Hara<i>ng</i>an	Iacuè	Rimbu	Atúa	Harangan	Iacuè							
-261	271	word	Forse	Brancalí	Taila	Ra	Uachíua	Brancalí	Taila	Ra	Uachíua							
-262	271	word	Forse	Brancalí	Taila	Atic	Uachíua	Brancalí	Taila	Atic	Uachíua							
-263	271	word	Forte	Cuát	Ab<i>o</i>l<i>o</i>b<i>o</i>l<i>o</i>	Agasan	Eeò	Cuát	Abolobolo	Agasan	Eeò							
-264	271	word	Forte	Cuát	Ab<i>o</i>l<i>o</i>b<i>o</i>l<i>o</i>	Gogo	Eeò	Cuát	Abolobolo	Gogo	Eeò							
-265	271	word	Fratello	Sudárat	Talifusso	Iboto	Eaha	Sudárat	Talifusso	Iboto	Eaha							
-266	271	word	Fratello	Sudárat	Talifusso	Haha<sem=""maggiore"">	Eaha	Sudárat	Talifusso	Haha	Eaha		maggiore					
-267	271	word	Fratello	Sudárat	Talifusso	A<i>ng</i>ghi<sem=""minore"">	Eaha	Sudárat	Talifusso	Angghi	Eaha		minore					
-268	271	word	Freccia	Anac pana		Naccat<rm=""del sumpitan"">		Anac pana		Naccat				del sumpitan				
-269	271	word	Freddo	Digním	Oafu	Ngali	Eòho	Digním	Oafu	Ngali	Eòho							J. S. A. Van Dissel
-270	272	word	Fronte	Dahi	Angango	Par dompác an	Ecu	Dahi	Angango	Par dompác an	Ecu							J. S. A. Van Dissel
-271	272	word	Frutti	Buá	Bua	Parbuwe	Hua	Buá	Bua	Parbuwe	Hua							J. S. A. Van Dissel
-272	272	word	Fumare	Minúm timbaco	Ma<i>ng</i>a ròco	Manhisáp	Meno timbaho	Minúm timbaco	Manga ròco	Manhisáp	Meno timbaho							
-273	272	word	Fumo	Asap		Timús		Asap		Timús								
-274	272	word	Fuoco	Apí	Alito	Apí	Eòbi	Apí	Alito	Apí	Eòbi							
-275	272	word	Gallina	Aiám	Manu	Mánuc	Chedòbu	Aiám	Manu	Mánuc	Chedòbu							
-276	272	word	Gamba (dal ginocchio in giù)	Cachí			Epio pio	Cachí			Epio pio							
-277	272	word	Gatto	Cutci<i>ng</i>	Mao	Bapú<i>ng</i>	Ebèo	Cutcing	Mao	Bapúng	Ebèo							
-278	272	word	Gatto	Cutci<i>ng</i>	Mao	Bapú<i>ng</i>	Eáo	Cutcing	Mao	Bapúng	Eáo							
-279	272	word	Geloso	Ciemburu	Olohu	Manghimburu	Agnia	Ciemburu	Olohu	Manghimburu	Agnia							
-280	272	word	Già	Sidia	Nòa	Nu<i>ng</i>a	Abóha	Sidia	Nòa	Nunga	Abóha							
-281	272	word	Già	siáp	Nòa	Nu<i>ng</i>a	Abóha	siáp	Nòa	Nunga	Abóha							
-282	272	word	Ginocchio	Lutút	Balu duhi	Ulu ni tot	Epòo	Lutút	Balu duhi	Ulu ni tot	Epòo							J. S. A. Van Dissel
-283	272	word	Ginocchio	Lutút	Balu duhi	Ulu ni tot	Epu	Lutút	Balu duhi	Ulu ni tot	Epu							J. S. A. Van Dissel
-284	272	word	Giorno	Arí	Sara sibaia	Hari	Cahapò	Arí	Sara sibaia	Hari	Cahapò							
-285	272	word	Giovane	Múda	Awúgiu	Poso	Eaha	Múda	Awúgiu	Poso	Eaha							
-286	272	word	Giù	Di bawá	Tou	Di tóru	Itòpo	Di bawá	Tou	Di tóru	Itòpo							
-287	272	word	Giurare	Sumpá	M<i>o</i>i ba h<i>o</i>lu	Manabas	Bahitò	Sumpá	Moi ba holu	Manabas	Bahitò							J. S. A. Van Dissel
-288	272	word	Gomito	Sicu	Talinga ziu	Suhi²	Epú ápo	Sicu	Talinga ziu	Suhi²	Epú ápo							
-289	272	word	Gota	Pipì	Boo		Papa	Pipì	Boo		Papa							
-290	272	word	Gota	Pipì	Boo		Epapa	Pipì	Boo		Epapa							
-291	272	word	Grande	Besár	Ebúa	Balga	Amuho	Besár	Ebúa	Balga	Amuho							
-292	272	word	Guerreggiare	Melawán	Fanúwo	Marmuus	Caparí papuru	Melawán	Fanúwo	Marmuus	Caparí papuru						GPWR--reciprocal ""papuru"" 'to fight' (?)	J. S. A. Van Dissel
-293	272	word	Ieri	Camarèn	Menéwi	Nattowari	Baheba	Camarèn	Menéwi	Nattowari	Baheba							J. S. A. Van Dissel
-294	272	word	Imbarcarsi	Naèc capál	Moi ba owo		Uaha elòha	Naèc capál	Moi ba owo		Uaha elòha							
-295	272	word	Imprestare	Píngiam	Fondra u anaa	Manggowarhón	Peionia caulu	Píngiam	Fondra u anaa	Manggowarhón	Peionia caulu							
-296	272	word	Indice	Giari telungiúc	Turu lúo	Si tu mudu	Eu apo	Giari telungiúc	Turu lúo	Si tu mudu	Eu apo							J. S. A. Van Dissel
-297	272	word	Indice del piede	Giari telungiúc cachi			Eminuáe	Giari telungiúc cachi			Eminuáe							
-298	272	word	Indolente	Malas	Rumiri	Golut	Caracòia iaidia	Malas	Rumiri	Golut	Caracòia iaidia							
-299	272	word	Ingannare	Tipú	Falimo	Mangatsi	Paporò	Tipú	Falimo	Mangatsi	Paporò						GPWR--reciprocal (?)	
-300	272	word	Insieme	Sama²	Aw<i>o</i>	Rap	Uahelu chidera	Sama²	Awo	Rap	Uahelu chidera							J. S. A. Van Dissel
-301	272	word	Invece	Ganti	Fatua	Di inganán	Pachèli	Ganti	Fatua	Di inganán	Pachèli							J. S. A. Van Dissel
-302	272	word	Insidia	De<i>ng</i>chi	D<i>o</i>d<i>o</i> afocho	Lòmo	Uachepi	Dengchi	Dodo afocho	Lòmo	Uachepi							J. S. A. Van Dissel
-303	272	word	Io	Saia	Iao	Au	Ua	Saia	Iao	Au	Ua							
-304	272	word	Io	Saia	Iao	Ahu	Ua	Saia	Iao	Ahu	Ua							
-305	272	word	Isola	Pulu	Fulu	Pulo	Chèfu	Pulu	Fulu	Pulo	Chèfu							
-306	272	word	Là	Di sana	Bada <i>o</i>	Disi	Iò	Di sana	Bada o	Disi	Iò							J. S. A. Van Dissel
-307	272	word	Labbra	Bibír	Be<i>w</i>e	Bibir	Eochitipo	Bibír	Bewe	Bibir	Eochitipo							J. S. A. Van Dissel
-308	272	word	Labbra	Bibír	Be<i>w</i>e	Bibir	Curirifò	Bibír	Bewe	Bibir	Curirifò							J. S. A. Van Dissel
-309	272	word	Lacrima	Aier mata	Idano h<i>o</i>r<i>o</i>	Ilu		Aier mata	Idano horo	Ilu								J. S. A. Van Dissel
-310	272	word	Lampo	Chilát	Gari mbanúa	Sacsíc		Chilát	Gari mbanúa	Sacsíc								
-311	272	word	Lancia	Tumbac	Toho	Húgiur	Ecaio	Tumbac	Toho	Húgiur	Ecaio							
-312	272	word	Largo	Lebar	Ebólo	Bolac	Aehepòho	Lebar	Ebólo	Bolac	Aehepòho							J. S. A. Van Dissel
-313	272	word	Latte	Susu	Idano meme	Dadi	Coco	Susu	Idano meme	Dadi	Coco							J. S. A. Van Dissel
-314	272	word	Lavorare	Cregia	Hal<i>o</i>w<i>o</i>	Pande	Cobabarí	Cregia	Halowo	Pande	Cobabarí							
-315	273	word	Leggiero	Entè<i>ng</i>	Caòcha	Sowada borat	Cahau	Entèng	Caòcha	Sowada borat	Cahau							J. S. A. Van Dissel
-316	273	word	Legno	Caiú	Eu	Háiu	Cuo	Caiú	Eu	Háiu	Cuo							
-317	273	word	Lento	Lambát	Ahoho	Asoc	Chèoba pohai paniha	Lambát	Ahoho	Asoc	Chèoba pohai paniha							J. S. A. Van Dissel
-318	273	word	Lingua	Lida	Lèla	Dila	Erio	Lida	Lèla	Dila	Erio							
-319	273	word	Lingua	Lida	Lèla	Dila	Eliho	Lida	Lèla	Dila	Eliho							
-320	273	word	Lontano	Giau	Ar<i>o</i>u	Dao	Mimina	Giau	Arou	Dao	Mimina							
-321	273	word	Loro (Pron. Poss.)	Dia punia	Ra	Tu nasida	Chidara	Dia punia	Ra	Tu nasida	Chidara							J. S. A. Van Dissel
-322	273	word	Loro (Pron. Pers.)			Nasida				Nasida								
-323	273	word	Luna	Bulán	Bawa	Bulán	Canua	Bulán	Bawa	Bulán	Canua							
-324	273	word	Lungo	Pangián	Enau	Gandgiá<i>ng</i>	Aehenudia	Pangián	Enau	Gandgiáng	Aehenudia							J. S. A. Van Dissel
-325	273	word	Ma	Tapi	Ba	Alai	Iòchi	Tapi	Ba	Alai	Iòchi							J. S. A. Van Dissel
-326	273	word	Macchia	Ciòring	Si ta uno	Rotac	Pachiapa	Ciòring	Si ta uno	Rotac	Pachiapa							J. S. A. Van Dissel
-327	273	word	Madre	Ma	Ina	Ina	Nai	Ma	Ina	Ina	Nai							
-328	273	word	Magro	Curús	Angáo	Sowada hapal	Chemá	Curús	Angáo	Sowada hapal	Chemá							J. S. A. Van Dissel
-329	273	word	Malato	Sacché	Maf<i>o</i>ch<i>o</i>	Sahít	Capuhu	Sacché	Mafocho	Sahít	Capuhu							
-330	273	word	Mandare	Chirím	Mamantenge	Manongós	Uaha ioní	Chirím	Mamantenge	Manongós	Uaha ioní							
-331	273	word	Mangiare	Macán	Manga	Ma<i>ng</i>án	Eonò	Macán	Manga	Mangán	Eonò							
-332	273	word	Mangiare	Macán	Manga	Ma<i>ng</i>án	Menò	Macán	Manga	Mangán	Menò							
-333	273	word	Mangiativi	Macanán			Eò	Macanán			Eò							
-334	273	word	Mano	Ta<i>ng</i>án	Ta<i>ng</i>a	Ta<i>ng</i>án	Emino apo	Tangán	Tanga	Tangán	Emino apo							
-335	273	word	Mare	Laút	Asi	Laut	Euè	Laút	Asi	Laut	Euè							
-336	273	word	Maritarsi	Cawin	Fangowalu	Marhubaio	Pahona	Cawin	Fangowalu	Marhubaio	Pahona						GPWR--reciprocal (?)	
-337	273	word	Marito	Lachí²	Ina matúa	Amáng²	Nanu	Lachí²	Ina matúa	Amáng²	Nanu							J. S. A. Van Dissel
-338	273	word	Mattina	Paghí	Maemolu	Sogót	Pahemana	Paghí	Maemolu	Sogót	Pahemana							J. S. A. Van Dissel
-339	273	word	Maturo	Masá	Asoso	Masáh	Menaco	Masá	Asoso	Masáh	Menaco							
-340	273	word	Medicina	Obát	Dálu²	Daon	Ehabédo	Obát	Dálu²	Daon	Ehabédo							
-341	273	word	Medio	Giari te<i>ng</i>á	Turu lawa	Tambar	Eu apo	Giari tengá	Turu lawa	Tambar	Eu apo							
-342	273	word	Medio del piede	Giari te<i>ng</i>á cachí		Si tuwalang	Eminuáe	Giari tengá cachí		Si tuwalang	Eminuáe							J. S. A. Van Dissel
-343	273	word	Meno	Curáng	Ambo	Nuráng	Chimaná	Curáng	Ambo	Nuráng	Chimaná							J. S. A. Van Dissel
-344	273	word	Mentire	Giusta	Falimo	Margapgápi	Poporò	Giusta	Falimo	Margapgápi	Poporò							J. S. A. Van Dissel
-345	273	word	Mento	Dagu	Tai	Isáng	Echì	Dagu	Tai	Isáng	Echì							J. S. A. Van Dissel
-346	273	word	Merda	Tahi	Tai	Itíng	Echai	Tahi	Tai	Itíng	Echai							
-347	273	word	Merda	Bèra	Tai	Itíng	Echai	Bèra	Tai	Itíng	Echai							
-348	273	word	Metà	Ste<i>ng</i>á	Mató<i>ng</i>a	To<i>ng</i>a	Chidaho	Stengá	Matónga	Tonga	Chidaho							J. S. A. Van Dissel
-349	273	word	Mignolo	Cali<i>ng</i>chí<i>ng</i>	Turu si achi	Anac ni ta<i>ng</i>án	Eara uapo	Calingchíng	Turu si achi	Anac ni tangán	Eara uapo							J. S. A. Van Dissel
-350	273	word	Mignolo del piede	Cali<i>ng</i>chí<i>ng</i> cachí			Earaua	Calingchíng cachí			Earaua							
-351	273	word	Minacciare	Britacút	Lafeláu	Mangasupi	Epuru	Britacút	Lafeláu	Mangasupi	Epuru						M--""beri takut"" ?	J. S. A. Van Dissel
-352	273	word	Mio	Saia punia	Gu		Eharu	Saia punia	Gu		Eharu							
-353	273	word	Misericordia	Cassián	Fa aharo d<i>o</i>d<i>o</i>	Saiáng	Pachinunai	Cassián	Fa aharo dodo	Saiáng	Pachinunai						GPWR--reciprocal (?)	
-354	273	word	Moglie	Biní	Alave	Bòru²	Honá	Biní	Alave	Bòru²	Honá							J. S. A. Van Dissel
-355	273	word	Molto	Bagná	Oia	Lan	Mòco	Bagná	Oia	Lan	Mòco							J. S. A. Van Dissel
-356	273	word	Montare	Naèc	Manoi	Manáec	Ahi gèbe	Naèc	Manoi	Manáec	Ahi gèbe							
-357	274	word	Monte	Gunúng	Hili	Dòloc	Ecòho	Gunúng	Hili	Dòloc	Ecòho							
-358	274	word	Monte	Gunúng	Bawo	Dòloc	Ecòho	Gunúng	Bawo	Dòloc	Ecòho							
-359	274	word	Mordere	Menghighít	Fausu	Maccarát	Hao	Menghighít	Fausu	Maccarát	Hao							J. S. A. Van Dissel
-360	274	word	Morire	Matí	Mate	Mate	Opanené caá	Matí	Mate	Mate	Opanené caá							
-361	274	word	Morto	Matí	Mate	Mamis	Caá	Matí	Mate	Mamis	Caá							J. S. A. Van Dissel
-362	274	word	Muto	Bisu	Si lo hede hede	<i>Ng</i>u<i>ng</i>u	Chiparadío	Bisu	Si lo hede hede	Ngungu	Chiparadío							
-363	274	word	Nascere	Peranác	Tumbu	Manginlubu	Coda	Peranác	Tumbu	Manginlubu	Coda							
-364	274	word	Naso	Hidung	Ichu	Igung	Epanu	Hidung	Ichu	Igung	Epanu							
-365	274	word	Naufragare	Picciá capál	Abólo nòwo		Chipopòa	Picciá capál	Abólo nòwo		Chipopòa							
-366	274	word	Nave	Prau	Owo	Parau	Elòha	Prau	Owo	Parau	Elòha							J. S. A. Van Dissel
-367	274	word	Nave	Capál	Owo	Parau	Elòha	Capál	Owo	Parau	Elòha							J. S. A. Van Dissel
-368	274	word	Nemico	Musúh	Emáli	Musú	Parahò	Musúh	Emáli	Musú	Parahò						GPWR--reciprocal (?)	J. S. A. Van Dissel
-369	274	word	Nero	Itám	Saito	Birɔ<i>ng</i>	Caani	Itám	Saito	Birɔng	Caani							
-370	274	word	Nò	Tidá	L<i>o</i>	Indaong	Chèa	Tidá	Lo	Indaong	Chèa							
-371	274	word	Noi	Chíta	Iaita	Hita<rm=""incl."">	Ica	Chíta	Iaita	Hita	Ica			incl.				
-372	274	word	Noi	Chíta	Iaita	Hami<rm=""escl."">	Ica	Chíta	Iaita	Hami	Ica			escl.				
-373	274	word	Nome	Náma	T<i>o</i>i	Goarna	Niène	Náma	Toi	Goarna	Niène							
-374	274	word	Non ancora	Blòn	L<i>o</i> na	Las sowada	Capé	Blòn	Lo na	Las sowada	Capé							
-375	274	word	Nostro	Chíta púnia	Ma<rm=""esclus."">		Eharu	Chíta púnia	Ma		Eharu	esclus.						
-376	274	word	Nostro	Chíta púnia	Da<rm=""inclus."">		Eharu	Chíta púnia	Da		Eharu	inclus.						
-377	274	word	Notte	Malám	L<i>o</i> monucha	Bor<i>ng</i>in	Coahia	Malám	Lo monucha	Borngin	Coahia							
-378	274	word	Nuca	Te<i>ng</i>cúc		Parsangulán<rm=""d' una bestia"">	Heucaa	Tengcúc		Parsangulán	Heucaa			d' una bestia				J. S. A. Van Dissel
-379	274	word	Nuotare	Renáng	Molangi	Marla<i>ng</i>e	Eaco	Renáng	Molangi	Marlange	Eaco							J. S. A. Van Dissel
-380	274	word	Nutrimento	Macanán	Balazo	Indahán	Eoá	Macanán	Balazo	Indahán	Eoá							J. S. A. Van Dissel
-381	274	word	Nuvole	Awáng	Lavuo		Ecao doho	Awáng	Lavuo		Ecao doho							
-382	274	word	Obbediente	Turút	C<i>o</i>mo	Mangolòi	Baiò	Turút	Como	Mangolòi	Baiò							J. S. A. Van Dissel
-383	274	word	Occhio	Mata	H<i>o</i>r<i>o</i>	Mata	Ebaca	Mata	Horo	Mata	Ebaca							
-384	274	word	Occupazione	Cregia	Arorodo manu	Ganan	Menuca	Cregia	Arorodo manu	Ganan	Menuca							J. S. A. Van Dissel
-385	274	word	Odiare	Bencí	Maf<i>o</i>nu	Mahihi	Cheneuéhe	Bencí	Mafonu	Mahihi	Cheneuéhe							J. S. A. Van Dissel
-386	274	word	Oggi	Ini arí	Ma<i>o</i>ch<i>o</i>	Naon	Ecaha é	Ini arí	Maocho	Naon	Ecaha é							J. S. A. Van Dissel
-387	274	word	Olio	Mignác	Fanicha		Epihopò	Mignác	Fanicha		Epihopò							
-388	274	word	Ombilico	Pusát	Fuso		Epuco	Pusát	Fuso		Epuco							
-389	274	word	Ora (avv. )	Scará<i>ng</i>	Iada	Alai	Noóni	Scaráng	Iada	Alai	Noóni							
-390	274	word	Ora (avv. )	Scará<i>ng</i>	Iada	Ombas	Noóni	Scaráng	Iada	Ombas	Noóni							
-391	274	word	Orecchio	Telí<i>ng</i>a	Dali<i>ng</i>a	Supi<i>ng</i>	Ecarihía	Telínga	Dalinga	Suping	Ecarihía							
-392	274	word	Orfano	Piátu		Na malumáng	Cahoúca	Piátu		Na malumáng	Cahoúca							
-393	274	word	Orinare	Buáng aier	Io	Mesè<i>ng</i>	Ecò	Buáng aier	Io	Mesèng	Ecò							
-394	274	word	Ornamento degli orecchi	Dgin dgin telí<i>ng</i>a	Wale²	Palonác	Paricohòi	Dgin dgin telínga	Wale²	Palonác	Paricohòi							
-395	274	word	Ornamento degli orecchi	Dgin dgin telí<i>ng</i>a	Wale²	Si bo<i>ng</i>	Paricohòi	Dgin dgin telínga	Wale²	Si bong	Paricohòi							
-396	274	word	Osso	Tulá<i>ng</i>	Tòla		Eà	Tuláng	Tòla		Eà							
-397	274	word	Ovunque		Gòfu heza		Idò²		Gòfu heza		Idò²							
-398	274	word	Pacco di tabacco	Lempèng	Lèfe		Cachidapa	Lempèng	Lèfe		Cachidapa							
-399	275	word	Padre	Ama	Oma	Ama	Ama	Ama	Oma	Ama	Ama							
-400	275	word	Palpebra	Chelupa mata			Eurobaca	Chelupa mata			Eurobaca							
-401	275	word	Palude	Rawa	Laza	Rawáng	Chelo²	Rawa	Laza	Rawáng	Chelo²							J. S. A. Van Dissel
-402	275	word	Parenti	Sanac sudara	Sibaia	Na góda<i>ng</i>	Arpaha	Sanac sudara	Sibaia	Na gódang	Arpaha							
-403	275	word	Parlare	Biciara	Muhede	Mahatai	Panau̇	Biciara	Muhede	Mahatai	Panau̇							
-404	275	word	Partorire	Beranác	Madono	Maranác	Baara	Beranác	Madono	Maranác	Baara							
-405	275	word	Partorire	Beranác	Madono	Maranác	Omumo	Beranác	Madono	Maranác	Omumo							
-406	275	word	Patata indigena	Ubi cheladí	Gòbi	Suhát	Eudòpo	Ubi cheladí	Gòbi	Suhát	Eudòpo							
-407	275	word	Pauroso	Tacút	L<i>o</i>m<i>o</i>i m<i>o</i>i	Mabijár	Cahò	Tacút	Lomoi moi	Mabijár	Cahò							
-408	275	word	Paura	Tacút	Atau	Bijár	Chiacáho	Tacút	Atau	Bijár	Chiacáho							J. S. A. Van Dissel
-409	275	word	Paziente	Sábar	D<i>o</i>d<i>o</i> eb<i>o</i>lo	Noc	Cheoba puhai pahua	Sábar	Dodo ebolo	Noc	Cheoba puhai pahua							
-410	275	word	Pazzo	Ghíla	Ohoho	Na lalaen	Caparae bahu	Ghíla	Ohoho	Na lalaen	Caparae bahu							J. S. A. Van Dissel
-411	275	word	Pelle	Culít	Uli	Huling²	Euli	Culít	Uli	Huling²	Euli							
-412	275	word	Penna	Bulu	Bu	Buc²	Pruru	Bulu	Bu	Buc²	Pruru							J. S. A. Van Dissel
-413	275	word	Pepe	Lada	Lada	Lada	Coro²	Lada	Lada	Lada	Coro²							J. S. A. Van Dissel
-414	275	word	Perdere	Ilá<i>ng</i>	Teala	Mago	Cheora	Iláng	Teala	Mago	Cheora							J. S. A. Van Dissel
-415	275	word	Pesante	Brát	Abua	Doc²	Enò	Brát	Abua	Doc²	Enò							
-416	275	word	Pesoe	Icán	Ia	Decchè	Iaio	Icán	Ia	Decchè	Iaio							
-417	275	word	Pestare col pestello		Tutu	Limot	Capurica		Tutu	Limot	Capurica							
-418	275	word	Pestare col pestello		Tutu	Manduda	Capurica		Tutu	Manduda	Capurica							
-419	275	word	Pestello	Alu	Halu	Balbal	Elacò	Alu	Halu	Balbal	Elacò							
-420	275	word	Pestello	Antán	Halu	Balbal	Elacò	Antán	Halu	Balbal	Elacò							
-421	275	word	Pettinare	Menisir	Suchu	Manuri	Chichi ulu	Menisir	Suchu	Manuri	Chichi ulu							J. S. A. Van Dissel
-422	275	word	Petto di donna	Susu prampuán	Memé susú	Susu	Ecoco	Susu prampuán	Memé susú	Susu	Ecoco							
-423	275	word	Petto di donna	Tetèc	Memé susú	Susu	Ecoco	Tetèc	Memé susú	Susu	Ecoco							
-424	275	word	Petto di uomo	Dada	Tatoa		Eamaha	Dada	Tatoa		Eamaha							
-425	275	word	Piangere	Mena<i>ng</i>ís	Mee	Singgòh	Apelu	Menangís	Mee	Singgòh	Apelu							
-426	275	word	Piantare	Tanám	Manan<i>o</i>	Manuwán	Bacò	Tanám	Manano	Manuwán	Bacò							
-427	275	word	Piatto di legno	Pirín caiú	Figa	Pínar tatuan	Epahiù	Pirín caiú	Figa	Pínar tatuan	Epahiù							
-428	275	word	Piatto di legno	Pirín caiú	Figa	Sapa	Epahiù	Pirín caiú	Figa	Sapa	Epahiù							
-429	275	word	Piccolo	Chicíl	Ide²	Mèt²	Nuchi	Chicíl	Ide²	Mèt²	Nuchi							
-430	275	word	Piede	Cachì	Ahe	Pat	Iae	Cachì	Ahe	Pat	Iae							J. S. A. Van Dissel
-431	275	word	Piede	Cachì	Ahe	Pat	Eapáua uae	Cachì	Ahe	Pat	Eapáua uae							J. S. A. Van Dissel
-432	275	word	Pieno	Penú<i>ng</i>	Afono	Goc	Pamo	Penúng	Afono	Goc	Pamo							J. S. A. Van Dissel
-433	275	word	Pietra	Batú	Cara	Batú	Eea	Batú	Cara	Batú	Eea							
-434	275	word	Pietra da arrotare	Batú gossò	Gobé	Pungà	Eea ia peigi	Batú gossò	Gobé	Pungà	Eea ia peigi							
-435	275	word	Pioggia	Úgian	Teu	Uda<i>ng</i>	Ebò	Úgian	Teu	Udang	Ebò							
-436	275	word	Più tardi	Tadí	Na furi	Sogot	Bodo	Tadí	Na furi	Sogot	Bodo							
-437	275	word	Poi	Abís	Awena	Gialo²	Na apé	Abís	Awena	Gialo²	Na apé							
-438	275	word	Pollaio	Tampát aiám		Sunút		Tampát aiám		Sunút								
-439	275	word	Pollice	Ibu giari	Turu sebua	Ina ni ta<i>ng</i>án	Ena uapo	Ibu giari	Turu sebua	Ina ni tangán	Ena uapo							
-440	275	word	Pollice del piede	Ibu giari cachì			Ena ua	Ibu giari cachì			Ena ua							
-441	275	word	Polpaccio	Giantú<i>ng</i> betís	Arowaha	Gabur	Pio²	Giantúng betís	Arowaha	Gabur	Pio²							J. S. A. Van Dissel
-442	276	word	Polso	Nadi	B<i>o</i>l<i>o</i>cha		Epu apò	Nadi	Bolocha		Epu apò							
-443	276	word	Porcile	Tampát babí	Bao		Euba ecòio	Tampát babí	Bao		Euba ecòio							
-444	276	word	Porco	Babí	Bawi	Babi	Ecòio	Babí	Bawi	Babi	Ecòio							
-445	276	word	Porta	Pintú	Bawa ndruh<i>o</i>	Pitu	Ecar èuba	Pintú	Bawa ndruho	Pitu	Ecar èuba							
-446	276	word	Potersi	Bolè	Tola	Noroc	Noha chia	Bolè	Tola	Noroc	Noha chia							
-447	276	word	Potersi	Bolè	Tola	Malo	Noha chia	Bolè	Tola	Malo	Noha chia							
-448	276	word	Povero	Mischín	Numána	Pógos	Chèoba dobu	Mischín	Numána	Pógos	Chèoba dobu							
-449	276	word	Prendere	Ambil	Hal<i>o</i>	Buwát	Manà	Ambil	Halo	Buwát	Manà							
-450	276	word	Prendere in sроsа	Cawín	Fangowálu	Mambuwát	Mana cahoda pahona	Cawín	Fangowálu	Mambuwát	Mana cahoda pahona							
-451	276	word	Precipitare	Menergiumcán	Alau	Mordobóm	Capuuda	Menergiumcán	Alau	Mordobóm	Capuuda							
-452	276	word	Prima	Dulú	Me f<i>o</i>na	Na sa ingán	Cahanua	Dulú	Me fona	Na sa ingán	Cahanua							J. S. A. Van Dissel
-453	276	word	Primo genito	Solo<i>ng</i>	Ono siaa		Moa	Solong	Ono siaa		Moa							
-454	276	word	Promontorio	Udgiu<i>ng</i>		Udgiu<i>ng</i>	Curu	Udgiung		Udgiung	Curu							J. S. A. Van Dissel
-455	276	word	Pulito	Bressí	Aloo	Gandging	Cana	Bressí	Aloo	Gandging	Cana							J. S. A. Van Dissel
-456	276	word	Purgare	Ber bau bussúc	Ab<i>o</i>u	Bau	Capau	Ber bau bussúc	Abou	Bau	Capau						M--berbau bussúc	
-457	276	word	Quando	Bila	Hawara	Andigan	Na cuani	Bila	Hawara	Andigan	Na cuani							J. S. A. Van Dissel
-458	276	word	Quanto ?	Brapa	Hauga	Sa diia	Apiha	Brapa	Hauga	Sa diia	Apiha							
-459	276	word	Quasi	Hampir	Ahoto	Siiol	Bapanena	Hampir	Ahoto	Siiol	Bapanena							J. S. A. Van Dissel
-460	276	word	Quello	Itu	Dae	An	Iò	Itu	Dae	An	Iò							
-461	276	word	Quello	Itu	Dae	I	Iò	Itu	Dae	I	Iò							
-462	276	word	Questo	Ini	Daa	On	Eà	Ini	Daa	On	Eà							
-463	276	word	Radere	Ciucúr	Tobo		Mauné	Ciucúr	Tobo		Mauné							
-464	276	word	Radice	Acar	Wa'a	Urat	Ebà	Acar	Wa'a	Urat	Ebà							
-465	276	word	Rame	Tambaga	Tambago	Tambaga	Calelea	Tambaga	Tambago	Tambaga	Calelea							
-466	276	word	Ramo	Dahan	Daha gheu	Dacca	Eapodia	Dahan	Daha gheu	Dacca	Eapodia							J. S. A. Van Dissel
-467	276	word	Rancore	Atí chicil	D<i>o</i>d<i>o</i> bao	Milas	Chipahua chidèida	Atí chicil	Dodo bao	Milas	Chipahua chidèida						M--hati kecil (?)	J. S. A. Van Dissel
-468	276	word	Raramente	Giara<i>ng</i>	L<i>o</i> asese	Rac²	Chèoba eabá	Giarang	Lo asese	Rac²	Chèoba eabá							J. S. A. Van Dissel
-469	276	word	Rassomigliarsi	Sama giugá rupa	Fachilichili	Pungu	Panacona	Sama giugá rupa	Fachilichili	Pungu	Panacona							
-470	276	word	Remare	Daiu<i>ng</i>	Fangalucho	Marluga	Eògi	Daiung	Fangalucho	Marluga	Eògi							J. S. A. Van Dissel
-471	276	word	Respirare	Menapás	Hanu²	Numosa	Chipòro	Menapás	Hanu²	Numosa	Chipòro							J. S. A. Van Dissel
-472	276	word	Rete da pesci	Giari<i>ng</i> ican	Diala	Duru<i>ng</i>	Ecabuaio	Giaring ican	Diala	Durung	Ecabuaio							
-473	276	word	Rete da uccelli	Giari<i>ng</i> buro<i>ng</i>	U <i>o</i> zocha	Canto	Ecahaba	Giaring burong	U o zocha	Canto	Ecahaba							J. S. A. Van Dissel
-474	276	word	Ago per accomodare le reti	Giarúm giari<i>ng</i>			Eparopa	Giarúm giaring			Eparopa							
-475	276	word	Ridere	Tertaua	Maigi	Mortata	Eocaha	Tertaua	Maigi	Mortata	Eocaha							
-476	276	word	Ridere	Tertaua	Maigi	Mortata	Epaucaha	Tertaua	Maigi	Mortata	Epaucaha							
-477	276	word	Riempire	Bichín penun	Osi	Mangohi	Chifamu	Bichín penun	Osi	Mangohi	Chifamu						M--Bichín penuh	J. S. A. Van Dissel
-478	276	word	Riempire	Memenúh	Osi	Mangohi	Chifamu	Memenúh	Osi	Mangohi	Chifamu						M--Bichín penuh	J. S. A. Van Dissel
-479	276	word	Ripulire il campo dalle erbe	Mentciabút rumpút	Famácha	Manittitson	Baapia	Mentciabút rumpút	Famácha	Manittitson	Baapia							J. S. A. Van Dissel
-480	276	word	Risalire il fiume	Naèc calí	Lafa oroi	Pahu²	Caha ca belowa	Naèc calí	Lafa oroi	Pahu²	Caha ca belowa							
-481	276	word	Risparmiare	Me<i>ng</i>impán	Faòsi si		Chichihichi	Mengimpán	Faòsi si		Chichihichi							
-482	276	word	Ritornare	Cumbalí	Mangawuli	Mulah	Chidudua	Cumbalí	Mangawuli	Mulah	Chidudua							
-483	277	word	Ritrovare	Mendapát	Ifuli itema	Mandapót	Pacohà	Mendapát	Ifuli itema	Mandapót	Pacohà						GPWR--reciprocal (?)	J. S. A. Van Dissel
-484	277	word	Rompere	Picciá	Afato	Mamongól	Cará	Picciá	Afato	Mamongól	Cará						M--pecah	J. S. A. Van Dissel
-485	277	word	Rosso	Merá	Oio	Rara	Calicòcco	Merá	Oio	Rara	Calicòcco							
-486	277	word	Rotang		Ue	Hota<i>ng</i>	Echihi		Ue	Hotang	Echihi							
-487	277	word	Rovinato	Rusác		Manegahón		Rusác		Manegahón								
-488	277	word	Rovinato (franato)			Matolbac	Chiòha			Matolbac	Chiòha							
-489	277	word	Rubare	Ciurí	Manag<i>o</i>na<i>go</i>	Mana<i>ng</i>ho	Cabého	Ciurí	Managonago	Manangho	Cabého							
-490	277	word	Saggio	Pandei	Onèche	Guru	Cabahoia	Pandei	Onèche	Guru	Cabahoia							
-491	277	word	Sangue	Darát	Do	Mudar	Caachitri	Darát	Do	Mudar	Caachitri							
-492	277	word	Sanguisuga	Lintá	Lita		Comaù	Lintá	Lita		Comaù							
-493	277	word	Sapere	Tau	Sangila	Umboto	Pohoiá	Tau	Sangila	Umboto	Pohoiá							J. S. A. Van Dissel
-494	277	word	Sbadigliare	Me<i>ng</i>a<i>ng</i>a	Meha	Pagiac	Pauápo	Menganga	Meha	Pagiac	Pauápo							
-495	277	word	Sbadigliare	Me<i>ng</i>a<i>ng</i>a	Meha	Pagiac	Poapo	Menganga	Meha	Pagiac	Poapo							
-496	277	word	Scacciapensieri	Gi<i>ng</i>a<i>ng</i>		Saga saga hodon	Ediochéco	Gingang		Saga saga hodon	Ediochéco							
-497	277	word	Scaglia	Sisè ican	Huna²	Sisic	Enania	Sisè ican	Huna²	Sisic	Enania							J. S. A. Van Dissel
-498	277	word	Scala	Tanga	Ora	Tanga	Ehèa	Tanga	Ora	Tanga	Ehèa							J. S. A. Van Dissel
-499	277	word	Scemo	Bodo	Ab<i>o</i>low<i>o</i>ch<i>o</i>	Oto	Caparebahu	Bodo	Abolowocho	Oto	Caparebahu							J. S. A. Van Dissel
-500	277	word	Scendere	Turun	Milo tou	Tuwat	Ahitòpo	Turun	Milo tou	Tuwat	Ahitòpo							
-501	277	word	Scendere	Turun	Milo tou	Midgiur	Ahitòpo	Turun	Milo tou	Midgiur	Ahitòpo							
-502	277	word	Scheletro	Tulang tulang	Boto zi máte	Ra<i>ng</i>²	Eadia	Tulang tulang	Boto zi máte	Rang²	Eadia							J. S. A. Van Dissel
-503	277	word	Scherzare	Main	Fawude	Margait	Baitara	Main	Fawude	Margait	Baitara							J. S. A. Van Dissel
-504	277	word	Scherzare	Main	Fawude	Margait	Moco pamehena	Main	Fawude	Margait	Moco pamehena							J. S. A. Van Dissel
-505	277	word	Scoglio	Carang	Gowe	Batu	Eea	Carang	Gowe	Batu	Eea							J. S. A. Van Dissel
-506	277	word	Scongiuro	Pembua<i>ng</i>an setan	Faetósa	Mahusaem	Ehabédo	Pembuangan setan	Faetósa	Mahusaem	Ehabédo							
-507	277	word	Se	Calò	Na	Olo	Hio	Calò	Na	Olo	Hio							
-508	277	word	Secco	Crin	Odufodufo	Has	Caachihi	Crin	Odufodufo	Has	Caachihi							J. S. A. Van Dissel
-509	277	word	Secco	Crin	Odufodufo	Hora	Caachihi	Crin	Odufodufo	Hora	Caachihi							J. S. A. Van Dissel
-510	277	word	Sedersi	Dudò	Dadaau	Hundul	Ehècu	Dudò	Dadaau	Hundul	Ehècu						M--duduk	
-511	277	word	Seguire	Turut	Oo	Manghihutton	Aioo	Turut	Oo	Manghihutton	Aioo							J. S. A. Van Dissel
-512	277	word	Seguire	Icut	Oo	Manghihutton	Aioo	Icut	Oo	Manghihutton	Aioo							J. S. A. Van Dissel
-513	277	word	Sempre	Salalu	Gofuheza	Sai	Bodo	Salalu	Gofuheza	Sai	Bodo							J. S. A. Van Dissel
-514	277	word	Sentire	Me rasa sacchè	Af<i>o</i>ch<i>o</i>	Malla	Chèoba iaua	Me rasa sacchè	Afocho	Malla	Chèoba iaua						M--merasa sacchè	J. S. A. Van Dissel
-515	277	word	Sera	Petang	Owi	Na bot	Nama huma	Petang	Owi	Na bot	Nama huma							J. S. A. Van Dissel
-516	277	word	Sete	Dahaga	Aw<i>o</i>chi d<i>o</i>d<i>o</i>	Manguwas	Echihoa	Dahaga	Awochi dodo	Manguwas	Echihoa							J. S. A. Van Dissel
-517	277	word	Sete	Haus	Aw<i>o</i>chi d<i>o</i>d<i>o</i>	Manguwas	Echihoa	Haus	Awochi dodo	Manguwas	Echihoa							J. S. A. Van Dissel
-518	277	word	Sì	Ia	E	Olo	Ò	Ia	E	Olo	Ò							
-519	277	word	Simile	Sama giugá	Simané	So<i>ng</i>on	Panacona	Sama giugá	Simané	Songon	Panacona						GPWR--Reciprocal (?)	
-520	277	word	Sinistra	Chirí	Gambera	Hambirang	Eèpe	Chirí	Gambera	Hambirang	Eèpe							J. S. A. Van Dissel
-521	277	word	Si può andare	Bolè pighí	Tola latoro	Ra lao	Uahapè	Bolè pighí	Tola latoro	Ra lao	Uahapè							J. S. A. Van Dissel
-522	277	word	Sole	Mata ari	Lúo	Mata ni ari	Bacacaho	Mata ari	Lúo	Mata ni ari	Bacacaho							J. S. A. Van Dissel
-523	277	word	Soltanto	Sa hagia	Ha	Tombal	Eia	Sa hagia	Ha	Tombal	Eia							J. S. A. Van Dissel
-524	277	word	Somigliare	Be rupa sama			Panacona	Be rupa sama			Panacona						GPWR--Reciprocal (?)	
-525	277	word	Somigliare	Be rupa sama			Panacona	Be rupa sama			Panacona						M--berupa sama	
-526	277	word	Sopracciglio	Cheni<i>ng</i>		Salibon	Ecufele baca	Chening		Salibon	Ecufele baca							J. S. A. Van Dissel
-527	277	word	Sordo	Peca	Afiso	Ne<i>ng</i>el	Capihoro	Peca	Afiso	Nengel	Capihoro							J. S. A. Van Dissel
-528	278	word	Sorella	Sudára prampuán	Talifus<i>o</i> alawe	Iboto	Eaha ehòda	Sudára prampuán	Talifuso alawe	Iboto	Eaha ehòda							
-529	278	word	Sorella	Sudára prampuán	Talifus<i>o</i> alawe	Haha<rm=""maggiore"">	Eaha ehòda	Sudára prampuán	Talifuso alawe	Haha	Eaha ehòda			maggiore				
-530	278	word	Sorella	Sudára prampuán	Talifus<i>o</i> alawe	Anghi<rm=""minore"">	Eaha ehòda	Sudára prampuán	Talifuso alawe	Anghi	Eaha ehòda			minore				
-531	278	word	Sospendere	Gantó<i>ng</i>	Tawi²	Gantu<i>ng</i>	Paraia	Gantóng	Tawi²	Gantung	Paraia						GPWR--Reciprocal (?)	
-532	278	word	Spalla	Bahu	Alisi	Abara	Ami²	Bahu	Alisi	Abara	Ami²							J. S. A. Van Dissel
-533	278	word	Spazzare	Sapú	Bezini	Mangapusi	Ehoari	Sapú	Bezini	Mangapusi	Ehoari							J. S. A. Van Dissel
-534	278	word	Spazzatura	Sapuán	Sasáo	Te	Chèlo²	Sapuán	Sasáo	Te	Chèlo²							J. S. A. Van Dissel
-535	278	word	Speranza	Haráp	Faotona		Ahecù	Haráp	Faotona		Ahecù							
-536	278	word	Spirito	Antú	Bèchu	Begu	Ecoè	Antú	Bèchu	Begu	Ecoè							J. S. A. Van Dissel
-537	278	word	Sposare	Cawín	Fangowálu	Sappur	Pahona	Cawín	Fangowálu	Sappur	Pahona							
-538	278	word	Sputare	Meludáh	Menghedilo	Marsitidgiur	Aheito	Meludáh	Menghedilo	Marsitidgiur	Aheito							
-539	278	word	Stancarsi	Paiá	Erege d<i>o</i>d<i>o</i>	Pajah	Capiaca	Paiá	Erege dodo	Pajah	Capiaca							
-540	278	word	Star seduto	Berdudo Bintáng	Mudadao D<i>o</i>fi	Morsonggopan Bittang	Ahecu Cahomimi	Berdudo Bintáng	Mudadao Dofi	Morsonggopan Bittang	Ahecu Cahomimi						M--berduduk bintáng (?)	J. S. A. Van Dissel
-541	278	word	Stracciare	Mentciaríc	Manica	Suwac	Capica	Mentciaríc	Manica	Suwac	Capica							J. S. A. Van Dissel
-542	278	word	Strada	Gialán	Lala	Dalan	Ecò	Gialán	Lala	Dalan	Ecò						I--<pos=""noun"">	J. S. A. Van Dissel
-543	278	word	Stranutire	Bersín	Baho	Barsi	Eapacu	Bersín	Baho	Barsi	Eapacu							J. S. A. Van Dissel
-544	278	word	Stregato dal diavolo	Chená giin	Nifachico	Manginsona	Enocuè	Chená giin	Nifachico	Manginsona	Enocuè							
-545	278	word	Stritolare	Túmbuc	Muta	Mangulatac	Bachechè	Túmbuc	Muta	Mangulatac	Bachechè							J. S. A. Van Dissel
-546	278	word	Stupirsi	Heirán	D<i>o</i>d<i>o</i> mate		Eachidà	Heirán	Dodo mate		Eachidà							
-547	278	word	Subito	Sebentár	Dania	Tocchinnai	Paniha	Sebentár	Dania	Tocchinnai	Paniha						GPWR--Reciprocal (?)	
-548	278	word	Suo	Dia púnia	Nia		Eharudia	Dia púnia	Nia		Eharudia							
-549	278	word	Superfluo	Limpah	L<i>o</i>ra		Echienia	Limpah	Lora		Echienia							
-550	278	word	Svegliarsi	Bangún		Tarsungul	Baharo	Bangún		Tarsungul	Baharo							
-551	278	word	Tagliare	Poton	Laforo	Manangoi	Huca	Poton	Laforo	Manangoi	Huca							J. S. A. Van Dissel
-552	278	word	Tagliar barba	Ciucur	Laforo gambi		Moonè	Ciucur	Laforo gambi		Moonè							
-553	278	word	Tagliar boschi	Poton rimbu	Fanaba		Eápia	Poton rimbu	Fanaba		Eápia							
-554	278	word	Tagliente	Tagiám	Atar<i>o</i>	Mangiris	Eorodia	Tagiám	Ataro	Mangiris	Eorodia							
-555	278	word	Temere	Tacút	Moghichi	Bijar	Caho	Tacút	Moghichi	Bijar	Caho							
-556	278	word	Temuto	Tacút acan dia	Cabúa		Coeue	Tacút acan dia	Cabúa		Coeue							
-557	278	word	Terra	Tana	Tano	Tano	Elopo	Tana	Tano	Tano	Elopo							
-558	278	word	Terremoto	Goiáng tana	Durú	Lalo	Edihio	Goiáng tana	Durú	Lalo	Edihio							
-559	278	word	Testa	Capala	Hog<i>o</i>	Ulu	Euru	Capala	Hogo	Ulu	Euru							
-560	278	word	Testa	Capala	Hog<i>o</i>	Ulu	Epua ulu	Capala	Hogo	Ulu	Epua ulu							
-561	278	word	Testimonio	Sacsí	Sano<i>ng</i>oni	Si tindangi	Ecaca chipuoa	Sacsí	Sanongoni	Si tindangi	Ecaca chipuoa							J. S. A. Van Dissel
-562	278	word	Testimonianza	Hal ber sacsí	Lafaduhu		Epuha euba	Hal ber sacsí	Lafaduhu		Epuha euba						M--hal bersacsí	
-563	278	word	Testimonianza	Hal ber sacsí	Lafaduhu		Eho uba	Hal ber sacsí	Lafaduhu		Eho uba						M--hal bersacsí	
-564	278	word	Tetto di casa	Bumbo<i>ng</i>	Bulu nomo	Tarup		Bumbong	Bulu nomo	Tarup								
-565	278	word	Tetto di casa	Atap	Bulu nomo	Tarup		Atap	Bulu nomo	Tarup								
-566	278	word	Timido	Penactú	Atau	Biiar	Ucania	Penactú	Atau	Biiar	Ucania							J. S. A. Van Dissel
-567	278	word	Tirar pietre	Lutar batú	Latebu gara	Mangalutarhon	Eabuaa	Lutar batú	Latebu gara	Mangalutarhon	Eabuaa							J. S. A. Van Dissel
-568	278	word	Torcia	Damar	D<i>o</i>god<i>o</i>go	Sulu²	Ehaenui	Damar	Dogodogo	Sulu²	Ehaenui							J. S. A. Van Dissel
-569	279	word	Tormentare	Meniachít	Mamacao		Baridaha aho	Meniachít	Mamacao		Baridaha aho							
-570	279	word	Tossire	Batúc	Mochehacheha	Bntuc	Ehe	Batúc	Mochehacheha	Bntuc	Ehe							J. S. A. Van Dissel
-571	279	word	Trattative matrimoniali	Porgiangián cawín	Famalúa li		Chipenanau	Porgiangián cawín	Famalúa li		Chipenanau						M--perjanjian kawin	
-572	279	word	Tremare (di terremoto)	Goiá<i>ng</i>		Humuntal		Goiáng		Humuntal								
-573	279	word	Tremare				Cheachininichi				Cheachininichi							
-574	279	word	Trovare	Dapát	Nis<i>o</i>ndra	Mandapot	Pacoha	Dapát	Nisondra	Mandapot	Pacoha						GPWR--reciprocal (?)	
-575	279	word	Tutti	Samognia	Fefu	Saluhutna	Chidara	Samognia	Fefu	Saluhutna	Chidara							
-576	279	word	Unghia	Cucú	Saa	Nuhu	Canuúnu	Cucú	Saa	Nuhu	Canuúnu							
-577	279	word	Unghia	Cucú	Saa	Nuhu	Eca uapo	Cucú	Saa	Nuhu	Eca uapo							
-578	279	word	Uomo	Orang	Niha	Giolma	Caca	Orang	Niha	Giolma	Caca							
-579	279	word	Uovo	Telor	Adúlo	Pira	Iara	Telor	Adúlo	Pira	Iara							
-580	279	word	Utero	Pe<i>ng</i>anacán	Naha nono	Paranahan	Caacheo	Penganacán	Naha nono	Paranahan	Caacheo							
-581	279	word	Utile	Berguna	Ta uno	Buwat	Eharuca	Berguna	Ta uno	Buwat	Eharuca							
-582	279	word	Ubriaco	Mabúc	Mabú		Eipuru	Mabúc	Mabú		Eipuru							
-583	279	word	Uccello	Buróng	Fòfo	Pidong	Cheèpa	Buróng	Fòfo	Pidong	Cheèpa							
-584	279	word	Uccidere	Bunú	Famunu	Mamunu	Pacahalè	Bunú	Famunu	Mamunu	Pacahalè						GPWR--reciprocal (?)	
-585	279	word	Uguale	Sama	Faoma	So<i>ng</i>on	Panacona	Sama	Faoma	Songon	Panacona						GPWR--reciprocal (?)	
-586	279	word	Va bene	Baíc	Lau	Ima dengan	Abaua	Baíc	Lau	Ima dengan	Abaua							J. S. A. Van Dissel
-587	279	word	Vaiolato	Bertciapúc	Bahibahino		Capochepeche	Bertciapúc	Bahibahino		Capochepeche							
-588	279	word	Vaiolo	Tciaciar			Pacunuio	Tciaciar			Pacunuio						GPWR--reciprocal (?)	
-589	279	word	Vai via	Pighí	Mofano	Ale mundur do laho do	Uaha nooni	Pighí	Mofano	Ale mundur do laho do	Uaha nooni							
-590	279	word	Valoroso	Braní	Amui	Begu	Chèoba elà ibudia	Braní	Amui	Begu	Chèoba elà ibudia							
-591	279	word	Vomitare	Muntah		Marompas	Cheoa	Muntah		Marompas	Cheoa							
-592	279	word	Vecchio	Tua	Atúa	Matua	Capu	Tua	Atúa	Matua	Capu							
-593	279	word	Vedere	Liát	Mamaigi	Mornida	Pua	Liát	Mamaigi	Mornida	Pua							
-594	279	word	Vedova	Bálu prampuán	Laha mbanùa	Balu	Cabócu	Bálu prampuán	Laha mbanùa	Balu	Cabócu							
-595	279	word	Vedovo	Bálu lachí lachí	Si mate donga		Purihio	Bálu lachí lachí	Si mate donga		Purihio							
-596	279	word	Vedova che sposa il cognato				Eacoupi				Eacoupi							
-597	279	word	Vedova che sposa un altro uomo				Caaia				Caaia							
-598	279	word	Vedovo che ripiglia moglie				Pohòchi				Pohòchi							
-599	279	word	Vendere	Giuál	Nifamawe	Morgadis	Pachèli enia	Giuál	Nifamawe	Morgadis	Pachèli enia							
-600	279	word	Vendetta	Pembalasán	Falaombalo	Balos	Uacoli ipurudia	Pembalasán	Falaombalo	Balos	Uacoli ipurudia							
-601	279	word	Venire	Data<i>ng</i>	Aine	Ro	Chicababa	Datang	Aine	Ro	Chicababa							
-602	279	word	Vento	Agnín	Angi	Alogo	Chiu	Agnín	Angi	Alogo	Chiu							J. S. A. Van Dissel
-603	279	word	Ventre	Prút	Talu	Butuc	Echiteica	Prút	Talu	Butuc	Echiteica							
-604	279	word	Ventre	Prút	Talu	Butuc	Echida	Prút	Talu	Butuc	Echida							
-605	280	word	Ventre grosso	Prút besár	Búto	Mabubu		Prút besár	Búto	Mabubu								
-606	280	word	Vergine	Gadís	Ono alave	Dara	Poenamu	Gadís	Ono alave	Dara	Poenamu							J. S. A. Van Dissel
-607	280	word	Verità	Butúl	Si duhu	Tutu	Ecunana	Butúl	Si duhu	Tutu	Ecunana							
-608	280	word	Verso	Ca	Hò	Di	Ca	Ca	Hò	Di	Ca							
-609	280	word	Viaggiare	Gialán	Wecoli	Mordalan	Caha cacocoi	Gialán	Wecoli	Mordalan	Caha cacocoi							
-610	280	word	Vieni qui (detto a cani)				Ií				Ií							
-611	280	word	Vieni qui (detto a persone)	Mári sini		Ale tu son ma ho	Adeé	Mári sini		Ale tu son ma ho	Adeé							
-612	280	word	Villaggio	Campó<i>ng</i>	Banúa	Huta	Caudara	Campóng	Banúa	Huta	Caudara							
-613	280	word	Vincitore	Galíb	Sim<i>o</i>na	Na manaluhon	Eeò	Galíb	Simona	Na manaluhon	Eeò							J. S. A. Van Dissel
-614	280	word	Viso	Mucá	Bava		Ebaca	Mucá	Bava		Ebaca							
-615	280	word	Vivente	Idup	Auri	Mangulu	Coda	Idup	Auri	Mangulu	Coda							
-616	280	word	Voce	Suara	Li		Egi	Suara	Li		Egi							
-617	280	word	Volare	Terbáng	Hunombo	Haba<i>ng</i>	Eèpa	Terbáng	Hunombo	Habang	Eèpa							
-618	280	word	Volere	Mau	Bech<i>o</i>ggu	Olo	Uacahapi	Mau	Bechoggu	Olo	Uacahapi							J. S. A. Van Dissel
-619	280	word	Vuoto	Cossóng	L<i>o</i> osisi	Rumar	Chèoba hela	Cossóng	Lo osisi	Rumar	Chèoba hela							J. S. A. Van Dissel
-620	280	word	Zanzara grande	Gnemúc	Die	Ronhit	Echia	Gnemúc	Die	Ronhit	Echia						M--Gemúc	J. S. A. Van Dissel
-621	280	word	Zanzara piccola		Die	Ronhit	Comau		Die	Ronhit	Comau							J. S. A. Van Dissel
-622	280	word	Zappa	Ciancúl	Facu	Tambila<i>ng</i>		Ciancúl	Facu	Tambilang							E--It is interesting that Enggano does not have the word for Malay ""cangkul"" when Modigliani visited.	J. S. A. Van Dissel
-623	280	word	Zoppicare	Timpáng	Ahelahela	Mempanghempang	Caracoiaidia	Timpáng	Ahelahela	Mempanghempang	Caracoiaidia							
-624	280	word	Zucca	Labu	Laidgiu		Edoa	Labu	Laidgiu		Edoa							
-625	280	number	Uno	Satú	Sára	Sáda	Cáic	Satú	Sára	Sáda	Cáic							
-626	280	number	Due	Duá	Duá	Dúwa	Adúwa	Duá	Duá	Dúwa	Adúwa							
-627	280	number	Tre	Tiga	T<i>o</i>lu	Tòlu	Acòlu	Tiga	Tolu	Tòlu	Acòlu							
-628	280	number	Quattro	Ampát	<i>O</i>fa	Opat	Afa	Ampát	Ofa	Opat	Afa							
-629	280	number	Cinque	Líma	Lima	Líma	Alíme	Líma	Lima	Líma	Alíme							
-630	280	number	Sei	Annám	On<i>o</i>	Onòm	Cachíne	Annám	Ono	Onòm	Cachíne							
-631	280	number	Sette	Tugiú	Fitu	Pítu	Alíme adúwa	Tugiú	Fitu	Pítu	Alíme adúwa							
-632	280	number	Otto	Dlapán	Walu	Uwálu	Afa afa	Dlapán	Walu	Uwálu	Afa afa							
-633	280	number	Nove	Sembilan	Siwa	Sija	Alíme afa	Sembilan	Siwa	Sija	Alíme afa							
-634	280	number	Dieci	Sapúlu	Fúlu	Sappúlu	Cahafúlo	Sapúlu	Fúlu	Sappúlu	Cahafúlo							
-635	280	number	Undici	Sablás (Satú blás)	Fele dgiára	Sappúlu sada	Cahafúlo cáic	Sablás (Satú blás)	Fele dgiára	Sappúlu sada	Cahafúlo cáic							
-636	280	number	Dodici	Duablás	Felendrúa	Sappúlu duwa	Cahafúlo adúwa	Duablás	Felendrúa	Sappúlu duwa	Cahafúlo adúwa							
-637	280	number	Tredici	Tigablás	Fele d<i>o</i>lu	Sappúlu tolu	Cahafúlo acòlu	Tigablás	Fele dolu	Sappúlu tolu	Cahafúlo acòlu							
-638	280	number	Quattordici	Ampatblás	Fele <i>o</i>fa	Sappúlu opat	Cahafúlo afá	Ampatblás	Fele ofa	Sappúlu opat	Cahafúlo afá						E--The given, original form ""Cagafúlo afá"" could be a typo for ""Cahafúlo afá""?, which is more consistent with the other related forms.	
-639	280	number	Quindici	Limablás	Fele lima	Sappúlu lima	Cahafúlo alíme	Limablás	Fele lima	Sappúlu lima	Cahafúlo alíme							
-640	280	number	Sedici	Annamblás	Fele <i>o</i>no	Sappúlu onom	Cahafúlo cachine	Annamblás	Fele ono	Sappúlu onom	Cahafúlo cachine							
-641	281	number	Diciassette	Tugiublás	Fele witu	Sappúlu pitu	Cahafúlo alíme adúwa	Tugiublás	Fele witu	Sappúlu pitu	Cahafúlo alíme adúwa							
-642	281	number	Diciotto	Dlapanblás	Fele walu	Sappúlu uwalu	Cahafúlo afa afa	Dlapanblás	Fele walu	Sappúlu uwalu	Cahafúlo afa afa							
-643	281	number	Diciannove	Sembilanblás	Fele dgíwa	Sappúlu sija	Cahafúlo alíme áfa	Sembilanblás	Fele dgíwa	Sappúlu sija	Cahafúlo alíme áfa							
-644	281	number	Venti	Dua pulu	Dua wulu	Dúwa púlu	Cáic taccá	Dua pulu	Dua wulu	Dúwa púlu	Cáic taccá							
-645	281	number	Trenta	Tiga pulo	T<i>o</i>lungafulu	Tòlu púlu	Cáic taccá cahafúlo	Tiga pulo	Tolungafulu	Tòlu púlu	Cáic taccá cahafúlo						M--The given, original form ""Tiga pulo"" could have been a typo for ""Tiga pulu""?, which is more consistent with the other related forms.	
-646	281	number	Novanta	Sembílan pulu	Siwa wulu	Sija púlu	Afa taccá cahafúlo	Sembílan pulu	Siwa wulu	Sija púlu	Afa taccá cahafúlo							
-647	281	number	Cento	Saratus	Otu	Saratus	Alíme taccá	Saratus	Otu	Saratus	Alíme taccá							
-648	281	number	Duecento	Duaratus	Duangaotu	Dúwaratus	Cahafúlo taccá	Duaratus	Duangaotu	Dúwaratus	Cahafúlo taccá							
-649	281	number	Mille	Saribu	H<i>o</i>n<i>o</i>	Saribu	Alíme cahafúlo taccá	Saribu	Hono	Saribu	Alíme cahafúlo taccá							
+ID	PAGE	TYPE	ITALIAN	MALAY	NIAS	TOBA_BATAK	ENGGANO	MALAY_1	NIAS_1	TOBA_BATAK_1	ENGGANO_1	NIAS_1_rm	TOBA_BATAK_1_sem	TOBA_BATAK_1_rm	ENGGANO_1_sem	ENGGANO_1_rm	REMARK	TOBA_BATAK_SOURCE	nias_TOKEN	nias_TRANSLITERATED	nias_COMMON	toba_batak_TOKEN	toba_batak_TRANSLITERATED	toba_batak_COMMON	ENO_TOKEN	ENO_TRANSLITERATED	ENO_COMMON
+1	266	word	Abbassare	Turún	Manada	Munduc	Paúho tópo	Turún	Manada	Munduc	Paúho tópo							J. S. A. Van Dissel	m a n a d a	m a n a d a	manada	m u n d u c	m u n d u k	munduk	p aú h o # t ó p o	p a:u h o # t o p o	pa:uho topo
+2	266	word	Abbastanza	Sampé	Irugi	Siccop	Ho abacó	Sampé	Irugi	Siccop	Ho abacó							J. S. A. Van Dissel	i r u gi	i r u c	iruc	s i cc o p	s i k o p	sikop	h o # a b a c ó	h o # a b a k o	ho abako
+3	266	word	Abbastanza (Non)	Tida sampé	Loo irugi	Sowada siccop	Chèfe iabacó	Tida sampé	Loo irugi	Sowada siccop	Chèfe iabacó							J. S. A. Van Dissel	l o o # i r u gi	l o o # i r u c	loo iruc	s o w a d a # s i cc o p	s o w a d a # s i k o p	sowada sikop	ch è f e # i a b a c ó	k E f e # i a b a k o	kEfe iabako
+4	266	word	Abitazione grande	Rúma besár	Banúa sebúa	Bagas na balga	Èuba	Rúma besár	Banúa sebúa	Bagas na balga	Èuba								b a n ú a # s e b ú a	b a n u a # s e b u a	banua sebua	b a g a s # n a # b a l g a	b a j a s # n a # b a l j a	bajas na balja	è u b a	E u b a	Euba
+5	266	word	Accanto	Decát	Ba<i>ng</i>ái	Giala	Panéna	Decát	Bangái	Giala	Panéna						GPWR--In Modigliani's table, certain sound segment(s) is italicised and through out this machine-readable form of the table I tag it for easing further computational processing.		b a n g á i	b a n j a i	banjai	gi a l a	c a l a	cala	p a n é n a	p a n e n a	panena
+6	266	word	Accesso , piaga	Bárah	Fao sa	Cugang	Baro	Bárah	Fao sa	Cugang	Baro								f ao # s a	f a:o # s a	fa:o sa	c u g a n g	k u j a n j	kujanj	b a r o	b a r o	baro
+7	266	word	Accettare	Trimá	Tema halo	Mandgialo	Menaá	Trimá	Tema halo	Mandgialo	Menaá							J. S. A. Van Dissel	t e m a # h a l o	t e m a # h a l o	tema halo	m a n d gi a l o	m a n d c a l o	mandcalo	m e n a á	m e n a a	menaa
+8	266	word	Accomodare	Membaíchi	Gama²	Mangundgiam	Paríe ecáua	Membaíchi	Gama²	Mangundgiam	Paríe ecáua							J. S. A. Van Dissel	g a m a ²	j a m a ²	jama²	m a n g u n d gi a m	m a n j u n d c a m	manjundcam	p a r í e # e c á u a	p a r i e # e k a u a	parie ekaua
+9	266	word	Acqua	Aier	Idáno	Aec	Ebò	Aier	Idáno	Aec	Ebò								i d á n o	i d a n o	idano	ae c	a:e k	a:ek	e b ò	e b O	ebO
+10	266	word	Acqua mare	Aier laút		Aec ni tao<rm=""veramente acqua di lago perchè i Toba non hanno mare"">	Lebo²	Aier laút		Aec ni tao	Lebo²			veramente acqua di lago perchè i Toba non hanno mare				J. S. A. Van Dissel		⁇	⁇	ae c # n i # t ao	a:e k # n i # t a:o	a:ek ni ta:o	l e b o ²	l e b o ²	lebo²
+11	266	word	Acqua mare	Aier laút		Aec ni tao<rm=""veramente acqua di lago perchè i Toba non hanno mare"">	Eué	Aier laút		Aec ni tao	Eué			veramente acqua di lago perchè i Toba non hanno mare				J. S. A. Van Dissel		⁇	⁇	ae c # n i # t ao	a:e k # n i # t a:o	a:ek ni ta:o	e u é	e u e	eue
+12	266	word	Acquavite	Arrác	Sópi	Tuwac<rm=""veramente vino di palma"">	Minu²	Arrác	Sópi	Tuwac	Minu²			veramente vino di palma				J. S. A. Van Dissel	s ó p i	s o p i	sopi	t u w a c	t u w a k	tuwak	m i n u ²	m i n u ²	minu²
+13	266	word	A destra	Sablá canán	Ba gambólo	Hipas	Epeèca	Sablá canán	Ba gambólo	Hipas	Epeèca						GPWR--When in the Toba-Batak side there are two words and one is marked with asterisk, like in this line, I include the asterisk and keep including the content of the TOBA-BATAK-SOURCE.	J. S. A. Van Dissel	b a # g a m b ó l o	b a # j a m b o l o	ba jambolo	h i p a s	h i p a s	hipas	e p e è c a	e p e E k a	epeEka
+14	266	word	A destra	Sablá canán	Ba gambólo	Malo *	Epeèca	Sablá canán	Ba gambólo	Malo *	Epeèca						GPWR--When in the Toba-Batak side there are two words and one is marked with asterisk, like in this line, I include the asterisk and keep including the content of the TOBA-BATAK-SOURCE.	J. S. A. Van Dissel	b a # g a m b ó l o	b a # j a m b o l o	ba jambolo	m a l o # *	m a l o # *	malo *	e p e è c a	e p e E k a	epeEka
+15	266	word	Addio vado via	Tabé sáia pulá<i>ng</i>		Bar bówa bova	Teeó oacahána	Tabé sáia puláng		Bar bówa bova	Teeó oacahána							J. S. A. Van Dissel		⁇	⁇	b a r # b ó w a # b o v a	b a r # b o w a # b o v a	bar bowa bova	t e e ó # o a c a h á n a	t e e o # o a k a h a n a	teeo oakahana
+16	266	word	Affamato	Lépar	Olòfo	Male	Eabahágnia	Lépar	Olòfo	Male	Eabahágnia								o l ò f o	o l O f o	olOfo	m a l e	m a l e	male	e a b a h á gn i a	e a b a h a ñ i a	eabahañia
+17	266	word	Affamato	Lépar	Olòfo	Male	Ecògnio	Lépar	Olòfo	Male	Ecògnio								o l ò f o	o l O f o	olOfo	m a l e	m a l e	male	e c ò gn i o	e k O ñ i o	ekOñio
+18	266	word	Affamato	Lépar	Olòfo	Tonga	Eabahágnia	Lépar	Olòfo	Tonga	Eabahágnia								o l ò f o	o l O f o	olOfo	t o n g a	t o n j a	tonja	e a b a h á gn i a	e a b a h a ñ i a	eabahañia
+19	266	word	Affamato	Lépar	Olòfo	Tonga	Ecògnio	Lépar	Olòfo	Tonga	Ecògnio								o l ò f o	o l O f o	olOfo	t o n g a	t o n j a	tonja	e c ò gn i o	e k O ñ i o	ekOñio
+20	266	word	Affilare	Menagiám	Mondráli	Patadgiom	Baia eèa	Menagiám	Mondráli	Patadgiom	Baia eèa								m o n d r á l i	m o n d r a l i	mondrali	p a t a d gi o m	p a t a d c o m	patadcom	b ai a # e è a	b a:i a # e E a	ba:ia eEa
+21	266	word	Affilare	Gossò	Mondráli	Patadgiom	Baia eèa	Gossò	Mondráli	Patadgiom	Baia eèa								m o n d r á l i	m o n d r a l i	mondrali	p a t a d gi o m	p a t a d c o m	patadcom	b ai a # e è a	b a:i a # e E a	ba:ia eEa
+22	266	word	Ago per reti e stuoie	Giárum gíari<i>ng</i>		Panut	Eparòpa	Giárum gíaring		Panut	Eparòpa									⁇	⁇	p a n u t	p a n u t	panut	e p a r ò p a	e p a r O p a	eparOpa
+23	266	word	Agro	Asám	Simai		Húche	Asám	Simai		Húche								s i m ai	s i m a:i	sima:i		⁇	⁇	h ú ch e	h u k e	huke
+24	266	word	Aiutare	Tolò<i>ng</i>	Folulúi	Paingothon	Cuhái	Tolòng	Folulúi	Paingothon	Cuhái								f o l u l ú i	f o l u l u i	folului	p ai n g o t h o n	p a:i n j o t h o n	pa:injothon	c u h á i	k u h a i	kuhai
+25	266	word	Ala	Saiáp	Casafi	Habong	Eápo cheèpa	Saiáp	Casafi	Habong	Eápo cheèpa								c a s a f i	k a s a f i	kasafi	h a b o n g	h a b o n j	habonj	e á p o # ch e è p a	e a p o # k e E p a	eapo keEpa
+26	266	word	Albero	Pohún caiú	T<i>o</i>laghéu	Batang	Eiocúo	Pohún caiú	Tolaghéu	Batang	Eiocúo								t o l a g h é u	t o l a j h e u	tolajheu	b a t a n g	b a t a n j	batanj	ei o c ú o	e:i o k u o	e:iokuo
+27	266	word	Albero	Pohún caiú	T<i>o</i>laghéu	Batang	Epúno ito	Pohún caiú	Tolaghéu	Batang	Epúno ito								t o l a g h é u	t o l a j h e u	tolajheu	b a t a n g	b a t a n j	batanj	e p ú n o # i t o	e p u n o # i t o	epuno ito
+28	266	word	Albero di cocco	Pohún clapá	Ohi	Négiur	Epúno pó	Pohún clapá	Ohi	Négiur	Epúno pó							J. S. A. Van Dissel	o h i	o h i	ohi	n é gi u r	n e c u r	necur	e p ú n o # p ó	e p u n o # p o	epuno po
+29	266	word	Al di qua	Sablá sini	Tano andré	Di son	Mahatcè	Sablá sini	Tano andré	Di son	Mahatcè							J. S. A. Van Dissel	t a n o # a n d r é	t a n o # a n d r e	tano andre	d i # s o n	d i # s o n	di son	m a h a t c è	m a h a t k E	mahatkE
+30	266	word	Al di là	Sablá sána	Gièfo	Di adúwi	Maha io	Sablá sána	Gièfo	Di adúwi	Maha io							J. S. A. Van Dissel	gi è f o	c E f o	cEfo	d i # a d ú w i	d i # a d u w i	di aduwi	m a h a # i o	m a h a # i o	maha io
+31	266	word	Aldisopra	Diatás	Si ava	Di atas	Itcébe	Diatás	Si ava	Di atas	Itcébe							J. S. A. Van Dissel	s i # a v a	s i # a v a	si ava	d i # a t a s	d i # a t a s	di atas	i t c é b e	i t k e b e	itkebe
+32	266	word	Allattare	Menúsu	Di fèinu	Pa susu hon	Pecocòbu	Menúsu	Di fèinu	Pa susu hon	Pecocòbu							J. S. A. Van Dissel	d i # f è i n u	d i # f E i n u	di fEinu	p a # s u s u # h o n	p a # s u s u # h o n	pa susu hon	p e c o c ò b u	p e k o k O b u	pekokObu
+33	266	word	Alto	Tenghí	Alawa	Timbo	Tgiebè	Tenghí	Alawa	Timbo	Tgiebè								a l a w a	a l a w a	alawa	t i m b o	t i m b o	timbo	tgi e b è	c e b E	cebE
+34	266	word	Alzare peso	Naèc	Monooi	Sihanti<i>ng</i>	Balalát	Naèc	Monooi	Sihanting	Balalát								m o n o o i	m o n o o i	monooi	s i h a n t i n g	s i x a n t i n j	sixantinj	b a l a l á t	b a l a l a t	balalat
+35	266	word	Alzarsi al mattino	Bangún	Maóso sangahúlo wòngi	Tarsungul	Maénu	Bangún	Maóso sangahúlo wòngi	Tarsungul	Maénu							J. S. A. Van Dissel	m aó s o # s a n g a h ú l o # w ò n gi	m a:o s o # s a n j a h u l o # w O n c	ma:oso sanjahulo wOnc	t a r s u n g u l	t a r s u n j u l	tarsunjul	m aé n u	m a:e n u	ma:enu
+36	266	word	Amare (d'amore)	Beráhi	Omássidi	Manghasi	Cahapí	Beráhi	Omássidi	Manghasi	Cahapí								o m á s s i d i	o m a s s i d i	omassidi	m a n g h a s i	m a n j h a s i	manjhasi	c a h a p í	k a h a p i	kahapi
+37	266	word	Amaro	Páit	Afeto	Pait	Cadahóai	Páit	Afeto	Pait	Cadahóai							J. S. A. Van Dissel	a f e t o	a f e t o	afeto	p ai t	p a:i t	pa:it	c a d a h ó ai	k a d a h o a:i	kadahoa:i
+38	266	word	Amico	Sóbat	Aw<i>o</i>	Ale²	Paano	Sóbat	Awo	Ale²	Paano								a w o	a w o	awo	a l e ²	a l e ²	ale²	p a a n o	p a a n o	paano
+39	266	word	Amico	Sóbat	Aw<i>o</i>	Ale²	Opahawo	Sóbat	Awo	Ale²	Opahawo								a w o	a w o	awo	a l e ²	a l e ²	ale²	o p a h a w o	o p a h a w o	opahawo
+40	266	word	Ammalarsi	Giatò sacchè	Tobali mafóch<i>o</i>	Malla	Cabapuho anòca	Giatò sacchè	Tobali mafócho	Malla	Cabapuho anòca							J. S. A. Van Dissel	t o b a l i # m a f ó c h o	t o b a l i # m a f o k h o	tobali mafokho	m a l l a	m a l l a	malla	c a b a p u h o # a n ò c a	k a b a p u h o # a n O k a	kabapuho anOka
+41	266	word	Ancóra	Laghi	To	Dape	Nuchi pecaia	Laghi	To	Dape	Nuchi pecaia								t o	t o	to	d a p e	d a p e	dape	n u ch i # p e c ai a	n u k i # p e k a:i a	nuki peka:ia
+42	266	word	Ancóra	Laghi	To	Podo	Nuchi pecaia	Laghi	To	Podo	Nuchi pecaia								t o	t o	to	p o d o	p o d o	podo	n u ch i # p e c ai a	n u k i # p e k a:i a	nuki peka:ia
+43	266	word	Andare	Pighi	M<i>o</i>i	Lao	Uacahai	Pighi	Moi	Lao	Uacahai								m o i	m o i	moi	l ao	l a:o	la:o	u a c a h ai	u a k a h a:i	uakaha:i
+44	266	word	Andare	Pighi	M<i>o</i>i	Lao	Uaha	Pighi	Moi	Lao	Uaha								m o i	m o i	moi	l ao	l a:o	la:o	u a h a	u a h a	uaha
+45	266	word	Andare	Pighi	M<i>o</i>i	Laho	Uacahai	Pighi	Moi	Laho	Uacahai								m o i	m o i	moi	l a h o	l a h o	laho	u a c a h ai	u a k a h a:i	uakaha:i
+46	266	word	Andare	Pighi	M<i>o</i>i	Laho	Uaha	Pighi	Moi	Laho	Uaha								m o i	m o i	moi	l a h o	l a h o	laho	u a h a	u a h a	uaha
+47	267	word	Andare a caccia	Pighi membúru	M<i>o</i>i malu	Marburu	Uuaha puo còio	Pighi membúru	Moi malu	Marburu	Uuaha puo còio								m o i # m a l u	m o i # m a l u	moi malu	m a r b u r u	m a r b u r u	marburu	u u a h a # p u o # c òi o	u u a h a # p u o # k o:i o	uuaha puo ko:io
+48	267	word	Andare a casa	Pighi ca rúma	M<i>o</i> ch<i>o</i> banúa	Lao tu bagas	Caha iubaha	Pighi ca rúma	Mo cho banúa	Lao tu bagas	Caha iubaha								m o # c h o # b a n ú a	m o # k h o # b a n u a	mo kho banua	l ao # t u # b a g a s	l a:o # t u # b a j a s	la:o tu bajas	c a h a # i u b a h a	k a h a # i u b a h a	kaha iubaha
+49	267	word	Andare a dormire	Pighi tídor	M<i>o</i>i mor<i>o</i>	Lao modom	Uaha cabaùho	Pighi tídor	Moi moro	Lao modom	Uaha cabaùho								m o i # m o r o	m o i # m o r o	moi moro	l ao # m o d o m	l a:o # m o d o m	la:o modom	u a h a # c a b aù h o	u a h a # k a b a:u h o	uaha kaba:uho
+50	267	word	Andare a prendere	Pighi ambil	Mahalo	Mangalap	Uaha mena	Pighi ambil	Mahalo	Mangalap	Uaha mena								m a h a l o	m a h a l o	mahalo	m a n g a l a p	m a n j a l a p	manjalap	u a h a # m e n a	u a h a # m e n a	uaha mena
+51	267	word	Andare in punta di piedi	Pighi plán plán	Menana		Bacòcu parihòpi	Pighi plán plán	Menana		Bacòcu parihòpi								m e n a n a	m e n a n a	menana		⁇	⁇	b a c ò c u # p a r i h ò p i	b a k O k u # p a r i x O p i	bakOku parixOpi
+52	267	word	Andar via	Pulá<i>ng</i>	Mufano	Laho	Abuha puaka	Puláng	Mufano	Laho	Abuha puaka								m u f a n o	m u f a n o	mufano	l a h o	l a h o	laho	a b u h a # p u a k a	a b u h a # p u a k a	abuha puaka
+53	267	word	Andar via	Pulá<i>ng</i>	Mufano	Borhat	Abuha puaka	Puláng	Mufano	Borhat	Abuha puaka								m u f a n o	m u f a n o	mufano	b o r h a t	b o r h a t	borhat	a b u h a # p u a k a	a b u h a # p u a k a	abuha puaka
+54	267	word	Anello	Tcíntcín	Leiduru	Tittin	Carèo apo	Tcíntcín	Leiduru	Tittin	Carèo apo								l ei d u r u	l e:i d u r u	le:iduru	t i t t i n	t i t t i n	tittin	c a r è o # a p o	k a r E o # a p o	karEo apo
+55	267	word	Animale acquatico	Binatáng aier	Saliwa liwa ba nidano		Cheèpa<rm=""veramente uccello"">	Binatáng aier	Saliwa liwa ba nidano		Cheèpa					veramente uccello			s a l i w a # l i w a # b a # n i d a n o	s a l i w a # l i w a # b a # n i d a n o	saliwa liwa ba nidano		⁇	⁇	ch e è p a	k e E p a	keEpa
+56	267	word	Animale terrestre	Binatáng tána	Saliwa liwa ba dan<i>o</i>		Láio iane	Binatáng tána	Saliwa liwa ba dano		Láio iane								s a l i w a # l i w a # b a # d a n o	s a l i w a # l i w a # b a # d a n o	saliwa liwa ba dano		⁇	⁇	l á i o # i a n e	l a i o # i a n e	laio iane
+57	267	word	Antenato	Nenèc	Furugo	Si tuwa tuwa	Napuaca	Nenèc	Furugo	Si tuwa tuwa	Napuaca								f u r u g o	f u r u j o	furujo	s i # t u w a # t u w a	s i # t u w a # t u w a	si tuwa tuwa	n a p u a c a	n a p u a k a	napuaka
+58	267	word	Antenato	Orang dulú	Furugo	Si tuwa tuwa	Napuaca	Orang dulú	Furugo	Si tuwa tuwa	Napuaca								f u r u g o	f u r u j o	furujo	s i # t u w a # t u w a	s i # t u w a # t u w a	si tuwa tuwa	n a p u a c a	n a p u a k a	napuaka
+59	267	word	Antipatia	Caghelían	D<i>o</i>d<i>o</i> ide ide		Cheòba ehapi<rm=""veramente non voglio"">	Caghelían	Dodo ide ide		Cheòba ehapi					veramente non voglio			d o d o # i d e # i d e	d o d o # i d e # i d e	dodo ide ide		⁇	⁇	ch e ò b a # e h a p i	k e O b a # e h a p i	keOba ehapi
+60	267	word	Anulare	Giari manis	Turu mani	Giari mánis	Eu apo	Giari manis	Turu mani	Giari mánis	Eu apo								t u r u # m a n i	t u r u # m a n i	turu mani	gi a r i # m á n i s	c a r i # m a n i s	cari manis	e u # a p o	e u # a p o	eu apo
+61	267	word	Anulare del piede	Giari cachi			Eminuáe	Giari cachi			Eminuáe									⁇	⁇		⁇	⁇	e m i n u á e	e m i n u a e	eminuae
+62	267	word	Appassito	Burus	Aleu	Langan	Cabaoha	Burus	Aleu	Langan	Cabaoha								a l e u	a l e u	aleu	l a n g a n	l a n j a n	lanjan	c a b ao h a	k a b a:o h a	kaba:oha
+63	267	word	Aprire	Bucà	Teboca	Mamuha	Bucae	Bucà	Teboca	Mamuha	Bucae								t e b o c a	t e b o k a	teboka	m a m u h a	m a m u h a	mamuha	b u c ae	b u k a:e	buka:e
+64	267	word	Arco	Pana		Dano<rm=""Sanscritto"">	Ea pica<rm=""termine usato dai Malesi"">	Pana		Dano	Ea pica			Sanscritto		termine usato dai Malesi				⁇	⁇	d a n o	d a n o	dano	e a # p i c a	e a # p i k a	ea pika
+65	267	word	Arrampicarsi	Naèc	Lamanu	Matugarang	Ua cabaccò	Naèc	Lamanu	Matugarang	Ua cabaccò								l a m a n u	l a m a n u	lamanu	m a t u g a r a n g	m a t u j a r a n j	matujaranj	u a # c a b a cc ò	u a # k a b a k O	ua kabakO
+66	267	word	Arrampicarsi	Naèc	Lamanu	Matugarang	Uah itgebe ié ecuo	Naèc	Lamanu	Matugarang	Uah itgebe ié ecuo								l a m a n u	l a m a n u	lamanu	m a t u g a r a n g	m a t u j a r a n j	matujaranj	u a h # i tg e b e # i é # e c u o	u a h # i c e b e # i e # e k u o	uah icebe ie ekuo
+67	267	word	Arrampicarsi	Memangiát	Lamanu	Matugarang	Ua cabaccò	Memangiát	Lamanu	Matugarang	Ua cabaccò								l a m a n u	l a m a n u	lamanu	m a t u g a r a n g	m a t u j a r a n j	matujaranj	u a # c a b a cc ò	u a # k a b a k O	ua kabakO
+68	267	word	Arrampicarsi	Memangiát	Lamanu	Matugarang	Uah itgebe ié ecuo	Memangiát	Lamanu	Matugarang	Uah itgebe ié ecuo								l a m a n u	l a m a n u	lamanu	m a t u g a r a n g	m a t u j a r a n j	matujaranj	u a h # i tg e b e # i é # e c u o	u a h # i c e b e # i e # e k u o	uah icebe ie ekuo
+69	267	word	Arrostire	Pangán	Nisala	Manaoc	Pabuha eòbi	Pangán	Nisala	Manaoc	Pabuha eòbi								n i s a l a	n i s a l a	nisala	m a n ao c	m a n a:o k	mana:ok	p a b u h a # e ò b i	p a b u h a # e O b i	pabuha eObi
+70	267	word	Arrostire pollo	Pangán aiam	Fanunu manu		Cadicorè	Pangán aiam	Fanunu manu		Cadicorè								f a n u n u # m a n u	f a n u n u # m a n u	fanunu manu		⁇	⁇	c a d i c o r è	k a d i k o r E	kadikorE
+71	267	word	Asciare legno	Me<i>ng</i>hirís	Laòho òho	Manahil	Ocaca cuo	Menghirís	Laòho òho	Manahil	Ocaca cuo								l aò h o # ò h o	l a:O h o # O h o	la:Oho Oho	m a n a h i l	m a n a h i l	manahil	o c a c a # c u o	o k a k a # k u o	okaka kuo
+72	267	word	Asciare legno	Me<i>ng</i>hirís	Laòho òho	Manarangsáng	Ocaca cuo	Menghirís	Laòho òho	Manarangsáng	Ocaca cuo								l aò h o # ò h o	l a:O h o # O h o	la:Oho Oho	m a n a r a n g s á n g	m a n a r a n j s a n j	manaranjsanj	o c a c a # c u o	o k a k a # k u o	okaka kuo
+73	267	word	Asciugare	Menapù	Ogò<i>o</i>	Mangunsilát	Bacaáia	Menapù	Ogòo	Mangunsilát	Bacaáia								o g ò o	o j O o	ojOo	m a n g u n s i l á t	m a n j u n s i l a t	manjunsilat	b a c a á i a	b a k a a i a	bakaaia
+74	267	word	A sinistra	Sabla chiri	Ba gabèra	Hambiráng	Albaca	Sabla chiri	Ba gabèra	Hambiráng	Albaca								b a # g a b è r a	b a # j a b E r a	ba jabEra	h a m b i r á n g	h a m b i r a n j	hambiranj	a l b a c a	a l b a k a	albaka
+75	267	word	Aspettare	Tongo	Labalobalói	Pa ima hon	Naahapé	Tongo	Labalobalói	Pa ima hon	Naahapé								l a b a l o b a l ó i	l a b a l o b a l o i	labalobaloi	p a # i m a # h o n	p a # i m a # h o n	pa ima hon	n a a h a p é	n a a h a p e	naahape
+76	267	word	Assassinare	Bunù	Búnu	Mamunu	Pacahalé	Bunù	Búnu	Mamunu	Pacahalé								b ú n u	b u n u	bunu	m a m u n u	m a m u n u	mamunu	p a c a h a l é	p a k a h a l e	pakahale
+77	267	word	Atap	Atáp	Bulu sago		Prururu èuba	Atáp	Bulu sago		Prururu èuba								b u l u # s a g o	b u l u # s a j o	bulu sajo		⁇	⁇	p r u r u r u # è u b a	p r u r u r u # E u b a	prururu Euba
+78	267	word	Attaccare	Tambát		Gantú<i>ng</i>	Paraiá	Tambát		Gantúng	Paraiá									⁇	⁇	g a n t ú n g	j a n t u n j	jantunj	p a r ai á	p a r a:i a	para:ia
+79	267	word	Attaccare	Icát		Gantú<i>ng</i>	Paraiá	Icát		Gantúng	Paraiá									⁇	⁇	g a n t ú n g	j a n t u n j	jantunj	p a r ai á	p a r a:i a	para:ia
+80	267	word	Attaccare	Gantú<i>ng</i>		Gantú<i>ng</i>	Paraiá	Gantúng		Gantúng	Paraiá									⁇	⁇	g a n t ú n g	j a n t u n j	jantunj	p a r ai á	p a r a:i a	para:ia
+81	267	word	Avambraccio	La<i>ng</i>án		Ta<i>ng</i>án	Ehoachia	Langán		Tangán	Ehoachia							J. S. A. Van Dissel		⁇	⁇	t a n g á n	t a n j a n	tanjan	e h o a ch i a	e h o a k i a	ehoakia
+82	267	word	Avambraccio	Ta<i>ng</i>án		Ta<i>ng</i>án	Ehoachia	Tangán		Tangán	Ehoachia							J. S. A. Van Dissel		⁇	⁇	t a n g á n	t a n j a n	tanjan	e h o a ch i a	e h o a k i a	ehoakia
+83	267	word	Avere	Ada	So	Mamoiòp	Chichía	Ada	So	Mamoiòp	Chichía							J. S. A. Van Dissel	s o	s o	so	m a m o i ò p	m a m o i O p	mamoiOp	ch i ch í a	k i k i a	kikia
+84	267	word	Avere (Non …)	Tida ada		Dan adon	Chèoba	Tida ada		Dan adon	Chèoba									⁇	⁇	d a n # a d o n	d a n # a d o n	dan adon	ch è o b a	k E o b a	kEoba
+85	267	word	Aver fame	Lepar	Olófo	Rapar	Coignó	Lepar	Olófo	Rapar	Coignó								o l ó f o	o l o f o	olofo	r a p a r	r a p a r	rapar	c o i gn ó	k o i ñ o	koiño
+86	267	word	Aver fastidi	Ada susa	D<i>o</i>d<i>o</i> bucala		Cucubahu	Ada susa	Dodo bucala		Cucubahu								d o d o # b u c a l a	d o d o # b u k a l a	dodo bukala		⁇	⁇	c u c u b a h u	k u k u b a h u	kukubahu
+87	268	word	Aver sete	Berdahaga	D<i>o</i>d<i>o</i> odufo dufo	Manguwás	Chibo	Berdahaga	Dodo odufo dufo	Manguwás	Chibo							J. S. A. Van Dissel	d o d o # o d u f o # d u f o	d o d o # o d u f o # d u f o	dodo odufo dufo	m a n g u w á s	m a n j u w a s	manjuwas	ch i b o	k i b o	kibo
+88	268	word	Azzuffarsi	Berpráng	Fasóndra	Manghinsadái	Bacai	Berpráng	Fasóndra	Manghinsadái	Bacai								f a s ó n d r a	f a s o n d r a	fasondra	m a n g h i n s a d á i	m a n j h i n s a d a i	manjhinsadai	b a c ai	b a k a:i	baka:i
+89	268	word	Azzuffarsi	Berpukúl	Fasóndra	Manghinsadái	Bacai	Berpukúl	Fasóndra	Manghinsadái	Bacai								f a s ó n d r a	f a s o n d r a	fasondra	m a n g h i n s a d á i	m a n j h i n s a d a i	manjhinsadai	b a c ai	b a k a:i	baka:i
+90	268	word	Baciare	Ciúm	Agombáva	Mangúmma	Manu	Ciúm	Agombáva	Mangúmma	Manu							J. S. A. Van Dissel	a g o m b á v a	a j o m b a v a	ajombava	m a n g ú m m a	m a n j u m m a	manjumma	m a n u	m a n u	manu
+91	268	word	Baffi	Misèi	Bumbèwe	Gumis	Pruru ripodia	Misèi	Bumbèwe	Gumis	Pruru ripodia							J. S. A. Van Dissel	b u m b è w e	b u m b E w e	bumbEwe	g u m i s	j u m i s	jumis	p r u r u # r i p o d i a	p r u r u # r i p o d i a	pruru ripodia
+92	268	word	Baffi	Misèi	Bumbèwe	Misè *	Pruru ripodia	Misèi	Bumbèwe	Misè *	Pruru ripodia							J. S. A. Van Dissel	b u m b è w e	b u m b E w e	bumbEwe	m i s è # *	m i s E # *	misE *	p r u r u # r i p o d i a	p r u r u # r i p o d i a	pruru ripodia
+93	268	word	Bagaglio	Barang²	Fasoro	Barang²	Dobu	Barang²	Fasoro	Barang²	Dobu							J. S. A. Van Dissel	f a s o r o	f a s o r o	fasoro	b a r a n g ²	b a r a n j ²	baranj²	d o b u	d o b u	dobu
+94	268	word	Bagnarsi	Mandi	Mondri	Maridi	Baèche	Mandi	Mondri	Maridi	Baèche							J. S. A. Van Dissel	m o n d r i	m o n d r i	mondri	m a r i d i	m a r i d i	maridi	b aè ch e	b a:e k e	ba:eke
+95	268	word	Bagno	Tampát mandi	Ba’a vemóndri		Ebo iaha baèche	Tampát mandi	Ba’a vemóndri		Ebo iaha baèche							J. S. A. Van Dissel	b a ’ a # v e m ó n d r i	b a ' a # v e m o n d r i	ba'a vemondri		⁇	⁇	e b o # i a h a # b aè ch e	e b o # i a h a # b a:e k e	ebo iaha ba:eke
+96	268	word	Ballo donne	Menari	Manari	Manortòr	Maenu cahora	Menari	Manari	Manortòr	Maenu cahora								m a n a r i	m a n a r i	manari	m a n o r t ò r	m a n o r t O r	manortOr	m ae n u # c a h o r a	m a:e n u # k a h o r a	ma:enu kahora
+97	268	word	Ballo uomini	Menari	Maulèia	Manortòr	Maenu cahora	Menari	Maulèia	Manortòr	Maenu cahora								m au l è i a	m a:u l E i a	ma:ulEia	m a n o r t ò r	m a n o r t O r	manortOr	m ae n u # c a h o r a	m a:e n u # k a h o r a	ma:enu kahora
+98	268	word	Bambini	Anac	Iraòno	Dacdanac	Pamo	Anac	Iraòno	Dacdanac	Pamo								i r aò n o	i r a:O n o	ira:Ono	d a c d a n a c	d a k d a n a k	dakdanak	p a m o	p a m o	pamo
+99	268	word	Bambini	Anac	Iraòno	Dacdanac	Epa	Anac	Iraòno	Dacdanac	Epa								i r aò n o	i r a:O n o	ira:Ono	d a c d a n a c	d a k d a n a k	dakdanak	e p a	e p a	epa
+100	268	word	Bambù	Bulu	Léwu	Bulu	Abeha	Bulu	Léwu	Bulu	Abeha								l é w u	l e w u	lewu	b u l u	b u l u	bulu	a b e h a	a b e h a	abeha
+101	268	word	Bambù per attingere acqua	Garighíc	Cole²	Poti<i>ng</i>	Enoà	Garighíc	Cole²	Poting	Enoà								c o l e ²	k o l e ²	kole²	p o t i n g	p o t i n j	potinj	e n o à	e n o a	enoa
+102	268	word	Bambù per attingere acqua	Chendí	Cole²	Poti<i>ng</i>	Enoà	Chendí	Cole²	Poting	Enoà								c o l e ²	k o l e ²	kole²	p o t i n g	p o t i n j	potinj	e n o à	e n o a	enoa
+103	268	word	Banane	Pisa<i>ng</i>	Bae	Gaol	Eígio	Pisang	Bae	Gaol	Eígio								b ae	b a:e	ba:e	g ao l	j a:o l	ja:ol	eí gi o	e:i c o	e:ico
+104	268	word	Banco di corallo	Cara<i>ng</i>án	Gozo	Hará<i>ng</i><rm=""dal malese"">	Eèa	Carangán	Gozo	Haráng	Eèa			dal malese				J. S. A. Van Dissel	g o z o	j o z o	jozo	h a r á n g	h a r a n j	haranj	e è a	e E a	eEa
+105	268	word	Barattare	Tocar	Fatucao	Paubahon	Pachèli	Tocar	Fatucao	Paubahon	Pachèli								f a t u c ao	f a t u k a:o	fatuka:o	p au b a h o n	p a:u b a h o n	pa:ubahon	p a ch è l i	p a k E l i	pakEli
+106	268	word	Barba	Gia<i>ng</i>gút		Giangút	Prururu ipo	Gianggút		Giangút	Prururu ipo							J. S. A. Van Dissel		⁇	⁇	gi a n g ú t	c a n j u t	canjut	p r u r u r u # i p o	p r u r u r u # i p o	prururu ipo
+107	268	word	Barba a punta	Gia<i>ng</i>gút pangiá<i>ng</i>	Gambi	Giangút	Prururu chidía	Gianggút pangiáng	Gambi	Giangút	Prururu chidía							J. S. A. Van Dissel	g a m b i	j a m b i	jambi	gi a n g ú t	c a n j u t	canjut	p r u r u r u # ch i d í a	p r u r u r u # k i d i a	prururu kidia
+108	268	word	Barba a sulle guance	Tciambá<i>ng</i>	R<i>o</i>ng<i>o</i>	Banc		Tciambáng	Rongo	Banc								J. S. A. Van Dissel	r o n g o	r o n j o	ronjo	b a n c	b a n k	bank		⁇	⁇
+109	268	word	Barca a remi	Prau daiúng	Dundráha	Sòlu	Elòha	Prau daiúng	Dundráha	Sòlu	Elòha								d u n d r á h a	d u n d r a h a	dundraha	s ò l u	s O l u	sOlu	e l ò h a	e l O h a	elOha
+110	268	word	Barca a vela	Prau laiár	Owo solòio	Pindís		Prau laiár	Owo solòio	Pindís								J. S. A. Van Dissel	o w o # s o l òi o	o w o # s o l o:i o	owo solo:io	p i n d í s	p i n d i s	pindis		⁇	⁇
+111	268	word	Basta ǃ	Sampé	Noá	Sappè	Abacochía	Sampé	Noá	Sappè	Abacochía								n o á	n o a	noa	s a p p è	s a p p E	sappE	a b a c o ch í a	a b a k o k i a	abakokia
+112	268	word	Bastantemente	Pada	Tob<i>o</i>no	Pala	Abóha	Pada	Tobono	Pala	Abóha							J. S. A. Van Dissel	t o b o n o	t o b o n o	tobono	p a l a	p a l a	pala	a b ó h a	a b o h a	aboha
+113	268	word	Bello	Bagús	S<i>o</i>chi	Dengán	Cáua	Bagús	Sochi	Dengán	Cáua								s o ch i	s o k i	soki	d e n g á n	d e n j a n	denjan	c á u a	k a u a	kaua
+114	268	word	Bere	Minúm	Famadu	Manhinúm	Baigiòho	Minúm	Famadu	Manhinúm	Baigiòho								f a m a d u	f a m a d u	famadu	m a n h i n ú m	m a n h i n u m	manhinum	b ai gi ò h o	b a:i c O h o	ba:icOho
+115	268	word	Bianco	Putí	Afusi	Bottar	Caudáhio	Putí	Afusi	Bottar	Caudáhio								a f u s i	a f u s i	afusi	b o t t a r	b o t t a r	bottar	c au d á h i o	k a:u d a h i o	ka:udahio
+116	268	word	Bocca	Mulút	Bava	Bawa	Eca	Mulút	Bava	Bawa	Eca								b a v a	b a v a	bava	b a w a	b a w a	bawa	e c a	e k a	eka
+117	268	word	Braccialetto	Gla<i>ng</i> Ta<i>ng</i>án	Aia mbul<i>o</i>cha	Lèa<i>ng</i>	Chinacò	Glang Tangán	Aia mbulocha	Lèang	Chinacò								ai a # m b u l o c h a	a:i a # m b u l o k h a	a:ia mbulokha	l è a n g	l E a n j	lEanj	ch i n a c ò	k i n a k O	kinakO
+118	268	word	Braccio	La<i>ng</i>án	Siu	Gólang	Apo	Langán	Siu	Gólang	Apo							J. S. A. Van Dissel	s i u	s i u	siu	g ó l a n g	j o l a n j	jolanj	a p o	a p o	apo
+119	268	word	Braccio	La<i>ng</i>án	Siu	Gólang	Earahaori	Langán	Siu	Gólang	Earahaori							J. S. A. Van Dissel	s i u	s i u	siu	g ó l a n g	j o l a n j	jolanj	e a r a h ao r i	e a r a h a:o r i	earaha:ori
+120	268	word	Braccio	Ta<i>ng</i>án	Siu	Gólang	Apo	Tangán	Siu	Gólang	Apo							J. S. A. Van Dissel	s i u	s i u	siu	g ó l a n g	j o l a n j	jolanj	a p o	a p o	apo
+121	268	word	Braccio	Ta<i>ng</i>án	Siu	Gólang	Earahaori	Tangán	Siu	Gólang	Earahaori							J. S. A. Van Dissel	s i u	s i u	siu	g ó l a n g	j o l a n j	jolanj	e a r a h ao r i	e a r a h a:o r i	earaha:ori
+122	268	word	Bramare	Succá	Uhalo	Haghi iòt	Cahápi	Succá	Uhalo	Haghi iòt	Cahápi								u h a l o	u h a l o	uhalo	h a g h i # i ò t	h a j h i # i O t	hajhi iOt	c a h á p i	k a h a p i	kahapi
+123	268	word	Bramare	Succá	Uhalo	Ra	Cahápi	Succá	Uhalo	Ra	Cahápi								u h a l o	u h a l o	uhalo	r a	r a	ra	c a h á p i	k a h a p i	kahapi
+124	268	word	Brivido di febbre	Gelugút sebáb demóm	Otu²	Manghirgir	Eoho	Gelugút sebáb demóm	Otu²	Manghirgir	Eoho								o t u ²	o t u ²	otu²	m a n g h i r gi r	m a n j h i r c r	manjhircr	e o h o	e o h o	eoho
+125	268	word	Bruciare (Cucinare troppo)	Bacar	Acògi	Masac	Bachíco	Bacar	Acògi	Masac	Bachíco								a c ò gi	a k O c	akOc	m a s a c	m a s a k	masak	b a ch í c o	b a k i k o	bakiko
+126	268	word	Bruciare (Cucinare troppo)	Bacar	Acògi	Gor	Bachíco	Bacar	Acògi	Gor	Bachíco								a c ò gi	a k O c	akOc	g o r	j o r	jor	b a ch í c o	b a k i k o	bakiko
+127	268	word	Bruciare	Ber<i>ng</i>ala	Atunu	Matutúng	Cachíco	Berngala	Atunu	Matutúng	Cachíco								a t u n u	a t u n u	atunu	m a t u t ú n g	m a t u t u n j	matutunj	c a ch í c o	k a k i k o	kakiko
+128	268	word	Brutto	Burúc	L<i>o</i> s<i>o</i>chi	Dae	Chioha	Burúc	Lo sochi	Dae	Chioha								l o # s o ch i	l o # s o k i	lo soki	d ae	d a:e	da:e	ch i o h a	k i o h a	kioha
+129	268	word	Bucar orecchi	Mentciutciúc teli<i>ng</i>a	Latogi	Manombúe	Caricu cariahadía	Mentciutciúc telinga	Latogi	Manombúe	Caricu cariahadía								l a t o gi	l a t o c	latoc	m a n o m b ú e	m a n o m b u e	manombue	c a r i c u # c a r i a h a d í a	k a r i k u # k a r i a h a d i a	kariku kariahadia
+130	268	word	Buio	Glap	Agomigómi	Bot	Capòpo elòpo	Glap	Agomigómi	Bot	Capòpo elòpo								a g o m i g ó m i	a j o m i j o m i	ajomijomi	b o t	b o t	bot	c a p ò p o # e l ò p o	k a p O p o # e l O p o	kapOpo elOpo
+131	269	word	Buono	Bagús	S<i>o</i>chi	Dengán	Cáua	Bagús	Sochi	Dengán	Cáua								s o ch i	s o k i	soki	d e n g á n	d e n j a n	denjan	c á u a	k a u a	kaua
+132	269	word	Buttar via	Buáng		Mandangurhón	Epacúa	Buáng		Mandangurhón	Epacúa									⁇	⁇	m a n d a n g u r h ó n	m a n d a n j u r h o n	mandanjurhon	e p a c ú a	e p a k u a	epakua
+133	269	word	Cacciare	Membúru	Memòlo	Marburu	Bacocòi ebèo iahiacúe<sem=""col cane"">	Membúru	Memòlo	Marburu	Bacocòi ebèo iahiacúe				col cane				m e m ò l o	m e m O l o	memOlo	m a r b u r u	m a r b u r u	marburu	b a c o c òi # e b è o # i a h i a c ú e	b a k o k o:i # e b E o # i a h i a k u e	bakoko:i ebEo iahiakue
+134	269	word	Cacciare	Membúru	Memòlo	Marburu	Cabacocòi ba buru còio<sem=""senza cane"">	Membúru	Memòlo	Marburu	Cabacocòi ba buru còio				senza cane				m e m ò l o	m e m O l o	memOlo	m a r b u r u	m a r b u r u	marburu	c a b a c o c òi # b a # b u r u # c òi o	k a b a k o k o:i # b a # b u r u # k o:i o	kabakoko:i ba buru ko:io
+135	269	word	Cadere	Giatò	Aèchu	Madabu	Capunda	Giatò	Aèchu	Madabu	Capunda								aè c h u	a:e k h u	a:ekhu	m a d a b u	m a d a b u	madabu	c a p u n d a	k a p u n d a	kapunda
+136	269	word	Caldo	Panás	Aucu	Las	Cadodohodi	Panás	Aucu	Las	Cadodohodi								au c u	a:u k u	a:uku	l a s	l a s	las	c a d o d o h o d i	k a d o d o h o d i	kadodohodi
+137	269	word	Calpestare	Banti<i>ng</i> cachí	Fam<i>o</i>r<i>o</i> salo	Mamolnat	Chichidi	Banting cachí	Famoro salo	Mamolnat	Chichidi						GPWR--I change the italics tagging with dash for ease of the use of the Keyman IPA keyboard		f a m o r o # s a l o	f a m o r o # s a l o	famoro salo	m a m o l n a t	m a m o l n a t	mamolnat	ch i ch i d i	k i k i d i	kikidi
+138	269	word	Cammino (via)	Gialán	Lala		Ecò	Gialán	Lala		Ecò								l a l a	l a l a	lala		⁇	⁇	e c ò	e k O	ekO
+139	269	word	Campo	Ládang		Ladang	Epíia	Ládang		Ladang	Epíia									⁇	⁇	l a d a n g	l a d a n j	ladanj	e p í i a	e p i i a	epiia
+140	269	word	Campo	Ládang		Gimma	Epíia	Ládang		Gimma	Epíia									⁇	⁇	gi m m a	c m m a	cmma	e p í i a	e p i i a	epiia
+141	269	word	Cane	Angi<i>ng</i>	Asso	Asu	Eapí	Anging	Asso	Asu	Eapí								a s s o	a s s o	asso	a s u	a s u	asu	e a p í	e a p i	eapi
+142	269	word	Cane	Angi<i>ng</i>	Asso	Asu	Ebèo	Anging	Asso	Asu	Ebèo								a s s o	a s s o	asso	a s u	a s u	asu	e b è o	e b E o	ebEo
+143	269	word	Canna da zucchro	Tébu	Tòbu	Tobu	Enaio	Tébu	Tòbu	Tobu	Enaio								t ò b u	t O b u	tObu	t o b u	t o b u	tobu	e n ai o	e n a:i o	ena:io
+144	269	word	Canto	Gnagní	Fanúno	Ende	Bahora	Gnagní	Fanúno	Ende	Bahora								f a n ú n o	f a n u n o	fanuno	e n d e	e n d e	ende	b a h o r a	b a h o r a	bahora
+145	269	word	Capelli	Rambút	Bu	Obu	Pruru ulu	Rambút	Bu	Obu	Pruru ulu								b u	b u	bu	o b u	o b u	obu	p r u r u # u l u	p r u r u # u l u	pruru ulu
+146	269	word	Capelli	Rambút	Bu	Obu	Pruru uru	Rambút	Bu	Obu	Pruru uru								b u	b u	bu	o b u	o b u	obu	p r u r u # u r u	p r u r u # u r u	pruru uru
+147	269	word	Capire	Mongartí	D<i>o</i>d<i>o</i> m<i>o</i>i	Mangantusi	Pahoiá	Mongartí	Dodo moi	Mangantusi	Pahoiá								d o d o # m o i	d o d o # m o i	dodo moi	m a n g a n t u s i	m a n j a n t u s i	manjantusi	p a h o i á	p a h o i a	pahoia
+148	269	word	Carestia	Clapáran	Lofo	Haleon	Chèoba eonai mèhe	Clapáran	Lofo	Haleon	Chèoba eonai mèhe								l o f o	l o f o	lofo	h a l e o n	h a l e o n	haleon	ch è o b a # e o n ai # m è h e	k E o b a # e o n a:i # m E h e	kEoba eona:i mEhe
+149	269	word	Carne	Daghin	Nagòle	Giuhut	Hela	Daghin	Nagòle	Giuhut	Hela								n a g ò l e	n a j O l e	najOle	gi u h u t	c u h u t	cuhut	h e l a	h e l a	hela
+150	269	word	Caro (prezzo)	Mahál	Ibua boli	Rarang	Mocoli	Mahál	Ibua boli	Rarang	Mocoli								i b u a # b o l i	i b u a # b o l i	ibua boli	r a r a n g	r a r a n j	raranj	m o c o l i	m o k o l i	mokoli
+151	269	word	Casa	Rúma	Omo	Bagas	Èuba	Rúma	Omo	Bagas	Èuba								o m o	o m o	omo	b a g a s	b a j a s	bajas	è u b a	E u b a	Euba
+152	269	word	Casa	Rúma	Omo	Bagas	Cacario	Rúma	Omo	Bagas	Cacario								o m o	o m o	omo	b a g a s	b a j a s	bajas	c a c a r i o	k a k a r i o	kakario
+153	269	word	Cattivo	Giahát	L<i>o</i> s<i>o</i>chi	Rowa	Ibu	Giahát	Lo sochi	Rowa	Ibu								l o # s o ch i	l o # s o k i	lo soki	r o w a	r o w a	rowa	i b u	i b u	ibu
+154	269	word	Cercare	Ciari	Fanáo	Lulu	Bahoari	Ciari	Fanáo	Lulu	Bahoari								f a n á o	f a n a o	fanao	l u l u	l u l u	lulu	b a h o a r i	b a h o a r i	bahoari
+155	269	word	Cesta	Bacul	Raga²	Ampa<i>ng</i>	Eorae	Bacul	Raga²	Ampang	Eorae								r a g a ²	r a j a ²	raja²	a m p a n g	a m p a n j	ampanj	e o r ae	e o r a:e	eora:e
+156	269	word	Cesta	Bacul	Raga²	Ampa<i>ng</i>	Eunèche	Bacul	Raga²	Ampang	Eunèche								r a g a ²	r a j a ²	raja²	a m p a n g	a m p a n j	ampanj	e u n è ch e	e u n E k e	eunEke
+157	269	word	Cesta	Bacul	Raga²	Si gurup	Eorae	Bacul	Raga²	Si gurup	Eorae								r a g a ²	r a j a ²	raja²	s i # g u r u p	s i # j u r u p	si jurup	e o r ae	e o r a:e	eora:e
+158	269	word	Cesta	Bacul	Raga²	Si gurup	Eunèche	Bacul	Raga²	Si gurup	Eunèche								r a g a ²	r a j a ²	raja²	s i # g u r u p	s i # j u r u p	si jurup	e u n è ch e	e u n E k e	eunEke
+159	269	word	Chiamare (per nome)	Memanghíl de<i>ng</i>án namá		Margowar	Ahadi	Memanghíl dengán namá		Margowar	Ahadi									⁇	⁇	m a r g o w a r	m a r j o w a r	marjowar	a h a d i	a h a d i	ahadi
+160	269	word	Chiamare	Panghil	Fagaoni	Mamigio	Ahadi	Panghil	Fagaoni	Mamigio	Ahadi								f a g ao n i	f a j a:o n i	faja:oni	m a m i gi o	m a m i c o	mamico	a h a d i	a h a d i	ahadi
+161	269	word	Chiedere	Minta	Fanòfu	Manuccun	Manunuhi	Minta	Fanòfu	Manuccun	Manunuhi								f a n ò f u	f a n O f u	fanOfu	m a n u cc u n	m a n u k u n	manukun	m a n u n u h i	m a n u n u h i	manunuhi
+162	269	word	Cieco	Buta	Abòto h<i>o</i>r<i>o</i>	Pitung	Machene	Buta	Abòto horo	Pitung	Machene								a b ò t o # h o r o	a b O t o # h o r o	abOto horo	p i t u n g	p i t u n j	pitunj	m a ch e n e	m a k e n e	makene
+163	269	word	Ciglio	Bulu mata		Imbulu ni mata	Epruru baca	Bulu mata		Imbulu ni mata	Epruru baca									⁇	⁇	i m b u l u # n i # m a t a	i m b u l u # n i # m a t a	imbulu ni mata	e p r u r u # b a c a	e p r u r u # b a k a	epruru baka
+164	269	word	Cignale	Babí hútan		Dalu	Ecòio	Babí hútan		Dalu	Ecòio									⁇	⁇	d a l u	d a l u	dalu	e c òi o	e k o:i o	eko:io
+165	269	word	Cocco (Albero di)	Pohun clapá	Ohi	Negiur	Carahapò	Pohun clapá	Ohi	Negiur	Carahapò								o h i	o h i	ohi	n e gi u r	n e c u r	necur	c a r a h a p ò	k a r a h a p O	karahapO
+166	269	word	Cocco (Noce di)	Búa clapá	Bánio	Migior	Epò	Búa clapá	Bánio	Migior	Epò								b á n i o	b a n i o	banio	m i gi o r	m i c o r	micor	e p ò	e p O	epO
+167	269	word	Cocco (Noce di)	Búa clapá	Bánio	Migior	Huapò	Búa clapá	Bánio	Migior	Huapò								b á n i o	b a n i o	banio	m i gi o r	m i c o r	micor	h u a p ò	h u a p O	huapO
+168	269	word	Coccodrillo	Buwaia	Buáia	Buwaia	Cohoóca	Buwaia	Buáia	Buwaia	Cohoóca								b u á i a	b u a i a	buaia	b u w ai a	b u w a:i a	buwa:ia	c o h o ó c a	k o h o o k a	kohooka
+169	269	word	Coda	Ecor	Io	Ihur	Iidia	Ecor	Io	Ihur	Iidia								i o	i o	io	i h u r	i x u r	ixur	i i d i a	i i d i a	iidia
+170	269	word	Collera	Mará	F<i>o</i>nu	Giechel	Pahuna chideidia	Mará	Fonu	Giechel	Pahuna chideidia								f o n u	f o n u	fonu	gi e ch e l	c e k e l	cekel	p a h u n a # ch i d ei d i a	p a h u n a # k i d e:i d i a	pahuna kide:idia
+171	269	word	Collera	Mará	F<i>o</i>nu	Pusu	Pahuna chideidia	Mará	Fonu	Pusu	Pahuna chideidia								f o n u	f o n u	fonu	p u s u	p u s u	pusu	p a h u n a # ch i d ei d i a	p a h u n a # k i d e:i d i a	pahuna kide:idia
+172	269	word	Collo	Leher	Baghi	Ruccung	Eiú	Leher	Baghi	Ruccung	Eiú								b a g h i	b a j h i	bajhi	r u cc u n g	r u k u n j	rukunj	ei ú	e:i u	e:iu
+173	269	word	Collo	Leher	Baghi	Ruccung	Ehanua	Leher	Baghi	Ruccung	Ehanua								b a g h i	b a j h i	bajhi	r u cc u n g	r u k u n j	rukunj	e h a n u a	e h a n u a	ehanua
+174	269	word	Coltello	Pisò	Ballatu	Raut	Epèiti	Pisò	Ballatu	Raut	Epèiti								b a l l a t u	b a l l a t u	ballatu	r au t	r a:u t	ra:ut	e p è i t i	e p E i t i	epEiti
+175	269	word	Coltello	Pisò	Ballatu	Raut	Eao	Pisò	Ballatu	Raut	Eao								b a l l a t u	b a l l a t u	ballatu	r au t	r a:u t	ra:ut	e ao	e a:o	ea:o
+176	269	word	Coltello	Pisò	Ballatu	Raut	Eachiebara	Pisò	Ballatu	Raut	Eachiebara								b a l l a t u	b a l l a t u	ballatu	r au t	r a:u t	ra:ut	e a ch i e b a r a	e a k i e b a r a	eakiebara
+177	269	word	Coltello	Pisò	Ballatu	Rahi	Epèiti	Pisò	Ballatu	Rahi	Epèiti								b a l l a t u	b a l l a t u	ballatu	r a h i	r a h i	rahi	e p è i t i	e p E i t i	epEiti
+178	269	word	Coltello	Pisò	Ballatu	Rahi	Eao	Pisò	Ballatu	Rahi	Eao								b a l l a t u	b a l l a t u	ballatu	r a h i	r a h i	rahi	e ao	e a:o	ea:o
+179	269	word	Coltello	Pisò	Ballatu	Rahi	Eachiebara	Pisò	Ballatu	Rahi	Eachiebara								b a l l a t u	b a l l a t u	ballatu	r a h i	r a h i	rahi	e a ch i e b a r a	e a k i e b a r a	eakiebara
+180	269	word	Coltello	Pará<i>ng</i>	Ballatu	Raut	Epèiti	Paráng	Ballatu	Raut	Epèiti								b a l l a t u	b a l l a t u	ballatu	r au t	r a:u t	ra:ut	e p è i t i	e p E i t i	epEiti
+181	269	word	Coltello	Pará<i>ng</i>	Ballatu	Raut	Eao	Paráng	Ballatu	Raut	Eao								b a l l a t u	b a l l a t u	ballatu	r au t	r a:u t	ra:ut	e ao	e a:o	ea:o
+182	269	word	Coltello	Pará<i>ng</i>	Ballatu	Raut	Eachiebara	Paráng	Ballatu	Raut	Eachiebara								b a l l a t u	b a l l a t u	ballatu	r au t	r a:u t	ra:ut	e a ch i e b a r a	e a k i e b a r a	eakiebara
+183	269	word	Coltello	Pará<i>ng</i>	Ballatu	Rahi	Epèiti	Paráng	Ballatu	Rahi	Epèiti								b a l l a t u	b a l l a t u	ballatu	r a h i	r a h i	rahi	e p è i t i	e p E i t i	epEiti
+184	269	word	Coltello	Pará<i>ng</i>	Ballatu	Rahi	Eao	Paráng	Ballatu	Rahi	Eao								b a l l a t u	b a l l a t u	ballatu	r a h i	r a h i	rahi	e ao	e a:o	ea:o
+185	269	word	Coltello	Pará<i>ng</i>	Ballatu	Rahi	Eachiebara	Paráng	Ballatu	Rahi	Eachiebara								b a l l a t u	b a l l a t u	ballatu	r a h i	r a h i	rahi	e a ch i e b a r a	e a k i e b a r a	eakiebara
+186	269	word	Comando	Pasán	Oroisa	Mandoccon	Chihíua Comaná	Pasán	Oroisa	Mandoccon	Chihíua Comaná								o r o i s a	o r o i s a	oroisa	m a n d o cc o n	m a n d o k o n	mandokon	ch i h í u a # c o m a n á	k i x i u a # k o m a n a	kixiua komana
+187	270	word	Combattimento	Lawan	Falelé	Gora	Bapuru chia	Lawan	Falelé	Gora	Bapuru chia								f a l e l é	f a l e l e	falele	g o r a	j o r a	jora	b a p u r u # ch i a	b a p u r u # k i a	bapuru kia
+188	270	word	Come si ohiama ?	Apa namá	Hadia doi da	Aha nia gowarna	Eia heniène	Apa namá	Hadia doi da	Aha nia gowarna	Eia heniène								h a d i a # d o i # d a	h a d i a # d o i # d a	hadia doi da	a h a # n i a # g o w a r n a	a h a # n i a # j o w a r n a	aha nia jowarna	ei a # h e n i è n e	e:i a # h e n i E n e	e:ia heniEne
+189	270	word	Comniciare	Mulai	Mam<i>o</i>r<i>o</i>taig<i>o</i>	Hian	Apari echia	Mulai	Mamorotaigo	Hian	Apari echia								m a m o r o t ai g o	m a m o r o t a:i j o	mamorota:ijo	h i a n	h i a n	hian	a p a r i # e ch i a	a p a r i # e k i a	apari ekia
+190	270	word	Compassione	Cassián	Ebúa d<i>o</i>d<i>o</i>	Hassian	Pachinunái	Cassián	Ebúa dodo	Hassian	Pachinunái								e b ú a # d o d o	e b u a # d o d o	ebua dodo	h a s s i a n	h a s s i a n	hassian	p a ch i n u n á i	p a k i n u n a i	pakinunai
+191	270	word	Comprare	Blí	Mow<i>o</i>li	Manuhor	Èoli	Blí	Mowoli	Manuhor	Èoli								m o w o l i	m o w o l i	mowoli	m a n u h o r	m a n u h o r	manuhor	è o l i	E o l i	Eoli
+192	270	word	Conficcare	Memasáng	Faho	Pagò	Bacòia poco	Memasáng	Faho	Pagò	Bacòia poco								f a h o	f a h o	faho	p a g ò	p a j O	pajO	b a c òi a # p o c o	b a k o:i a # p o k o	bako:ia poko
+193	270	word	Congiungersi carnalmente	Sa tubuh	Faihi		Pahorai	Sa tubuh	Faihi		Pahorai								f ai h i	f a:i x i	fa:ixi		⁇	⁇	p a h o r ai	p a h o r a:i	pahora:i
+194	270	word	Conterie	Rupa rupa catcia	Mani²	Si mata	Lole²	Rupa rupa catcia	Mani²	Si mata	Lole²								m a n i ²	m a n i ²	mani²	s i # m a t a	s i # m a t a	si mata	l o l e ²	l o l e ²	lole²
+195	270	word	Coraggioso	Brani	Amui	Ma begu	Chèoba mahò	Brani	Amui	Ma begu	Chèoba mahò							J. S. A. Van Dissel	a m u i	a m u i	amui	m a # b e g u	m a # b e j u	ma beju	ch è o b a # m a h ò	k E o b a # m a h O	kEoba mahO
+196	270	word	Corda	Tali	Sináli	Riman	Bahoio	Tali	Sináli	Riman	Bahoio							J. S. A. Van Dissel	s i n á l i	s i n a l i	sinali	r i m a n	r i m a n	riman	b a h o i o	b a h o i o	bahoio
+197	270	word	Corda	Tali	Sináli	Holting *	Bahoio	Tali	Sináli	Holting *	Bahoio							J. S. A. Van Dissel	s i n á l i	s i n a l i	sinali	h o l t i n g # *	h o l t i n j # *	holtinj *	b a h o i o	b a h o i o	bahoio
+198	270	word	Corrente	Harus	Undro nidano	Su<i>ng</i>e	Ebò chèoba elà eodia	Harus	Undro nidano	Sunge	Ebò chèoba elà eodia								u n d r o # n i d a n o	u n d r o # n i d a n o	undro nidano	s u n g e	s u n j e	sunje	e b ò # ch è o b a # e l à # e o d i a	e b O # k E o b a # e l a # e o d i a	ebO kEoba ela eodia
+199	270	word	Corrente	Harus	Undro nidano	Aec	Ebò chèoba elà eodia	Harus	Undro nidano	Aec	Ebò chèoba elà eodia								u n d r o # n i d a n o	u n d r o # n i d a n o	undro nidano	ae c	a:e k	a:ek	e b ò # ch è o b a # e l à # e o d i a	e b O # k E o b a # e l a # e o d i a	ebO kEoba ela eodia
+200	270	word	Cosa è questo ?	Apa itu		Aha ma on	Eiah enione	Apa itu		Aha ma on	Eiah enione							J. S. A. Van Dissel		⁇	⁇	a h a # m a # o n	a h a # m a # o n	aha ma on	ei a h # e n i o n e	e:i a h # e n i o n e	e:iah enione
+201	270	word	Coscia	Paho		Hae hae	Eapalà	Paho		Hae hae	Eapalà							J. S. A. Van Dissel		⁇	⁇	h ae # h ae	h a:e # h a:e	ha:e ha:e	e a p a l à	e a p a l a	eapala
+202	270	word	Così	Bighítu	Man<i>o</i>	Boti	Enoaha	Bighítu	Mano	Boti	Enoaha							J. S. A. Van Dissel	m a n o	m a n o	mano	b o t i	b o t i	boti	e n o a h a	e n o a h a	enoaha
+203	270	word	Cranio	Batú capála	Binu		Eae euluca	Batú capála	Binu		Eae euluca								b i n u	b i n u	binu		⁇	⁇	e ae # e u l u c a	e a:e # e u l u k a	ea:e euluka
+204	270	word	Cranio	Batú capála	Wole²		Eae euluca	Batú capála	Wole²		Eae euluca								w o l e ²	w o l e ²	wole²		⁇	⁇	e ae # e u l u c a	e a:e # e u l u k a	ea:e euluka
+205	270	word	Crudo	Blon massác	Sataha	Sowada masac	Chibaca	Blon massác	Sataha	Sowada masac	Chibaca								s a t a h a	s a t a h a	sataha	s o w a d a # m a s a c	s o w a d a # m a s a k	sowada masak	ch i b a c a	k i b a k a	kibaka
+206	270	word	Cucinare	Massác	Fondrino	Marmasah	Manaco	Massác	Fondrino	Marmasah	Manaco								f o n d r i n o	f o n d r i n o	fondrino	m a r m a s a h	m a r m a s a h	marmasah	m a n a c o	m a n a k o	manako
+207	270	word	Cuore	Atí	D<i>o</i>d<i>o</i>	Ati	Echitèi	Atí	Dodo	Ati	Echitèi								d o d o	d o d o	dodo	a t i	a t i	ati	e ch i t è i	e k i t E i	ekitEi
+208	270	word	Dare	Cassi	Mameé	Mangaleion	Peionia	Cassi	Mameé	Mangaleion	Peionia							J. S. A. Van Dissel	m a m e é	m a m e e	mamee	m a n g a l ei o n	m a n j a l e:i o n	manjale:ion	p ei o n i a	p e:i o n i a	pe:ionia
+209	270	word	Denti	Gigi	Ifo	Ni<i>ng</i>i	Eauca	Gigi	Ifo	Ningi	Eauca								i f o	i f o	ifo	n i n gi	n i n c	ninc	e au c a	e a:u k a	ea:uka
+210	270	word	Dentro	Di dalam	Si bacha	Bagas	Di poco	Di dalam	Si bacha	Bagas	Di poco								s i # b a c h a	s i # b a k h a	si bakha	b a g a s	b a j a s	bajas	d i # p o c o	d i # p o k o	di poko
+211	270	word	Dietro	Di blacan	Furi	Pudi	Cahapò	Di blacan	Furi	Pudi	Cahapò							J. S. A. Van Dissel	f u r i	f u r i	furi	p u d i	p u d i	pudi	c a h a p ò	k a h a p O	kahapO
+212	270	word	Difendere	Melindú<i>ng</i>	Sameèli	Mandugal	Cuhai	Melindúng	Sameèli	Mandugal	Cuhai							J. S. A. Van Dissel	s a m e è l i	s a m e E l i	sameEli	m a n d u g a l	m a n d u j a l	mandujal	c u h ai	k u h a:i	kuha:i
+213	270	word	Dimenticare	Lupá	Olifu	Manghalupai	Caabu	Lupá	Olifu	Manghalupai	Caabu								o l i f u	o l i f u	olifu	m a n g h a l u p ai	m a n j h a l u p a:i	manjhalupa:i	c a a b u	k a a b u	kaabu
+214	270	word	Dire	Bilá<i>ng</i>	Imané	Didoc	Pecuaba	Biláng	Imané	Didoc	Pecuaba								i m a n é	i m a n e	imane	d i d o c	d i d o k	didok	p e c u a b a	p e k u a b a	pekuaba
+215	270	word	Di rado	Giará<i>ng</i>	L<i>o</i> asèse	Rac²		Giaráng	Lo asèse	Rac²									l o # a s è s e	l o # a s E s e	lo asEse	r a c ²	r a k ²	rak²		⁇	⁇
+216	270	word	Disputa	Bantah	Fasondrata	Bada	Chèoba nene igidia	Bantah	Fasondrata	Bada	Chèoba nene igidia								f a s o n d r a t a	f a s o n d r a t a	fasondrata	b a d a	b a d a	bada	ch è o b a # n e n e # i gi d i a	k E o b a # n e n e # i c d i a	kEoba nene icdia
+217	270	word	Diventare	Mengiadí	Tòla	Gabe	Odohoda	Mengiadí	Tòla	Gabe	Odohoda							J. S. A. Van Dissel	t ò l a	t O l a	tOla	g a b e	j a b e	jabe	o d o h o d a	o d o h o d a	odohoda
+218	270	word	Divorziare	Bercerèi	Far<i>o</i>i	Síra<i>ng</i>	Capacoa	Bercerèi	Faroi	Sírang	Capacoa								f a r o i	f a r o i	faroi	s í r a n g	s i r a n j	siranj	c a p a c o a	k a p a k o a	kapakoa
+219	270	word	Dolce (sapore)	Manis	Ami		Camoni	Manis	Ami		Camoni								a m i	a m i	ami		⁇	⁇	c a m o n i	k a m o n i	kamoni
+220	270	word	Domandare	Tágnia	Fanaha	Mahusò	Peeò	Tágnia	Fanaha	Mahusò	Peeò								f a n a h a	f a n a h a	fanaha	m a h u s ò	m a h u s O	mahusO	p e e ò	p e e O	peeO
+221	270	word	Domandare	Minta	Fanaha	Mahusò	Peeò	Minta	Fanaha	Mahusò	Peeò								f a n a h a	f a n a h a	fanaha	m a h u s ò	m a h u s O	mahusO	p e e ò	p e e O	peeO
+222	270	word	Domani	Besòc	Maemòlu	Tòrang ni arima	Naomana	Besòc	Maemòlu	Tòrang ni arima	Naomana							J. S. A. Van Dissel	m ae m ò l u	m a:e m O l u	ma:emOlu	t ò r a n g # n i # a r i m a	t O r a n j # n i # a r i m a	tOranj ni arima	n ao m a n a	n a:o m a n a	na:omana
+223	270	word	Donna	Parampuán	Alave	Potòsi	Cahoda	Parampuán	Alave	Potòsi	Cahoda								a l a v e	a l a v e	alave	p o t ò s i	p o t O s i	potOsi	c a h o d a	k a h o d a	kahoda
+224	270	word	Dopo	Abís	Dania	Nu<i>ng</i> i	Naapé	Abís	Dania	Nung i	Naapé								d a n i a	d a n i a	dania	n u n g # i	n u n j # i	nunj i	n a a p é	n a a p e	naape
+225	270	word	Dormire	Tídor	M<i>o</i>r<i>o</i>	Módom	Euho	Tídor	Moro	Módom	Euho								m o r o	m o r o	moro	m ó d o m	m o d o m	modom	e u h o	e u h o	euho
+226	270	word	Dormire	Tídor	M<i>o</i>r<i>o</i>	Módom	Cauho	Tídor	Moro	Módom	Cauho								m o r o	m o r o	moro	m ó d o m	m o d o m	modom	c au h o	k a:u h o	ka:uho
+227	270	word	Dormire	Tídor	M<i>o</i>r<i>o</i>	Módom	Bauho	Tídor	Moro	Módom	Bauho								m o r o	m o r o	moro	m ó d o m	m o d o m	modom	b au h o	b a:u h o	ba:uho
+228	270	word	Dorso	Bláca<i>ng</i>	Hulu		Cahapò	Blácang	Hulu		Cahapò								h u l u	h u l u	hulu		⁇	⁇	c a h a p ò	k a h a p O	kahapO
+229	270	word	Dove ?	Di mana	Heza	Di diia	Gno ò	Di mana	Heza	Di diia	Gno ò								h e z a	h e z a	heza	d i # d i i a	d i # d i i a	di diia	gn o # ò	ñ o # O	ño O
+230	271	word	Egli ; Ella	Dia	Ia	Ibana	Chia	Dia	Ia	Ibana	Chia								i a	i a	ia	i b a n a	i b a n a	ibana	ch i a	k i a	kia
+231	271	word	Egli ; Ella	Dia	Andr<i>o</i>	Ibana	Chia	Dia	Andro	Ibana	Chia								a n d r o	a n d r o	andro	i b a n a	i b a n a	ibana	ch i a	k i a	kia
+232	271	word	Entrare	Massòc	Famègo	Bonhòt	Cahepaco	Massòc	Famègo	Bonhòt	Cahepaco							J. S. A. Van Dissel	f a m è g o	f a m E j o	famEjo	b o n h ò t	b o n h O t	bonhOt	c a h e p a c o	k a h e p a k o	kahepako
+233	271	word	Erba	Rumpút	Duu	Duhút	Pucuma	Rumpút	Duu	Duhút	Pucuma							J. S. A. Van Dissel	d u u	d u u	duu	d u h ú t	d u h u t	duhut	p u c u m a	p u k u m a	pukuma
+234	271	word	Ereditare	Mendapát pusáca	Manema gondròita	Mangumèi	Mai	Mendapát pusáca	Manema gondròita	Mangumèi	Mai							J. S. A. Van Dissel	m a n e m a # g o n d r òi t a	m a n e m a # j o n d r o:i t a	manema jondro:ita	m a n g u m è i	m a n j u m E i	manjumEi	m ai	m a:i	ma:i
+235	271	word	Essere	Ada	So	Adòng	Chichia	Ada	So	Adòng	Chichia								s o	s o	so	a d ò n g	a d O n j	adOnj	ch i ch i a	k i k i a	kikia
+236	271	word	Essere ammalato	Suda sacchè	Mof<i>o</i>ch<i>o</i>	Sahít	Capucho	Suda sacchè	Mofocho	Sahít	Capucho							J. S. A. Van Dissel	m o f o c h o	m o f o k h o	mofokho	s a h í t	s a h i t	sahit	c a p u c h o	k a p u k h o	kapukho
+237	271	word	Estinguere (del fuoco)	Matí api	Bunú alito	Mintòp	Dipuru	Matí api	Bunú alito	Mintòp	Dipuru							J. S. A. Van Dissel	b u n ú # a l i t o	b u n u # a l i t o	bunu alito	m i n t ò p	m i n t O p	mintOp	d i p u r u	d i p u r u	dipuru
+238	271	word	Faccia	Muccá	Bava	Bohi	Baca	Muccá	Bava	Bohi	Baca							J. S. A. Van Dissel	b a v a	b a v a	bava	b o h i	b o h i	bohi	b a c a	b a k a	baka
+239	271	word	Fame	Lèpar	Olofo	Rapar	Coignò	Lèpar	Olofo	Rapar	Coignò								o l o f o	o l o f o	olofo	r a p a r	r a p a r	rapar	c o i gn ò	k o i ñ O	koiñO
+240	271	word	Fanciullo	Anac	Ono	Anac	Ara	Anac	Ono	Anac	Ara							J. S. A. Van Dissel	o n o	o n o	ono	a n a c	a n a k	anak	a r a	a r a	ara
+241	271	word	Fanciullo	Anac	Ono	Doli	Ara	Anac	Ono	Doli	Ara							J. S. A. Van Dissel	o n o	o n o	ono	d o l i	d o l i	doli	a r a	a r a	ara
+242	271	word	Fango	Lumpúr	Tai		Canenonèno	Lumpúr	Tai		Canenonèno								t ai	t a:i	ta:i		⁇	⁇	c a n e n o n è n o	k a n e n o n E n o	kanenonEno
+243	271	word	Fare	Bichín	Mamaz<i>o</i>chi	Mangiadihón	Pari	Bichín	Mamazochi	Mangiadihón	Pari							J. S. A. Van Dissel	m a m a z o ch i	m a m a z o k i	mamazoki	m a n gi a d i h ó n	m a n c a d i x o n	mancadixon	p a r i	p a r i	pari
+244	271	word	Fastidi	Susa				Susa												⁇	⁇		⁇	⁇		⁇	⁇
+245	271	word	Febbre	Demom	Ach<i>o</i>m<i>o</i>	Arun	Iadòho (?)	Demom	Achomo	Arun	Iadòho (?)							J. S. A. Van Dissel	a c h o m o	a k h o m o	akhomo	a r u n	a r u n	arun	i a d ò h o # ( ? )	i a d O h o # ( ? )	iadOho (?)
+246	271	word	Felice	Enac	Casana	Tuwa	Caúa	Enac	Casana	Tuwa	Caúa								c a s a n a	k a s a n a	kasana	t u w a	t u w a	tuwa	c aú a	k a:u a	ka:ua
+247	271	word	Ferire	Melucacán	Maf<i>o</i>ch<i>o</i>	Mamugadi	Capacahale	Melucacán	Mafocho	Mamugadi	Capacahale								m a f o c h o	m a f o k h o	mafokho	m a m u g a d i	m a m u j a d i	mamujadi	c a p a c a h a l e	k a p a k a h a l e	kapakahale
+248	271	word	Ferita	Lucá	Socho	Bugáng	Mehecu	Lucá	Socho	Bugáng	Mehecu								s o c h o	s o k h o	sokho	b u g á n g	b u j a n j	bujanj	m e h e c u	m e h e k u	meheku
+249	271	word	Fermarsi	Brenti	Mamato	Matsohòt		Brenti	Mamato	Matsohòt									m a m a t o	m a m a t o	mamato	m a t s o h ò t	m a t s o h O t	matsohOt		⁇	⁇
+250	271	word	Ferma ǃ	Diám	Tráfa	Maradían	Iapé	Diám	Tráfa	Maradían	Iapé								t r á f a	t r a f a	trafa	m a r a d í a n	m a r a d i a n	maradian	i a p é	i a p e	iape
+251	271	word	Ferro	Bessí	Siòli	Bòsi	Epacamai	Bessí	Siòli	Bòsi	Epacamai								s i ò l i	s i O l i	siOli	b ò s i	b O s i	bOsi	e p a c a m ai	e p a k a m a:i	epakama:i
+252	271	word	Ferro arrugginito	Bessí carat	Siòli sohòwu	Fasic	Epacamai mòco ecai	Bessí carat	Siòli sohòwu	Fasic	Epacamai mòco ecai								s i ò l i # s o h ò w u	s i O l i # s o h O w u	siOli sohOwu	f a s i c	f a s i k	fasik	e p a c a m ai # m ò c o # e c ai	e p a k a m a:i # m O k o # e k a:i	epakama:i mOko eka:i
+253	271	word	Fiamma	Niala	Hohahòla	Gorgòr	Carahu	Niala	Hohahòla	Gorgòr	Carahu								h o h a h ò l a	h o h a h O l a	hohahOla	g o r g ò r	j o r j O r	jorjOr	c a r a h u	k a r a h u	karahu
+254	271	word	Figlio	Anac	Ono	Anac	Ara	Anac	Ono	Anac	Ara								o n o	o n o	ono	a n a c	a n a k	anak	a r a	a r a	ara
+255	271	word	Fiore	Cumbá<i>ng</i>	Bowo	Bu<i>ng</i>a	Epòi	Cumbáng	Bowo	Bunga	Epòi								b o w o	b o w o	bowo	b u n g a	b u n j a	bunja	e p òi	e p o:i	epo:i
+256	271	word	Flusso	Aier pasá<i>ng</i>	Ebu lowo	Pasá<i>ng</i>	Caachihi èue<sem=""marea bassa"">	Aier pasáng	Ebu lowo	Pasáng	Caachihi èue				marea bassa			J. S. A. Van Dissel	e b u # l o w o	e b u # l o w o	ebu lowo	p a s á n g	p a s a n j	pasanj	c a a ch i h i # è u e	k a a k i x i # E u e	kaakixi Eue
+257	271	word	Flusso	Aier pasá<i>ng</i>	Ebu lowo	Pasá<i>ng</i>	Cacahoda èue<sem=""marea alta"">	Aier pasáng	Ebu lowo	Pasáng	Cacahoda èue				marea alta			J. S. A. Van Dissel	e b u # l o w o	e b u # l o w o	ebu lowo	p a s á n g	p a s a n j	pasanj	c a c a h o d a # è u e	k a k a h o d a # E u e	kakahoda Eue
+258	271	word	Foce	Mulút sungèi	Luaha	Muwara	Eca belowa	Mulút sungèi	Luaha	Muwara	Eca belowa							J. S. A. Van Dissel	l u a h a	l u a h a	luaha	m u w a r a	m u w a r a	muwara	e c a # b e l o w a	e k a # b e l o w a	eka belowa
+259	271	word	Focolare	Dápur	Auri		Epò	Dápur	Auri		Epò								au r i	a:u r i	a:uri		⁇	⁇	e p ò	e p O	epO
+260	271	word	Foresta	Rimbu	Atúa	Hara<i>ng</i>an	Iacuè	Rimbu	Atúa	Harangan	Iacuè								a t ú a	a t u a	atua	h a r a n g a n	h a r a n j a n	haranjan	i a c u è	i a k u E	iakuE
+261	271	word	Forse	Brancalí	Taila	Ra	Uachíua	Brancalí	Taila	Ra	Uachíua								t ai l a	t a:i l a	ta:ila	r a	r a	ra	u a ch í u a	u a k i u a	uakiua
+262	271	word	Forse	Brancalí	Taila	Atic	Uachíua	Brancalí	Taila	Atic	Uachíua								t ai l a	t a:i l a	ta:ila	a t i c	a t i k	atik	u a ch í u a	u a k i u a	uakiua
+263	271	word	Forte	Cuát	Ab<i>o</i>l<i>o</i>b<i>o</i>l<i>o</i>	Agasan	Eeò	Cuát	Abolobolo	Agasan	Eeò								a b o l o b o l o	a b o l o b o l o	abolobolo	a g a s a n	a j a s a n	ajasan	e e ò	e e O	eeO
+264	271	word	Forte	Cuát	Ab<i>o</i>l<i>o</i>b<i>o</i>l<i>o</i>	Gogo	Eeò	Cuát	Abolobolo	Gogo	Eeò								a b o l o b o l o	a b o l o b o l o	abolobolo	g o g o	j o j o	jojo	e e ò	e e O	eeO
+265	271	word	Fratello	Sudárat	Talifusso	Iboto	Eaha	Sudárat	Talifusso	Iboto	Eaha								t a l i f u s s o	t a l i f u s s o	talifusso	i b o t o	i b o t o	iboto	e a h a	e a h a	eaha
+266	271	word	Fratello	Sudárat	Talifusso	Haha<sem=""maggiore"">	Eaha	Sudárat	Talifusso	Haha	Eaha		maggiore						t a l i f u s s o	t a l i f u s s o	talifusso	h a h a	h a h a	haha	e a h a	e a h a	eaha
+267	271	word	Fratello	Sudárat	Talifusso	A<i>ng</i>ghi<sem=""minore"">	Eaha	Sudárat	Talifusso	Angghi	Eaha		minore						t a l i f u s s o	t a l i f u s s o	talifusso	a n g g h i	a n j j h i	anjjhi	e a h a	e a h a	eaha
+268	271	word	Freccia	Anac pana		Naccat<rm=""del sumpitan"">		Anac pana		Naccat				del sumpitan						⁇	⁇	n a cc a t	n a k a t	nakat		⁇	⁇
+269	271	word	Freddo	Digním	Oafu	Ngali	Eòho	Digním	Oafu	Ngali	Eòho							J. S. A. Van Dissel	o a f u	o a f u	oafu	n g a l i	n j a l i	njali	e ò h o	e O h o	eOho
+270	272	word	Fronte	Dahi	Angango	Par dompác an	Ecu	Dahi	Angango	Par dompác an	Ecu							J. S. A. Van Dissel	a n g a n g o	a n j a n j o	anjanjo	p a r # d o m p á c # a n	p a r # d o m p a k # a n	par dompak an	e c u	e k u	eku
+271	272	word	Frutti	Buá	Bua	Parbuwe	Hua	Buá	Bua	Parbuwe	Hua							J. S. A. Van Dissel	b u a	b u a	bua	p a r b u w e	p a r b u w e	parbuwe	h u a	h u a	hua
+272	272	word	Fumare	Minúm timbaco	Ma<i>ng</i>a ròco	Manhisáp	Meno timbaho	Minúm timbaco	Manga ròco	Manhisáp	Meno timbaho								m a n g a # r ò c o	m a n j a # r O k o	manja rOko	m a n h i s á p	m a n h i s a p	manhisap	m e n o # t i m b a h o	m e n o # t i m b a h o	meno timbaho
+273	272	word	Fumo	Asap		Timús		Asap		Timús										⁇	⁇	t i m ú s	t i m u s	timus		⁇	⁇
+274	272	word	Fuoco	Apí	Alito	Apí	Eòbi	Apí	Alito	Apí	Eòbi								a l i t o	a l i t o	alito	a p í	a p i	api	e ò b i	e O b i	eObi
+275	272	word	Gallina	Aiám	Manu	Mánuc	Chedòbu	Aiám	Manu	Mánuc	Chedòbu								m a n u	m a n u	manu	m á n u c	m a n u k	manuk	ch e d ò b u	k e d O b u	kedObu
+276	272	word	Gamba (dal ginocchio in giù)	Cachí			Epio pio	Cachí			Epio pio									⁇	⁇		⁇	⁇	e p i o # p i o	e p i o # p i o	epio pio
+277	272	word	Gatto	Cutci<i>ng</i>	Mao	Bapú<i>ng</i>	Ebèo	Cutcing	Mao	Bapúng	Ebèo								m ao	m a:o	ma:o	b a p ú n g	b a p u n j	bapunj	e b è o	e b E o	ebEo
+278	272	word	Gatto	Cutci<i>ng</i>	Mao	Bapú<i>ng</i>	Eáo	Cutcing	Mao	Bapúng	Eáo								m ao	m a:o	ma:o	b a p ú n g	b a p u n j	bapunj	e á o	e a o	eao
+279	272	word	Geloso	Ciemburu	Olohu	Manghimburu	Agnia	Ciemburu	Olohu	Manghimburu	Agnia								o l o h u	o l o h u	olohu	m a n g h i m b u r u	m a n j h i m b u r u	manjhimburu	a gn i a	a ñ i a	añia
+280	272	word	Già	Sidia	Nòa	Nu<i>ng</i>a	Abóha	Sidia	Nòa	Nunga	Abóha								n ò a	n O a	nOa	n u n g a	n u n j a	nunja	a b ó h a	a b o h a	aboha
+281	272	word	Già	siáp	Nòa	Nu<i>ng</i>a	Abóha	siáp	Nòa	Nunga	Abóha								n ò a	n O a	nOa	n u n g a	n u n j a	nunja	a b ó h a	a b o h a	aboha
+282	272	word	Ginocchio	Lutút	Balu duhi	Ulu ni tot	Epòo	Lutút	Balu duhi	Ulu ni tot	Epòo							J. S. A. Van Dissel	b a l u # d u h i	b a l u # d u h i	balu duhi	u l u # n i # t o t	u l u # n i # t o t	ulu ni tot	e p ò o	e p O o	epOo
+283	272	word	Ginocchio	Lutút	Balu duhi	Ulu ni tot	Epu	Lutút	Balu duhi	Ulu ni tot	Epu							J. S. A. Van Dissel	b a l u # d u h i	b a l u # d u h i	balu duhi	u l u # n i # t o t	u l u # n i # t o t	ulu ni tot	e p u	e p u	epu
+284	272	word	Giorno	Arí	Sara sibaia	Hari	Cahapò	Arí	Sara sibaia	Hari	Cahapò								s a r a # s i b ai a	s a r a # s i b a:i a	sara siba:ia	h a r i	h a r i	hari	c a h a p ò	k a h a p O	kahapO
+285	272	word	Giovane	Múda	Awúgiu	Poso	Eaha	Múda	Awúgiu	Poso	Eaha								a w ú gi u	a w u c u	awucu	p o s o	p o s o	poso	e a h a	e a h a	eaha
+286	272	word	Giù	Di bawá	Tou	Di tóru	Itòpo	Di bawá	Tou	Di tóru	Itòpo								t ou	t o:u	to:u	d i # t ó r u	d i # t o r u	di toru	i t ò p o	i t O p o	itOpo
+287	272	word	Giurare	Sumpá	M<i>o</i>i ba h<i>o</i>lu	Manabas	Bahitò	Sumpá	Moi ba holu	Manabas	Bahitò							J. S. A. Van Dissel	m o i # b a # h o l u	m o i # b a # h o l u	moi ba holu	m a n a b a s	m a n a b a s	manabas	b a h i t ò	b a h i t O	bahitO
+288	272	word	Gomito	Sicu	Talinga ziu	Suhi²	Epú ápo	Sicu	Talinga ziu	Suhi²	Epú ápo								t a l i n g a # z i u	t a l i n j a # z i u	talinja ziu	s u h i ²	s u h i ²	suhi²	e p ú # á p o	e p u # a p o	epu apo
+289	272	word	Gota	Pipì	Boo		Papa	Pipì	Boo		Papa								b o o	b o o	boo		⁇	⁇	p a p a	p a p a	papa
+290	272	word	Gota	Pipì	Boo		Epapa	Pipì	Boo		Epapa								b o o	b o o	boo		⁇	⁇	e p a p a	e p a p a	epapa
+291	272	word	Grande	Besár	Ebúa	Balga	Amuho	Besár	Ebúa	Balga	Amuho								e b ú a	e b u a	ebua	b a l g a	b a l j a	balja	a m u h o	a m u h o	amuho
+292	272	word	Guerreggiare	Melawán	Fanúwo	Marmuus	Caparí papuru	Melawán	Fanúwo	Marmuus	Caparí papuru						GPWR--reciprocal ""papuru"" 'to fight' (?)	J. S. A. Van Dissel	f a n ú w o	f a n u w o	fanuwo	m a r m u u s	m a r m u u s	marmuus	c a p a r í # p a p u r u	k a p a r i # p a p u r u	kapari papuru
+293	272	word	Ieri	Camarèn	Menéwi	Nattowari	Baheba	Camarèn	Menéwi	Nattowari	Baheba							J. S. A. Van Dissel	m e n é w i	m e n e w i	menewi	n a t t o w a r i	n a t t o w a r i	nattowari	b a h e b a	b a h e b a	baheba
+294	272	word	Imbarcarsi	Naèc capál	Moi ba owo		Uaha elòha	Naèc capál	Moi ba owo		Uaha elòha								m o i # b a # o w o	m o i # b a # o w o	moi ba owo		⁇	⁇	u a h a # e l ò h a	u a h a # e l O h a	uaha elOha
+295	272	word	Imprestare	Píngiam	Fondra u anaa	Manggowarhón	Peionia caulu	Píngiam	Fondra u anaa	Manggowarhón	Peionia caulu								f o n d r a # u # a n a a	f o n d r a # u # a n a a	fondra u anaa	m a n g g o w a r h ó n	m a n j j o w a r h o n	manjjowarhon	p ei o n i a # c au l u	p e:i o n i a # k a:u l u	pe:ionia ka:ulu
+296	272	word	Indice	Giari telungiúc	Turu lúo	Si tu mudu	Eu apo	Giari telungiúc	Turu lúo	Si tu mudu	Eu apo							J. S. A. Van Dissel	t u r u # l ú o	t u r u # l u o	turu luo	s i # t u # m u d u	s i # t u # m u d u	si tu mudu	e u # a p o	e u # a p o	eu apo
+297	272	word	Indice del piede	Giari telungiúc cachi			Eminuáe	Giari telungiúc cachi			Eminuáe									⁇	⁇		⁇	⁇	e m i n u á e	e m i n u a e	eminuae
+298	272	word	Indolente	Malas	Rumiri	Golut	Caracòia iaidia	Malas	Rumiri	Golut	Caracòia iaidia								r u m i r i	r u m i r i	rumiri	g o l u t	j o l u t	jolut	c a r a c òi a # i ai d i a	k a r a k o:i a # i a:i d i a	karako:ia ia:idia
+299	272	word	Ingannare	Tipú	Falimo	Mangatsi	Paporò	Tipú	Falimo	Mangatsi	Paporò						GPWR--reciprocal (?)		f a l i m o	f a l i m o	falimo	m a n g a t s i	m a n j a t s i	manjatsi	p a p o r ò	p a p o r O	paporO
+300	272	word	Insieme	Sama²	Aw<i>o</i>	Rap	Uahelu chidera	Sama²	Awo	Rap	Uahelu chidera							J. S. A. Van Dissel	a w o	a w o	awo	r a p	r a p	rap	u a h e l u # ch i d e r a	u a h e l u # k i d e r a	uahelu kidera
+301	272	word	Invece	Ganti	Fatua	Di inganán	Pachèli	Ganti	Fatua	Di inganán	Pachèli							J. S. A. Van Dissel	f a t u a	f a t u a	fatua	d i # i n g a n á n	d i # i n j a n a n	di injanan	p a ch è l i	p a k E l i	pakEli
+302	272	word	Insidia	De<i>ng</i>chi	D<i>o</i>d<i>o</i> afocho	Lòmo	Uachepi	Dengchi	Dodo afocho	Lòmo	Uachepi							J. S. A. Van Dissel	d o d o # a f o c h o	d o d o # a f o k h o	dodo afokho	l ò m o	l O m o	lOmo	u a ch e p i	u a k e p i	uakepi
+303	272	word	Io	Saia	Iao	Au	Ua	Saia	Iao	Au	Ua								i ao	i a:o	ia:o	au	a:u	a:u	u a	u a	ua
+304	272	word	Io	Saia	Iao	Ahu	Ua	Saia	Iao	Ahu	Ua								i ao	i a:o	ia:o	a h u	a h u	ahu	u a	u a	ua
+305	272	word	Isola	Pulu	Fulu	Pulo	Chèfu	Pulu	Fulu	Pulo	Chèfu								f u l u	f u l u	fulu	p u l o	p u l o	pulo	ch è f u	k E f u	kEfu
+306	272	word	Là	Di sana	Bada <i>o</i>	Disi	Iò	Di sana	Bada o	Disi	Iò							J. S. A. Van Dissel	b a d a # o	b a d a # o	bada o	d i s i	d i s i	disi	i ò	i O	iO
+307	272	word	Labbra	Bibír	Be<i>w</i>e	Bibir	Eochitipo	Bibír	Bewe	Bibir	Eochitipo							J. S. A. Van Dissel	b e w e	b e w e	bewe	b i b i r	b i b i r	bibir	e o ch i t i p o	e o k i t i p o	eokitipo
+308	272	word	Labbra	Bibír	Be<i>w</i>e	Bibir	Curirifò	Bibír	Bewe	Bibir	Curirifò							J. S. A. Van Dissel	b e w e	b e w e	bewe	b i b i r	b i b i r	bibir	c u r i r i f ò	k u r i r i f O	kuririfO
+309	272	word	Lacrima	Aier mata	Idano h<i>o</i>r<i>o</i>	Ilu		Aier mata	Idano horo	Ilu								J. S. A. Van Dissel	i d a n o # h o r o	i d a n o # h o r o	idano horo	i l u	i l u	ilu		⁇	⁇
+310	272	word	Lampo	Chilát	Gari mbanúa	Sacsíc		Chilát	Gari mbanúa	Sacsíc									g a r i # m b a n ú a	j a r i # m b a n u a	jari mbanua	s a c s í c	s a k s i k	saksik		⁇	⁇
+311	272	word	Lancia	Tumbac	Toho	Húgiur	Ecaio	Tumbac	Toho	Húgiur	Ecaio								t o h o	t o h o	toho	h ú gi u r	h u c u r	hucur	e c ai o	e k a:i o	eka:io
+312	272	word	Largo	Lebar	Ebólo	Bolac	Aehepòho	Lebar	Ebólo	Bolac	Aehepòho							J. S. A. Van Dissel	e b ó l o	e b o l o	ebolo	b o l a c	b o l a k	bolak	ae h e p ò h o	a:e h e p O h o	a:ehepOho
+313	272	word	Latte	Susu	Idano meme	Dadi	Coco	Susu	Idano meme	Dadi	Coco							J. S. A. Van Dissel	i d a n o # m e m e	i d a n o # m e m e	idano meme	d a d i	d a d i	dadi	c o c o	k o k o	koko
+314	272	word	Lavorare	Cregia	Hal<i>o</i>w<i>o</i>	Pande	Cobabarí	Cregia	Halowo	Pande	Cobabarí								h a l o w o	h a l o w o	halowo	p a n d e	p a n d e	pande	c o b a b a r í	k o b a b a r i	kobabari
+315	273	word	Leggiero	Entè<i>ng</i>	Caòcha	Sowada borat	Cahau	Entèng	Caòcha	Sowada borat	Cahau							J. S. A. Van Dissel	c aò c h a	k a:O k h a	ka:Okha	s o w a d a # b o r a t	s o w a d a # b o r a t	sowada borat	c a h au	k a h a:u	kaha:u
+316	273	word	Legno	Caiú	Eu	Háiu	Cuo	Caiú	Eu	Háiu	Cuo								e u	e u	eu	h á i u	h a i u	haiu	c u o	k u o	kuo
+317	273	word	Lento	Lambát	Ahoho	Asoc	Chèoba pohai paniha	Lambát	Ahoho	Asoc	Chèoba pohai paniha							J. S. A. Van Dissel	a h o h o	a h o h o	ahoho	a s o c	a s o k	asok	ch è o b a # p o h ai # p a n i h a	k E o b a # p o h a:i # p a n i x a	kEoba poha:i panixa
+318	273	word	Lingua	Lida	Lèla	Dila	Erio	Lida	Lèla	Dila	Erio								l è l a	l E l a	lEla	d i l a	d i l a	dila	e r i o	e r i o	erio
+319	273	word	Lingua	Lida	Lèla	Dila	Eliho	Lida	Lèla	Dila	Eliho								l è l a	l E l a	lEla	d i l a	d i l a	dila	e l i h o	e l i x o	elixo
+320	273	word	Lontano	Giau	Ar<i>o</i>u	Dao	Mimina	Giau	Arou	Dao	Mimina								a r ou	a r o:u	aro:u	d ao	d a:o	da:o	m i m i n a	m i m i n a	mimina
+321	273	word	Loro (Pron. Poss.)	Dia punia	Ra	Tu nasida	Chidara	Dia punia	Ra	Tu nasida	Chidara							J. S. A. Van Dissel	r a	r a	ra	t u # n a s i d a	t u # n a s i d a	tu nasida	ch i d a r a	k i d a r a	kidara
+322	273	word	Loro (Pron. Pers.)			Nasida				Nasida										⁇	⁇	n a s i d a	n a s i d a	nasida		⁇	⁇
+323	273	word	Luna	Bulán	Bawa	Bulán	Canua	Bulán	Bawa	Bulán	Canua								b a w a	b a w a	bawa	b u l á n	b u l a n	bulan	c a n u a	k a n u a	kanua
+324	273	word	Lungo	Pangián	Enau	Gandgiá<i>ng</i>	Aehenudia	Pangián	Enau	Gandgiáng	Aehenudia							J. S. A. Van Dissel	e n au	e n a:u	ena:u	g a n d gi á n g	j a n d c a n j	jandcanj	ae h e n u d i a	a:e h e n u d i a	a:ehenudia
+325	273	word	Ma	Tapi	Ba	Alai	Iòchi	Tapi	Ba	Alai	Iòchi							J. S. A. Van Dissel	b a	b a	ba	a l ai	a l a:i	ala:i	i ò ch i	i O k i	iOki
+326	273	word	Macchia	Ciòring	Si ta uno	Rotac	Pachiapa	Ciòring	Si ta uno	Rotac	Pachiapa							J. S. A. Van Dissel	s i # t a # u n o	s i # t a # u n o	si ta uno	r o t a c	r o t a k	rotak	p a ch i a p a	p a k i a p a	pakiapa
+327	273	word	Madre	Ma	Ina	Ina	Nai	Ma	Ina	Ina	Nai								i n a	i n a	ina	i n a	i n a	ina	n ai	n a:i	na:i
+328	273	word	Magro	Curús	Angáo	Sowada hapal	Chemá	Curús	Angáo	Sowada hapal	Chemá							J. S. A. Van Dissel	a n g á o	a n j a o	anjao	s o w a d a # h a p a l	s o w a d a # h a p a l	sowada hapal	ch e m á	k e m a	kema
+329	273	word	Malato	Sacché	Maf<i>o</i>ch<i>o</i>	Sahít	Capuhu	Sacché	Mafocho	Sahít	Capuhu								m a f o c h o	m a f o k h o	mafokho	s a h í t	s a h i t	sahit	c a p u h u	k a p u h u	kapuhu
+330	273	word	Mandare	Chirím	Mamantenge	Manongós	Uaha ioní	Chirím	Mamantenge	Manongós	Uaha ioní								m a m a n t e n g e	m a m a n t e n j e	mamantenje	m a n o n g ó s	m a n o n j o s	manonjos	u a h a # i o n í	u a h a # i o n i	uaha ioni
+331	273	word	Mangiare	Macán	Manga	Ma<i>ng</i>án	Eonò	Macán	Manga	Mangán	Eonò								m a n g a	m a n j a	manja	m a n g á n	m a n j a n	manjan	e o n ò	e o n O	eonO
+332	273	word	Mangiare	Macán	Manga	Ma<i>ng</i>án	Menò	Macán	Manga	Mangán	Menò								m a n g a	m a n j a	manja	m a n g á n	m a n j a n	manjan	m e n ò	m e n O	menO
+333	273	word	Mangiativi	Macanán			Eò	Macanán			Eò									⁇	⁇		⁇	⁇	e ò	e O	eO
+334	273	word	Mano	Ta<i>ng</i>án	Ta<i>ng</i>a	Ta<i>ng</i>án	Emino apo	Tangán	Tanga	Tangán	Emino apo								t a n g a	t a n j a	tanja	t a n g á n	t a n j a n	tanjan	e m i n o # a p o	e m i n o # a p o	emino apo
+335	273	word	Mare	Laút	Asi	Laut	Euè	Laút	Asi	Laut	Euè								a s i	a s i	asi	l au t	l a:u t	la:ut	e u è	e u E	euE
+336	273	word	Maritarsi	Cawin	Fangowalu	Marhubaio	Pahona	Cawin	Fangowalu	Marhubaio	Pahona						GPWR--reciprocal (?)		f a n g o w a l u	f a n j o w a l u	fanjowalu	m a r h u b ai o	m a r h u b a:i o	marhuba:io	p a h o n a	p a h o n a	pahona
+337	273	word	Marito	Lachí²	Ina matúa	Amáng²	Nanu	Lachí²	Ina matúa	Amáng²	Nanu							J. S. A. Van Dissel	i n a # m a t ú a	i n a # m a t u a	ina matua	a m á n g ²	a m a n j ²	amanj²	n a n u	n a n u	nanu
+338	273	word	Mattina	Paghí	Maemolu	Sogót	Pahemana	Paghí	Maemolu	Sogót	Pahemana							J. S. A. Van Dissel	m ae m o l u	m a:e m o l u	ma:emolu	s o g ó t	s o j o t	sojot	p a h e m a n a	p a h e m a n a	pahemana
+339	273	word	Maturo	Masá	Asoso	Masáh	Menaco	Masá	Asoso	Masáh	Menaco								a s o s o	a s o s o	asoso	m a s á h	m a s a h	masah	m e n a c o	m e n a k o	menako
+340	273	word	Medicina	Obát	Dálu²	Daon	Ehabédo	Obát	Dálu²	Daon	Ehabédo								d á l u ²	d a l u ²	dalu²	d ao n	d a:o n	da:on	e h a b é d o	e h a b e d o	ehabedo
+341	273	word	Medio	Giari te<i>ng</i>á	Turu lawa	Tambar	Eu apo	Giari tengá	Turu lawa	Tambar	Eu apo								t u r u # l a w a	t u r u # l a w a	turu lawa	t a m b a r	t a m b a r	tambar	e u # a p o	e u # a p o	eu apo
+342	273	word	Medio del piede	Giari te<i>ng</i>á cachí		Si tuwalang	Eminuáe	Giari tengá cachí		Si tuwalang	Eminuáe							J. S. A. Van Dissel		⁇	⁇	s i # t u w a l a n g	s i # t u w a l a n j	si tuwalanj	e m i n u á e	e m i n u a e	eminuae
+343	273	word	Meno	Curáng	Ambo	Nuráng	Chimaná	Curáng	Ambo	Nuráng	Chimaná							J. S. A. Van Dissel	a m b o	a m b o	ambo	n u r á n g	n u r a n j	nuranj	ch i m a n á	k i m a n a	kimana
+344	273	word	Mentire	Giusta	Falimo	Margapgápi	Poporò	Giusta	Falimo	Margapgápi	Poporò							J. S. A. Van Dissel	f a l i m o	f a l i m o	falimo	m a r g a p g á p i	m a r j a p j a p i	marjapjapi	p o p o r ò	p o p o r O	poporO
+345	273	word	Mento	Dagu	Tai	Isáng	Echì	Dagu	Tai	Isáng	Echì							J. S. A. Van Dissel	t ai	t a:i	ta:i	i s á n g	i s a n j	isanj	e ch ì	e k i	eki
+346	273	word	Merda	Tahi	Tai	Itíng	Echai	Tahi	Tai	Itíng	Echai								t ai	t a:i	ta:i	i t í n g	i t i n j	itinj	e c h ai	e k h a:i	ekha:i
+347	273	word	Merda	Bèra	Tai	Itíng	Echai	Bèra	Tai	Itíng	Echai								t ai	t a:i	ta:i	i t í n g	i t i n j	itinj	e c h ai	e k h a:i	ekha:i
+348	273	word	Metà	Ste<i>ng</i>á	Mató<i>ng</i>a	To<i>ng</i>a	Chidaho	Stengá	Matónga	Tonga	Chidaho							J. S. A. Van Dissel	m a t ó n g a	m a t o n j a	matonja	t o n g a	t o n j a	tonja	ch i d a h o	k i d a h o	kidaho
+349	273	word	Mignolo	Cali<i>ng</i>chí<i>ng</i>	Turu si achi	Anac ni ta<i>ng</i>án	Eara uapo	Calingchíng	Turu si achi	Anac ni tangán	Eara uapo							J. S. A. Van Dissel	t u r u # s i # a ch i	t u r u # s i # a k i	turu si aki	a n a c # n i # t a n g á n	a n a k # n i # t a n j a n	anak ni tanjan	e a r a # u a p o	e a r a # u a p o	eara uapo
+350	273	word	Mignolo del piede	Cali<i>ng</i>chí<i>ng</i> cachí			Earaua	Calingchíng cachí			Earaua									⁇	⁇		⁇	⁇	e a r au a	e a r a:u a	eara:ua
+351	273	word	Minacciare	Britacút	Lafeláu	Mangasupi	Epuru	Britacút	Lafeláu	Mangasupi	Epuru						M--""beri takut"" ?	J. S. A. Van Dissel	l a f e l á u	l a f e l a u	lafelau	m a n g a s u p i	m a n j a s u p i	manjasupi	e p u r u	e p u r u	epuru
+352	273	word	Mio	Saia punia	Gu		Eharu	Saia punia	Gu		Eharu								g u	j u	ju		⁇	⁇	e h a r u	e h a r u	eharu
+353	273	word	Misericordia	Cassián	Fa aharo d<i>o</i>d<i>o</i>	Saiáng	Pachinunai	Cassián	Fa aharo dodo	Saiáng	Pachinunai						GPWR--reciprocal (?)		f a # a h a r o # d o d o	f a # a h a r o # d o d o	fa aharo dodo	s ai á n g	s a:i a n j	sa:ianj	p a ch i n u n ai	p a k i n u n a:i	pakinuna:i
+354	273	word	Moglie	Biní	Alave	Bòru²	Honá	Biní	Alave	Bòru²	Honá							J. S. A. Van Dissel	a l a v e	a l a v e	alave	b ò r u ²	b O r u ²	bOru²	h o n á	h o n a	hona
+355	273	word	Molto	Bagná	Oia	Lan	Mòco	Bagná	Oia	Lan	Mòco							J. S. A. Van Dissel	o i a	o i a	oia	l a n	l a n	lan	m ò c o	m O k o	mOko
+356	273	word	Montare	Naèc	Manoi	Manáec	Ahi gèbe	Naèc	Manoi	Manáec	Ahi gèbe								m a n o i	m a n o i	manoi	m a n á e c	m a n a e k	manaek	a h i # g è b e	a h i # j E b e	ahi jEbe
+357	274	word	Monte	Gunúng	Hili	Dòloc	Ecòho	Gunúng	Hili	Dòloc	Ecòho								h i l i	h i l i	hili	d ò l o c	d O l o k	dOlok	e c ò h o	e k O h o	ekOho
+358	274	word	Monte	Gunúng	Bawo	Dòloc	Ecòho	Gunúng	Bawo	Dòloc	Ecòho								b a w o	b a w o	bawo	d ò l o c	d O l o k	dOlok	e c ò h o	e k O h o	ekOho
+359	274	word	Mordere	Menghighít	Fausu	Maccarát	Hao	Menghighít	Fausu	Maccarát	Hao							J. S. A. Van Dissel	f au s u	f a:u s u	fa:usu	m a cc a r á t	m a k a r a t	makarat	h ao	h a:o	ha:o
+360	274	word	Morire	Matí	Mate	Mate	Opanené caá	Matí	Mate	Mate	Opanené caá								m a t e	m a t e	mate	m a t e	m a t e	mate	o p a n e n é # c a á	o p a n e n e # k a a	opanene kaa
+361	274	word	Morto	Matí	Mate	Mamis	Caá	Matí	Mate	Mamis	Caá							J. S. A. Van Dissel	m a t e	m a t e	mate	m a m i s	m a m i s	mamis	c a á	k a a	kaa
+362	274	word	Muto	Bisu	Si lo hede hede	<i>Ng</i>u<i>ng</i>u	Chiparadío	Bisu	Si lo hede hede	Ngungu	Chiparadío								s i # l o # h e d e # h e d e	s i # l o # h e d e # h e d e	si lo hede hede	n g u n g u	n j u n j u	njunju	ch i p a r a d í o	k i p a r a d i o	kiparadio
+363	274	word	Nascere	Peranác	Tumbu	Manginlubu	Coda	Peranác	Tumbu	Manginlubu	Coda								t u m b u	t u m b u	tumbu	m a n gi n l u b u	m a n c n l u b u	mancnlubu	c o d a	k o d a	koda
+364	274	word	Naso	Hidung	Ichu	Igung	Epanu	Hidung	Ichu	Igung	Epanu								i c h u	i k h u	ikhu	i g u n g	i j u n j	ijunj	e p a n u	e p a n u	epanu
+365	274	word	Naufragare	Picciá capál	Abólo nòwo		Chipopòa	Picciá capál	Abólo nòwo		Chipopòa								a b ó l o # n ò w o	a b o l o # n O w o	abolo nOwo		⁇	⁇	ch i p o p ò a	k i p o p O a	kipopOa
+366	274	word	Nave	Prau	Owo	Parau	Elòha	Prau	Owo	Parau	Elòha							J. S. A. Van Dissel	o w o	o w o	owo	p a r au	p a r a:u	para:u	e l ò h a	e l O h a	elOha
+367	274	word	Nave	Capál	Owo	Parau	Elòha	Capál	Owo	Parau	Elòha							J. S. A. Van Dissel	o w o	o w o	owo	p a r au	p a r a:u	para:u	e l ò h a	e l O h a	elOha
+368	274	word	Nemico	Musúh	Emáli	Musú	Parahò	Musúh	Emáli	Musú	Parahò						GPWR--reciprocal (?)	J. S. A. Van Dissel	e m á l i	e m a l i	emali	m u s ú	m u s u	musu	p a r a h ò	p a r a h O	parahO
+369	274	word	Nero	Itám	Saito	Birɔ<i>ng</i>	Caani	Itám	Saito	Birɔng	Caani								s ai t o	s a:i t o	sa:ito	b i r ɔ n g	b i r ɔ n j	birɔnj	c a a n i	k a a n i	kaani
+370	274	word	Nò	Tidá	L<i>o</i>	Indaong	Chèa	Tidá	Lo	Indaong	Chèa								l o	l o	lo	i n d ao n g	i n d a:o n j	inda:onj	ch è a	k E a	kEa
+371	274	word	Noi	Chíta	Iaita	Hita<rm=""incl."">	Ica	Chíta	Iaita	Hita	Ica			incl.					i ai t a	i a:i t a	ia:ita	h i t a	h i t a	hita	i c a	i k a	ika
+372	274	word	Noi	Chíta	Iaita	Hami<rm=""escl."">	Ica	Chíta	Iaita	Hami	Ica			escl.					i ai t a	i a:i t a	ia:ita	h a m i	h a m i	hami	i c a	i k a	ika
+373	274	word	Nome	Náma	T<i>o</i>i	Goarna	Niène	Náma	Toi	Goarna	Niène								t o i	t o i	toi	g o a r n a	j o a r n a	joarna	n i è n e	n i E n e	niEne
+374	274	word	Non ancora	Blòn	L<i>o</i> na	Las sowada	Capé	Blòn	Lo na	Las sowada	Capé								l o # n a	l o # n a	lo na	l a s # s o w a d a	l a s # s o w a d a	las sowada	c a p é	k a p e	kape
+375	274	word	Nostro	Chíta púnia	Ma<rm=""esclus."">		Eharu	Chíta púnia	Ma		Eharu	esclus.							m a	m a	ma		⁇	⁇	e h a r u	e h a r u	eharu
+376	274	word	Nostro	Chíta púnia	Da<rm=""inclus."">		Eharu	Chíta púnia	Da		Eharu	inclus.							d a	d a	da		⁇	⁇	e h a r u	e h a r u	eharu
+377	274	word	Notte	Malám	L<i>o</i> monucha	Bor<i>ng</i>in	Coahia	Malám	Lo monucha	Borngin	Coahia								l o # m o n u c h a	l o # m o n u k h a	lo monukha	b o r n gi n	b o r n c n	borncn	c o a h i a	k o a h i a	koahia
+378	274	word	Nuca	Te<i>ng</i>cúc		Parsangulán<rm=""d' una bestia"">	Heucaa	Tengcúc		Parsangulán	Heucaa			d' una bestia				J. S. A. Van Dissel		⁇	⁇	p a r s a n g u l á n	p a r s a n j u l a n	parsanjulan	h e u c a a	h e u k a a	heukaa
+379	274	word	Nuotare	Renáng	Molangi	Marla<i>ng</i>e	Eaco	Renáng	Molangi	Marlange	Eaco							J. S. A. Van Dissel	m o l a n gi	m o l a n c	molanc	m a r l a n g e	m a r l a n j e	marlanje	e a c o	e a k o	eako
+380	274	word	Nutrimento	Macanán	Balazo	Indahán	Eoá	Macanán	Balazo	Indahán	Eoá							J. S. A. Van Dissel	b a l a z o	b a l a z o	balazo	i n d a h á n	i n d a h a n	indahan	e o á	e o a	eoa
+381	274	word	Nuvole	Awáng	Lavuo		Ecao doho	Awáng	Lavuo		Ecao doho								l a v u o	l a v u o	lavuo		⁇	⁇	e c ao # d o h o	e k a:o # d o h o	eka:o doho
+382	274	word	Obbediente	Turút	C<i>o</i>mo	Mangolòi	Baiò	Turút	Como	Mangolòi	Baiò							J. S. A. Van Dissel	c o m o	k o m o	komo	m a n g o l òi	m a n j o l o:i	manjolo:i	b ai ò	b a:i O	ba:iO
+383	274	word	Occhio	Mata	H<i>o</i>r<i>o</i>	Mata	Ebaca	Mata	Horo	Mata	Ebaca								h o r o	h o r o	horo	m a t a	m a t a	mata	e b a c a	e b a k a	ebaka
+384	274	word	Occupazione	Cregia	Arorodo manu	Ganan	Menuca	Cregia	Arorodo manu	Ganan	Menuca							J. S. A. Van Dissel	a r o r o d o # m a n u	a r o r o d o # m a n u	arorodo manu	g a n a n	j a n a n	janan	m e n u c a	m e n u k a	menuka
+385	274	word	Odiare	Bencí	Maf<i>o</i>nu	Mahihi	Cheneuéhe	Bencí	Mafonu	Mahihi	Cheneuéhe							J. S. A. Van Dissel	m a f o n u	m a f o n u	mafonu	m a h i h i	m a h i x i	mahixi	ch e n e u é h e	k e n e u e h e	keneuehe
+386	274	word	Oggi	Ini arí	Ma<i>o</i>ch<i>o</i>	Naon	Ecaha é	Ini arí	Maocho	Naon	Ecaha é							J. S. A. Van Dissel	m ao c h o	m a:o k h o	ma:okho	n ao n	n a:o n	na:on	e c a h a # é	e k a h a # e	ekaha e
+387	274	word	Olio	Mignác	Fanicha		Epihopò	Mignác	Fanicha		Epihopò								f a n i c h a	f a n i k h a	fanikha		⁇	⁇	e p i h o p ò	e p i x o p O	epixopO
+388	274	word	Ombilico	Pusát	Fuso		Epuco	Pusát	Fuso		Epuco								f u s o	f u s o	fuso		⁇	⁇	e p u c o	e p u k o	epuko
+389	274	word	Ora (avv. )	Scará<i>ng</i>	Iada	Alai	Noóni	Scaráng	Iada	Alai	Noóni								i a d a	i a d a	iada	a l ai	a l a:i	ala:i	n o ó n i	n o o n i	nooni
+390	274	word	Ora (avv. )	Scará<i>ng</i>	Iada	Ombas	Noóni	Scaráng	Iada	Ombas	Noóni								i a d a	i a d a	iada	o m b a s	o m b a s	ombas	n o ó n i	n o o n i	nooni
+391	274	word	Orecchio	Telí<i>ng</i>a	Dali<i>ng</i>a	Supi<i>ng</i>	Ecarihía	Telínga	Dalinga	Suping	Ecarihía								d a l i n g a	d a l i n j a	dalinja	s u p i n g	s u p i n j	supinj	e c a r i h í a	e k a r i x i a	ekarixia
+392	274	word	Orfano	Piátu		Na malumáng	Cahoúca	Piátu		Na malumáng	Cahoúca									⁇	⁇	n a # m a l u m á n g	n a # m a l u m a n j	na malumanj	c a h oú c a	k a h o:u k a	kaho:uka
+393	274	word	Orinare	Buáng aier	Io	Mesè<i>ng</i>	Ecò	Buáng aier	Io	Mesèng	Ecò								i o	i o	io	m e s è n g	m e s E n j	mesEnj	e c ò	e k O	ekO
+394	274	word	Ornamento degli orecchi	Dgin dgin telí<i>ng</i>a	Wale²	Palonác	Paricohòi	Dgin dgin telínga	Wale²	Palonác	Paricohòi								w a l e ²	w a l e ²	wale²	p a l o n á c	p a l o n a k	palonak	p a r i c o h òi	p a r i k o h o:i	parikoho:i
+395	274	word	Ornamento degli orecchi	Dgin dgin telí<i>ng</i>a	Wale²	Si bo<i>ng</i>	Paricohòi	Dgin dgin telínga	Wale²	Si bong	Paricohòi								w a l e ²	w a l e ²	wale²	s i # b o n g	s i # b o n j	si bonj	p a r i c o h òi	p a r i k o h o:i	parikoho:i
+396	274	word	Osso	Tulá<i>ng</i>	Tòla		Eà	Tuláng	Tòla		Eà								t ò l a	t O l a	tOla		⁇	⁇	e à	e a	ea
+397	274	word	Ovunque		Gòfu heza		Idò²		Gòfu heza		Idò²								g ò f u # h e z a	j O f u # h e z a	jOfu heza		⁇	⁇	i d ò ²	i d O ²	idO²
+398	274	word	Pacco di tabacco	Lempèng	Lèfe		Cachidapa	Lempèng	Lèfe		Cachidapa								l è f e	l E f e	lEfe		⁇	⁇	c a ch i d a p a	k a k i d a p a	kakidapa
+399	275	word	Padre	Ama	Oma	Ama	Ama	Ama	Oma	Ama	Ama								o m a	o m a	oma	a m a	a m a	ama	a m a	a m a	ama
+400	275	word	Palpebra	Chelupa mata			Eurobaca	Chelupa mata			Eurobaca									⁇	⁇		⁇	⁇	e u r o b a c a	e u r o b a k a	eurobaka
+401	275	word	Palude	Rawa	Laza	Rawáng	Chelo²	Rawa	Laza	Rawáng	Chelo²							J. S. A. Van Dissel	l a z a	l a z a	laza	r a w á n g	r a w a n j	rawanj	ch e l o ²	k e l o ²	kelo²
+402	275	word	Parenti	Sanac sudara	Sibaia	Na góda<i>ng</i>	Arpaha	Sanac sudara	Sibaia	Na gódang	Arpaha								s i b ai a	s i b a:i a	siba:ia	n a # g ó d a n g	n a # j o d a n j	na jodanj	a r p a h a	a r p a h a	arpaha
+403	275	word	Parlare	Biciara	Muhede	Mahatai	Panau̇	Biciara	Muhede	Mahatai	Panau̇								m u h e d e	m u h e d e	muhede	m a h a t ai	m a h a t a:i	mahata:i	p a n au̇	p a n a:u	pana:u
+404	275	word	Partorire	Beranác	Madono	Maranác	Baara	Beranác	Madono	Maranác	Baara								m a d o n o	m a d o n o	madono	m a r a n á c	m a r a n a k	maranak	b a a r a	b a a r a	baara
+405	275	word	Partorire	Beranác	Madono	Maranác	Omumo	Beranác	Madono	Maranác	Omumo								m a d o n o	m a d o n o	madono	m a r a n á c	m a r a n a k	maranak	o m u m o	o m u m o	omumo
+406	275	word	Patata indigena	Ubi cheladí	Gòbi	Suhát	Eudòpo	Ubi cheladí	Gòbi	Suhát	Eudòpo								g ò b i	j O b i	jObi	s u h á t	s u h a t	suhat	e u d ò p o	e u d O p o	eudOpo
+407	275	word	Pauroso	Tacút	L<i>o</i>m<i>o</i>i m<i>o</i>i	Mabijár	Cahò	Tacút	Lomoi moi	Mabijár	Cahò								l o m o i # m o i	l o m o i # m o i	lomoi moi	m a b i j á r	m a b i j a r	mabijar	c a h ò	k a h O	kahO
+408	275	word	Paura	Tacút	Atau	Bijár	Chiacáho	Tacút	Atau	Bijár	Chiacáho							J. S. A. Van Dissel	a t au	a t a:u	ata:u	b i j á r	b i j a r	bijar	ch i a c á h o	k i a k a h o	kiakaho
+409	275	word	Paziente	Sábar	D<i>o</i>d<i>o</i> eb<i>o</i>lo	Noc	Cheoba puhai pahua	Sábar	Dodo ebolo	Noc	Cheoba puhai pahua								d o d o # e b o l o	d o d o # e b o l o	dodo ebolo	n o c	n o k	nok	ch e o b a # p u h ai # p a h u a	k e o b a # p u h a:i # p a h u a	keoba puha:i pahua
+410	275	word	Pazzo	Ghíla	Ohoho	Na lalaen	Caparae bahu	Ghíla	Ohoho	Na lalaen	Caparae bahu							J. S. A. Van Dissel	o h o h o	o h o h o	ohoho	n a # l a l ae n	n a # l a l a:e n	na lala:en	c a p a r ae # b a h u	k a p a r a:e # b a h u	kapara:e bahu
+411	275	word	Pelle	Culít	Uli	Huling²	Euli	Culít	Uli	Huling²	Euli								u l i	u l i	uli	h u l i n g ²	h u l i n j ²	hulinj²	e u l i	e u l i	euli
+412	275	word	Penna	Bulu	Bu	Buc²	Pruru	Bulu	Bu	Buc²	Pruru							J. S. A. Van Dissel	b u	b u	bu	b u c ²	b u k ²	buk²	p r u r u	p r u r u	pruru
+413	275	word	Pepe	Lada	Lada	Lada	Coro²	Lada	Lada	Lada	Coro²							J. S. A. Van Dissel	l a d a	l a d a	lada	l a d a	l a d a	lada	c o r o ²	k o r o ²	koro²
+414	275	word	Perdere	Ilá<i>ng</i>	Teala	Mago	Cheora	Iláng	Teala	Mago	Cheora							J. S. A. Van Dissel	t e a l a	t e a l a	teala	m a g o	m a j o	majo	ch e o r a	k e o r a	keora
+415	275	word	Pesante	Brát	Abua	Doc²	Enò	Brát	Abua	Doc²	Enò								a b u a	a b u a	abua	d o c ²	d o k ²	dok²	e n ò	e n O	enO
+416	275	word	Pesoe	Icán	Ia	Decchè	Iaio	Icán	Ia	Decchè	Iaio								i a	i a	ia	d e c ch è	d e k k E	dekkE	i ai o	i a:i o	ia:io
+417	275	word	Pestare col pestello		Tutu	Limot	Capurica		Tutu	Limot	Capurica								t u t u	t u t u	tutu	l i m o t	l i m o t	limot	c a p u r i c a	k a p u r i k a	kapurika
+418	275	word	Pestare col pestello		Tutu	Manduda	Capurica		Tutu	Manduda	Capurica								t u t u	t u t u	tutu	m a n d u d a	m a n d u d a	manduda	c a p u r i c a	k a p u r i k a	kapurika
+419	275	word	Pestello	Alu	Halu	Balbal	Elacò	Alu	Halu	Balbal	Elacò								h a l u	h a l u	halu	b a l b a l	b a l b a l	balbal	e l a c ò	e l a k O	elakO
+420	275	word	Pestello	Antán	Halu	Balbal	Elacò	Antán	Halu	Balbal	Elacò								h a l u	h a l u	halu	b a l b a l	b a l b a l	balbal	e l a c ò	e l a k O	elakO
+421	275	word	Pettinare	Menisir	Suchu	Manuri	Chichi ulu	Menisir	Suchu	Manuri	Chichi ulu							J. S. A. Van Dissel	s u c h u	s u k h u	sukhu	m a n u r i	m a n u r i	manuri	ch i ch i # u l u	k i k i # u l u	kiki ulu
+422	275	word	Petto di donna	Susu prampuán	Memé susú	Susu	Ecoco	Susu prampuán	Memé susú	Susu	Ecoco								m e m é # s u s ú	m e m e # s u s u	meme susu	s u s u	s u s u	susu	e c o c o	e k o k o	ekoko
+423	275	word	Petto di donna	Tetèc	Memé susú	Susu	Ecoco	Tetèc	Memé susú	Susu	Ecoco								m e m é # s u s ú	m e m e # s u s u	meme susu	s u s u	s u s u	susu	e c o c o	e k o k o	ekoko
+424	275	word	Petto di uomo	Dada	Tatoa		Eamaha	Dada	Tatoa		Eamaha								t a t o a	t a t o a	tatoa		⁇	⁇	e a m a h a	e a m a h a	eamaha
+425	275	word	Piangere	Mena<i>ng</i>ís	Mee	Singgòh	Apelu	Menangís	Mee	Singgòh	Apelu								m e e	m e e	mee	s i n g g ò h	s i n j j O h	sinjjOh	a p e l u	a p e l u	apelu
+426	275	word	Piantare	Tanám	Manan<i>o</i>	Manuwán	Bacò	Tanám	Manano	Manuwán	Bacò								m a n a n o	m a n a n o	manano	m a n u w á n	m a n u w a n	manuwan	b a c ò	b a k O	bakO
+427	275	word	Piatto di legno	Pirín caiú	Figa	Pínar tatuan	Epahiù	Pirín caiú	Figa	Pínar tatuan	Epahiù								f i g a	f i j a	fija	p í n a r # t a t u a n	p i n a r # t a t u a n	pinar tatuan	e p a h i ù	e p a h i u	epahiu
+428	275	word	Piatto di legno	Pirín caiú	Figa	Sapa	Epahiù	Pirín caiú	Figa	Sapa	Epahiù								f i g a	f i j a	fija	s a p a	s a p a	sapa	e p a h i ù	e p a h i u	epahiu
+429	275	word	Piccolo	Chicíl	Ide²	Mèt²	Nuchi	Chicíl	Ide²	Mèt²	Nuchi								i d e ²	i d e ²	ide²	m è t ²	m E t ²	mEt²	n u ch i	n u k i	nuki
+430	275	word	Piede	Cachì	Ahe	Pat	Iae	Cachì	Ahe	Pat	Iae							J. S. A. Van Dissel	a h e	a h e	ahe	p a t	p a t	pat	i ae	i a:e	ia:e
+431	275	word	Piede	Cachì	Ahe	Pat	Eapáua uae	Cachì	Ahe	Pat	Eapáua uae							J. S. A. Van Dissel	a h e	a h e	ahe	p a t	p a t	pat	e a p á u a # u ae	e a p a u a # u a:e	eapaua ua:e
+432	275	word	Pieno	Penú<i>ng</i>	Afono	Goc	Pamo	Penúng	Afono	Goc	Pamo							J. S. A. Van Dissel	a f o n o	a f o n o	afono	g o c	j o k	jok	p a m o	p a m o	pamo
+433	275	word	Pietra	Batú	Cara	Batú	Eea	Batú	Cara	Batú	Eea								c a r a	k a r a	kara	b a t ú	b a t u	batu	e e a	e e a	eea
+434	275	word	Pietra da arrotare	Batú gossò	Gobé	Pungà	Eea ia peigi	Batú gossò	Gobé	Pungà	Eea ia peigi								g o b é	j o b e	jobe	p u n g à	p u n j a	punja	e e a # i a # p ei gi	e e a # i a # p e:i c	eea ia pe:ic
+435	275	word	Pioggia	Úgian	Teu	Uda<i>ng</i>	Ebò	Úgian	Teu	Udang	Ebò								t e u	t e u	teu	u d a n g	u d a n j	udanj	e b ò	e b O	ebO
+436	275	word	Più tardi	Tadí	Na furi	Sogot	Bodo	Tadí	Na furi	Sogot	Bodo								n a # f u r i	n a # f u r i	na furi	s o g o t	s o j o t	sojot	b o d o	b o d o	bodo
+437	275	word	Poi	Abís	Awena	Gialo²	Na apé	Abís	Awena	Gialo²	Na apé								a w e n a	a w e n a	awena	gi a l o ²	c a l o ²	calo²	n a # a p é	n a # a p e	na ape
+438	275	word	Pollaio	Tampát aiám		Sunút		Tampát aiám		Sunút										⁇	⁇	s u n ú t	s u n u t	sunut		⁇	⁇
+439	275	word	Pollice	Ibu giari	Turu sebua	Ina ni ta<i>ng</i>án	Ena uapo	Ibu giari	Turu sebua	Ina ni tangán	Ena uapo								t u r u # s e b u a	t u r u # s e b u a	turu sebua	i n a # n i # t a n g á n	i n a # n i # t a n j a n	ina ni tanjan	e n a # u a p o	e n a # u a p o	ena uapo
+440	275	word	Pollice del piede	Ibu giari cachì			Ena ua	Ibu giari cachì			Ena ua									⁇	⁇		⁇	⁇	e n a # u a	e n a # u a	ena ua
+441	275	word	Polpaccio	Giantú<i>ng</i> betís	Arowaha	Gabur	Pio²	Giantúng betís	Arowaha	Gabur	Pio²							J. S. A. Van Dissel	a r o w a h a	a r o w a h a	arowaha	g a b u r	j a b u r	jabur	p i o ²	p i o ²	pio²
+442	276	word	Polso	Nadi	B<i>o</i>l<i>o</i>cha		Epu apò	Nadi	Bolocha		Epu apò								b o l o c h a	b o l o k h a	bolokha		⁇	⁇	e p u # a p ò	e p u # a p O	epu apO
+443	276	word	Porcile	Tampát babí	Bao		Euba ecòio	Tampát babí	Bao		Euba ecòio								b ao	b a:o	ba:o		⁇	⁇	e u b a # e c òi o	e u b a # e k o:i o	euba eko:io
+444	276	word	Porco	Babí	Bawi	Babi	Ecòio	Babí	Bawi	Babi	Ecòio								b a w i	b a w i	bawi	b a b i	b a b i	babi	e c òi o	e k o:i o	eko:io
+445	276	word	Porta	Pintú	Bawa ndruh<i>o</i>	Pitu	Ecar èuba	Pintú	Bawa ndruho	Pitu	Ecar èuba								b a w a # n d r u h o	b a w a # n d r u h o	bawa ndruho	p i t u	p i t u	pitu	e c a r # è u b a	e k a r # E u b a	ekar Euba
+446	276	word	Potersi	Bolè	Tola	Noroc	Noha chia	Bolè	Tola	Noroc	Noha chia								t o l a	t o l a	tola	n o r o c	n o r o k	norok	n o h a # ch i a	n o h a # k i a	noha kia
+447	276	word	Potersi	Bolè	Tola	Malo	Noha chia	Bolè	Tola	Malo	Noha chia								t o l a	t o l a	tola	m a l o	m a l o	malo	n o h a # ch i a	n o h a # k i a	noha kia
+448	276	word	Povero	Mischín	Numána	Pógos	Chèoba dobu	Mischín	Numána	Pógos	Chèoba dobu								n u m á n a	n u m a n a	numana	p ó g o s	p o j o s	pojos	ch è o b a # d o b u	k E o b a # d o b u	kEoba dobu
+449	276	word	Prendere	Ambil	Hal<i>o</i>	Buwát	Manà	Ambil	Halo	Buwát	Manà								h a l o	h a l o	halo	b u w á t	b u w a t	buwat	m a n à	m a n a	mana
+450	276	word	Prendere in sроsа	Cawín	Fangowálu	Mambuwát	Mana cahoda pahona	Cawín	Fangowálu	Mambuwát	Mana cahoda pahona								f a n g o w á l u	f a n j o w a l u	fanjowalu	m a m b u w á t	m a m b u w a t	mambuwat	m a n a # c a h o d a # p a h o n a	m a n a # k a h o d a # p a h o n a	mana kahoda pahona
+451	276	word	Precipitare	Menergiumcán	Alau	Mordobóm	Capuuda	Menergiumcán	Alau	Mordobóm	Capuuda								a l au	a l a:u	ala:u	m o r d o b ó m	m o r d o b o m	mordobom	c a p u u d a	k a p u u d a	kapuuda
+452	276	word	Prima	Dulú	Me f<i>o</i>na	Na sa ingán	Cahanua	Dulú	Me fona	Na sa ingán	Cahanua							J. S. A. Van Dissel	m e # f o n a	m e # f o n a	me fona	n a # s a # i n g á n	n a # s a # i n j a n	na sa injan	c a h a n u a	k a h a n u a	kahanua
+453	276	word	Primo genito	Solo<i>ng</i>	Ono siaa		Moa	Solong	Ono siaa		Moa								o n o # s i a a	o n o # s i a a	ono siaa		⁇	⁇	m o a	m o a	moa
+454	276	word	Promontorio	Udgiu<i>ng</i>		Udgiu<i>ng</i>	Curu	Udgiung		Udgiung	Curu							J. S. A. Van Dissel		⁇	⁇	u d gi u n g	u d c u n j	udcunj	c u r u	k u r u	kuru
+455	276	word	Pulito	Bressí	Aloo	Gandging	Cana	Bressí	Aloo	Gandging	Cana							J. S. A. Van Dissel	a l o o	a l o o	aloo	g a n d gi n g	j a n d c n j	jandcnj	c a n a	k a n a	kana
+456	276	word	Purgare	Ber bau bussúc	Ab<i>o</i>u	Bau	Capau	Ber bau bussúc	Abou	Bau	Capau						M--berbau bussúc		a b ou	a b o:u	abo:u	b au	b a:u	ba:u	c a p au	k a p a:u	kapa:u
+457	276	word	Quando	Bila	Hawara	Andigan	Na cuani	Bila	Hawara	Andigan	Na cuani							J. S. A. Van Dissel	h a w a r a	h a w a r a	hawara	a n d i g a n	a n d i j a n	andijan	n a # c u a n i	n a # k u a n i	na kuani
+458	276	word	Quanto ?	Brapa	Hauga	Sa diia	Apiha	Brapa	Hauga	Sa diia	Apiha								h au g a	h a:u j a	ha:uja	s a # d i i a	s a # d i i a	sa diia	a p i h a	a p i x a	apixa
+459	276	word	Quasi	Hampir	Ahoto	Siiol	Bapanena	Hampir	Ahoto	Siiol	Bapanena							J. S. A. Van Dissel	a h o t o	a h o t o	ahoto	s i i o l	s i i o l	siiol	b a p a n e n a	b a p a n e n a	bapanena
+460	276	word	Quello	Itu	Dae	An	Iò	Itu	Dae	An	Iò								d ae	d a:e	da:e	a n	a n	an	i ò	i O	iO
+461	276	word	Quello	Itu	Dae	I	Iò	Itu	Dae	I	Iò								d ae	d a:e	da:e	i	i	i	i ò	i O	iO
+462	276	word	Questo	Ini	Daa	On	Eà	Ini	Daa	On	Eà								d a a	d a a	daa	o n	o n	on	e à	e a	ea
+463	276	word	Radere	Ciucúr	Tobo		Mauné	Ciucúr	Tobo		Mauné								t o b o	t o b o	tobo		⁇	⁇	m au n é	m a:u n e	ma:une
+464	276	word	Radice	Acar	Wa'a	Urat	Ebà	Acar	Wa'a	Urat	Ebà								w a ' a	w a ' a	wa'a	u r a t	u r a t	urat	e b à	e b a	eba
+465	276	word	Rame	Tambaga	Tambago	Tambaga	Calelea	Tambaga	Tambago	Tambaga	Calelea								t a m b a g o	t a m b a j o	tambajo	t a m b a g a	t a m b a j a	tambaja	c a l e l e a	k a l e l e a	kalelea
+466	276	word	Ramo	Dahan	Daha gheu	Dacca	Eapodia	Dahan	Daha gheu	Dacca	Eapodia							J. S. A. Van Dissel	d a h a # g h e u	d a h a # j h e u	daha jheu	d a cc a	d a k a	daka	e a p o d i a	e a p o d i a	eapodia
+467	276	word	Rancore	Atí chicil	D<i>o</i>d<i>o</i> bao	Milas	Chipahua chidèida	Atí chicil	Dodo bao	Milas	Chipahua chidèida						M--hati kecil (?)	J. S. A. Van Dissel	d o d o # b ao	d o d o # b a:o	dodo ba:o	m i l a s	m i l a s	milas	ch i p a h u a # ch i d è i d a	k i p a h u a # k i d E i d a	kipahua kidEida
+468	276	word	Raramente	Giara<i>ng</i>	L<i>o</i> asese	Rac²	Chèoba eabá	Giarang	Lo asese	Rac²	Chèoba eabá							J. S. A. Van Dissel	l o # a s e s e	l o # a s e s e	lo asese	r a c ²	r a k ²	rak²	ch è o b a # e a b á	k E o b a # e a b a	kEoba eaba
+469	276	word	Rassomigliarsi	Sama giugá rupa	Fachilichili	Pungu	Panacona	Sama giugá rupa	Fachilichili	Pungu	Panacona								f a ch i l i ch i l i	f a k i l i k i l i	fakilikili	p u n g u	p u n j u	punju	p a n a c o n a	p a n a k o n a	panakona
+470	276	word	Remare	Daiu<i>ng</i>	Fangalucho	Marluga	Eògi	Daiung	Fangalucho	Marluga	Eògi							J. S. A. Van Dissel	f a n g a l u c h o	f a n j a l u k h o	fanjalukho	m a r l u g a	m a r l u j a	marluja	e ò gi	e O c	eOc
+471	276	word	Respirare	Menapás	Hanu²	Numosa	Chipòro	Menapás	Hanu²	Numosa	Chipòro							J. S. A. Van Dissel	h a n u ²	h a n u ²	hanu²	n u m o s a	n u m o s a	numosa	ch i p ò r o	k i p O r o	kipOro
+472	276	word	Rete da pesci	Giari<i>ng</i> ican	Diala	Duru<i>ng</i>	Ecabuaio	Giaring ican	Diala	Durung	Ecabuaio								d i a l a	d i a l a	diala	d u r u n g	d u r u n j	durunj	e c a b u ai o	e k a b u a:i o	ekabua:io
+473	276	word	Rete da uccelli	Giari<i>ng</i> buro<i>ng</i>	U <i>o</i> zocha	Canto	Ecahaba	Giaring burong	U o zocha	Canto	Ecahaba							J. S. A. Van Dissel	u # o # z o c h a	u # o # z o k h a	u o zokha	c a n t o	k a n t o	kanto	e c a h a b a	e k a h a b a	ekahaba
+474	276	word	Ago per accomodare le reti	Giarúm giari<i>ng</i>			Eparopa	Giarúm giaring			Eparopa									⁇	⁇		⁇	⁇	e p a r o p a	e p a r o p a	eparopa
+475	276	word	Ridere	Tertaua	Maigi	Mortata	Eocaha	Tertaua	Maigi	Mortata	Eocaha								m ai gi	m a:i c	ma:ic	m o r t a t a	m o r t a t a	mortata	e o c a h a	e o k a h a	eokaha
+476	276	word	Ridere	Tertaua	Maigi	Mortata	Epaucaha	Tertaua	Maigi	Mortata	Epaucaha								m ai gi	m a:i c	ma:ic	m o r t a t a	m o r t a t a	mortata	e p au c a h a	e p a:u k a h a	epa:ukaha
+477	276	word	Riempire	Bichín penun	Osi	Mangohi	Chifamu	Bichín penun	Osi	Mangohi	Chifamu						M--Bichín penuh	J. S. A. Van Dissel	o s i	o s i	osi	m a n g o h i	m a n j o h i	manjohi	ch i f a m u	k i f a m u	kifamu
+478	276	word	Riempire	Memenúh	Osi	Mangohi	Chifamu	Memenúh	Osi	Mangohi	Chifamu						M--Bichín penuh	J. S. A. Van Dissel	o s i	o s i	osi	m a n g o h i	m a n j o h i	manjohi	ch i f a m u	k i f a m u	kifamu
+479	276	word	Ripulire il campo dalle erbe	Mentciabút rumpút	Famácha	Manittitson	Baapia	Mentciabút rumpút	Famácha	Manittitson	Baapia							J. S. A. Van Dissel	f a m á c h a	f a m a k h a	famakha	m a n i t t i t s o n	m a n i t t i t s o n	manittitson	b a a p i a	b a a p i a	baapia
+480	276	word	Risalire il fiume	Naèc calí	Lafa oroi	Pahu²	Caha ca belowa	Naèc calí	Lafa oroi	Pahu²	Caha ca belowa								l a f a # o r o i	l a f a # o r o i	lafa oroi	p a h u ²	p a h u ²	pahu²	c a h a # c a # b e l o w a	k a h a # k a # b e l o w a	kaha ka belowa
+481	276	word	Risparmiare	Me<i>ng</i>impán	Faòsi si		Chichihichi	Mengimpán	Faòsi si		Chichihichi								f aò s i # s i	f a:O s i # s i	fa:Osi si		⁇	⁇	ch i ch i h i ch i	k i k i x i k i	kikixiki
+482	276	word	Ritornare	Cumbalí	Mangawuli	Mulah	Chidudua	Cumbalí	Mangawuli	Mulah	Chidudua								m a n g a w u l i	m a n j a w u l i	manjawuli	m u l a h	m u l a h	mulah	ch i d u d u a	k i d u d u a	kidudua
+483	277	word	Ritrovare	Mendapát	Ifuli itema	Mandapót	Pacohà	Mendapát	Ifuli itema	Mandapót	Pacohà						GPWR--reciprocal (?)	J. S. A. Van Dissel	i f u l i # i t e m a	i f u l i # i t e m a	ifuli itema	m a n d a p ó t	m a n d a p o t	mandapot	p a c o h à	p a k o h a	pakoha
+484	277	word	Rompere	Picciá	Afato	Mamongól	Cará	Picciá	Afato	Mamongól	Cará						M--pecah	J. S. A. Van Dissel	a f a t o	a f a t o	afato	m a m o n g ó l	m a m o n j o l	mamonjol	c a r á	k a r a	kara
+485	277	word	Rosso	Merá	Oio	Rara	Calicòcco	Merá	Oio	Rara	Calicòcco								o i o	o i o	oio	r a r a	r a r a	rara	c a l i c ò cc o	k a l i k O k o	kalikOko
+486	277	word	Rotang		Ue	Hota<i>ng</i>	Echihi		Ue	Hotang	Echihi								u e	u e	ue	h o t a n g	h o t a n j	hotanj	e ch i h i	e k i x i	ekixi
+487	277	word	Rovinato	Rusác		Manegahón		Rusác		Manegahón										⁇	⁇	m a n e g a h ó n	m a n e j a h o n	manejahon		⁇	⁇
+488	277	word	Rovinato (franato)			Matolbac	Chiòha			Matolbac	Chiòha									⁇	⁇	m a t o l b a c	m a t o l b a k	matolbak	ch i ò h a	k i O h a	kiOha
+489	277	word	Rubare	Ciurí	Manag<i>o</i>na<i>go</i>	Mana<i>ng</i>ho	Cabého	Ciurí	Managonago	Manangho	Cabého								m a n a g o n a g o	m a n a j o n a j o	manajonajo	m a n a n g h o	m a n a n j h o	mananjho	c a b é h o	k a b e h o	kabeho
+490	277	word	Saggio	Pandei	Onèche	Guru	Cabahoia	Pandei	Onèche	Guru	Cabahoia								o n è ch e	o n E k e	onEke	g u r u	j u r u	juru	c a b a h o i a	k a b a h o i a	kabahoia
+491	277	word	Sangue	Darát	Do	Mudar	Caachitri	Darát	Do	Mudar	Caachitri								d o	d o	do	m u d a r	m u d a r	mudar	c a a ch i t r i	k a a k i t r i	kaakitri
+492	277	word	Sanguisuga	Lintá	Lita		Comaù	Lintá	Lita		Comaù								l i t a	l i t a	lita		⁇	⁇	c o m aù	k o m a:u	koma:u
+493	277	word	Sapere	Tau	Sangila	Umboto	Pohoiá	Tau	Sangila	Umboto	Pohoiá							J. S. A. Van Dissel	s a n gi l a	s a n c l a	sancla	u m b o t o	u m b o t o	umboto	p o h o i á	p o h o i a	pohoia
+494	277	word	Sbadigliare	Me<i>ng</i>a<i>ng</i>a	Meha	Pagiac	Pauápo	Menganga	Meha	Pagiac	Pauápo								m e h a	m e h a	meha	p a gi a c	p a c a k	pacak	p au á p o	p a:u a p o	pa:uapo
+495	277	word	Sbadigliare	Me<i>ng</i>a<i>ng</i>a	Meha	Pagiac	Poapo	Menganga	Meha	Pagiac	Poapo								m e h a	m e h a	meha	p a gi a c	p a c a k	pacak	p o a p o	p o a p o	poapo
+496	277	word	Scacciapensieri	Gi<i>ng</i>a<i>ng</i>		Saga saga hodon	Ediochéco	Gingang		Saga saga hodon	Ediochéco									⁇	⁇	s a g a # s a g a # h o d o n	s a j a # s a j a # h o d o n	saja saja hodon	e d i o ch é c o	e d i o k e k o	ediokeko
+497	277	word	Scaglia	Sisè ican	Huna²	Sisic	Enania	Sisè ican	Huna²	Sisic	Enania							J. S. A. Van Dissel	h u n a ²	h u n a ²	huna²	s i s i c	s i s i k	sisik	e n a n i a	e n a n i a	enania
+498	277	word	Scala	Tanga	Ora	Tanga	Ehèa	Tanga	Ora	Tanga	Ehèa							J. S. A. Van Dissel	o r a	o r a	ora	t a n g a	t a n j a	tanja	e h è a	e h E a	ehEa
+499	277	word	Scemo	Bodo	Ab<i>o</i>low<i>o</i>ch<i>o</i>	Oto	Caparebahu	Bodo	Abolowocho	Oto	Caparebahu							J. S. A. Van Dissel	a b o l o w o c h o	a b o l o w o k h o	abolowokho	o t o	o t o	oto	c a p a r e b a h u	k a p a r e b a h u	kaparebahu
+500	277	word	Scendere	Turun	Milo tou	Tuwat	Ahitòpo	Turun	Milo tou	Tuwat	Ahitòpo								m i l o # t ou	m i l o # t o:u	milo to:u	t u w a t	t u w a t	tuwat	a h i t ò p o	a h i t O p o	ahitOpo
+501	277	word	Scendere	Turun	Milo tou	Midgiur	Ahitòpo	Turun	Milo tou	Midgiur	Ahitòpo								m i l o # t ou	m i l o # t o:u	milo to:u	m i d gi u r	m i d c u r	midcur	a h i t ò p o	a h i t O p o	ahitOpo
+502	277	word	Scheletro	Tulang tulang	Boto zi máte	Ra<i>ng</i>²	Eadia	Tulang tulang	Boto zi máte	Rang²	Eadia							J. S. A. Van Dissel	b o t o # z i # m á t e	b o t o # z i # m a t e	boto zi mate	r a n g ²	r a n j ²	ranj²	e a d i a	e a d i a	eadia
+503	277	word	Scherzare	Main	Fawude	Margait	Baitara	Main	Fawude	Margait	Baitara							J. S. A. Van Dissel	f a w u d e	f a w u d e	fawude	m a r g ai t	m a r j a:i t	marja:it	b ai t a r a	b a:i t a r a	ba:itara
+504	277	word	Scherzare	Main	Fawude	Margait	Moco pamehena	Main	Fawude	Margait	Moco pamehena							J. S. A. Van Dissel	f a w u d e	f a w u d e	fawude	m a r g ai t	m a r j a:i t	marja:it	m o c o # p a m e h e n a	m o k o # p a m e h e n a	moko pamehena
+505	277	word	Scoglio	Carang	Gowe	Batu	Eea	Carang	Gowe	Batu	Eea							J. S. A. Van Dissel	g o w e	j o w e	jowe	b a t u	b a t u	batu	e e a	e e a	eea
+506	277	word	Scongiuro	Pembua<i>ng</i>an setan	Faetósa	Mahusaem	Ehabédo	Pembuangan setan	Faetósa	Mahusaem	Ehabédo								f ae t ó s a	f a:e t o s a	fa:etosa	m a h u s ae m	m a h u s a:e m	mahusa:em	e h a b é d o	e h a b e d o	ehabedo
+507	277	word	Se	Calò	Na	Olo	Hio	Calò	Na	Olo	Hio								n a	n a	na	o l o	o l o	olo	h i o	h i o	hio
+508	277	word	Secco	Crin	Odufodufo	Has	Caachihi	Crin	Odufodufo	Has	Caachihi							J. S. A. Van Dissel	o d u f o d u f o	o d u f o d u f o	odufodufo	h a s	h a s	has	c a a ch i h i	k a a k i x i	kaakixi
+509	277	word	Secco	Crin	Odufodufo	Hora	Caachihi	Crin	Odufodufo	Hora	Caachihi							J. S. A. Van Dissel	o d u f o d u f o	o d u f o d u f o	odufodufo	h o r a	h o r a	hora	c a a ch i h i	k a a k i x i	kaakixi
+510	277	word	Sedersi	Dudò	Dadaau	Hundul	Ehècu	Dudò	Dadaau	Hundul	Ehècu						M--duduk		d a d a au	d a d a a:u	dadaa:u	h u n d u l	h u n d u l	hundul	e h è c u	e h E k u	ehEku
+511	277	word	Seguire	Turut	Oo	Manghihutton	Aioo	Turut	Oo	Manghihutton	Aioo							J. S. A. Van Dissel	o o	o o	oo	m a n g h i h u t t o n	m a n j h i x u t t o n	manjhixutton	ai o o	a:i o o	a:ioo
+512	277	word	Seguire	Icut	Oo	Manghihutton	Aioo	Icut	Oo	Manghihutton	Aioo							J. S. A. Van Dissel	o o	o o	oo	m a n g h i h u t t o n	m a n j h i x u t t o n	manjhixutton	ai o o	a:i o o	a:ioo
+513	277	word	Sempre	Salalu	Gofuheza	Sai	Bodo	Salalu	Gofuheza	Sai	Bodo							J. S. A. Van Dissel	g o f u h e z a	j o f u h e z a	jofuheza	s ai	s a:i	sa:i	b o d o	b o d o	bodo
+514	277	word	Sentire	Me rasa sacchè	Af<i>o</i>ch<i>o</i>	Malla	Chèoba iaua	Me rasa sacchè	Afocho	Malla	Chèoba iaua						M--merasa sacchè	J. S. A. Van Dissel	a f o c h o	a f o k h o	afokho	m a l l a	m a l l a	malla	ch è o b a # i au a	k E o b a # i a:u a	kEoba ia:ua
+515	277	word	Sera	Petang	Owi	Na bot	Nama huma	Petang	Owi	Na bot	Nama huma							J. S. A. Van Dissel	o w i	o w i	owi	n a # b o t	n a # b o t	na bot	n a m a # h u m a	n a m a # h u m a	nama huma
+516	277	word	Sete	Dahaga	Aw<i>o</i>chi d<i>o</i>d<i>o</i>	Manguwas	Echihoa	Dahaga	Awochi dodo	Manguwas	Echihoa							J. S. A. Van Dissel	a w o ch i # d o d o	a w o k i # d o d o	awoki dodo	m a n g u w a s	m a n j u w a s	manjuwas	e ch i h o a	e k i x o a	ekixoa
+517	277	word	Sete	Haus	Aw<i>o</i>chi d<i>o</i>d<i>o</i>	Manguwas	Echihoa	Haus	Awochi dodo	Manguwas	Echihoa							J. S. A. Van Dissel	a w o ch i # d o d o	a w o k i # d o d o	awoki dodo	m a n g u w a s	m a n j u w a s	manjuwas	e ch i h o a	e k i x o a	ekixoa
+518	277	word	Sì	Ia	E	Olo	Ò	Ia	E	Olo	Ò								e	e	e	o l o	o l o	olo	ò	O	O
+519	277	word	Simile	Sama giugá	Simané	So<i>ng</i>on	Panacona	Sama giugá	Simané	Songon	Panacona						GPWR--Reciprocal (?)		s i m a n é	s i m a n e	simane	s o n g o n	s o n j o n	sonjon	p a n a c o n a	p a n a k o n a	panakona
+520	277	word	Sinistra	Chirí	Gambera	Hambirang	Eèpe	Chirí	Gambera	Hambirang	Eèpe							J. S. A. Van Dissel	g a m b e r a	j a m b e r a	jambera	h a m b i r a n g	h a m b i r a n j	hambiranj	e è p e	e E p e	eEpe
+521	277	word	Si può andare	Bolè pighí	Tola latoro	Ra lao	Uahapè	Bolè pighí	Tola latoro	Ra lao	Uahapè							J. S. A. Van Dissel	t o l a # l a t o r o	t o l a # l a t o r o	tola latoro	r a # l ao	r a # l a:o	ra la:o	u a h a p è	u a h a p E	uahapE
+522	277	word	Sole	Mata ari	Lúo	Mata ni ari	Bacacaho	Mata ari	Lúo	Mata ni ari	Bacacaho							J. S. A. Van Dissel	l ú o	l u o	luo	m a t a # n i # a r i	m a t a # n i # a r i	mata ni ari	b a c a c a h o	b a k a k a h o	bakakaho
+523	277	word	Soltanto	Sa hagia	Ha	Tombal	Eia	Sa hagia	Ha	Tombal	Eia							J. S. A. Van Dissel	h a	h a	ha	t o m b a l	t o m b a l	tombal	ei a	e:i a	e:ia
+524	277	word	Somigliare	Be rupa sama			Panacona	Be rupa sama			Panacona						GPWR--Reciprocal (?)			⁇	⁇		⁇	⁇	p a n a c o n a	p a n a k o n a	panakona
+525	277	word	Somigliare	Be rupa sama			Panacona	Be rupa sama			Panacona						M--berupa sama			⁇	⁇		⁇	⁇	p a n a c o n a	p a n a k o n a	panakona
+526	277	word	Sopracciglio	Cheni<i>ng</i>		Salibon	Ecufele baca	Chening		Salibon	Ecufele baca							J. S. A. Van Dissel		⁇	⁇	s a l i b o n	s a l i b o n	salibon	e c u f e l e # b a c a	e k u f e l e # b a k a	ekufele baka
+527	277	word	Sordo	Peca	Afiso	Ne<i>ng</i>el	Capihoro	Peca	Afiso	Nengel	Capihoro							J. S. A. Van Dissel	a f i s o	a f i s o	afiso	n e n g e l	n e n j e l	nenjel	c a p i h o r o	k a p i x o r o	kapixoro
+528	278	word	Sorella	Sudára prampuán	Talifus<i>o</i> alawe	Iboto	Eaha ehòda	Sudára prampuán	Talifuso alawe	Iboto	Eaha ehòda								t a l i f u s o # a l a w e	t a l i f u s o # a l a w e	talifuso alawe	i b o t o	i b o t o	iboto	e a h a # e h ò d a	e a h a # e h O d a	eaha ehOda
+529	278	word	Sorella	Sudára prampuán	Talifus<i>o</i> alawe	Haha<rm=""maggiore"">	Eaha ehòda	Sudára prampuán	Talifuso alawe	Haha	Eaha ehòda			maggiore					t a l i f u s o # a l a w e	t a l i f u s o # a l a w e	talifuso alawe	h a h a	h a h a	haha	e a h a # e h ò d a	e a h a # e h O d a	eaha ehOda
+530	278	word	Sorella	Sudára prampuán	Talifus<i>o</i> alawe	Anghi<rm=""minore"">	Eaha ehòda	Sudára prampuán	Talifuso alawe	Anghi	Eaha ehòda			minore					t a l i f u s o # a l a w e	t a l i f u s o # a l a w e	talifuso alawe	a n g h i	a n j h i	anjhi	e a h a # e h ò d a	e a h a # e h O d a	eaha ehOda
+531	278	word	Sospendere	Gantó<i>ng</i>	Tawi²	Gantu<i>ng</i>	Paraia	Gantóng	Tawi²	Gantung	Paraia						GPWR--Reciprocal (?)		t a w i ²	t a w i ²	tawi²	g a n t u n g	j a n t u n j	jantunj	p a r ai a	p a r a:i a	para:ia
+532	278	word	Spalla	Bahu	Alisi	Abara	Ami²	Bahu	Alisi	Abara	Ami²							J. S. A. Van Dissel	a l i s i	a l i s i	alisi	a b a r a	a b a r a	abara	a m i ²	a m i ²	ami²
+533	278	word	Spazzare	Sapú	Bezini	Mangapusi	Ehoari	Sapú	Bezini	Mangapusi	Ehoari							J. S. A. Van Dissel	b e z i n i	b e z i n i	bezini	m a n g a p u s i	m a n j a p u s i	manjapusi	e h o a r i	e h o a r i	ehoari
+534	278	word	Spazzatura	Sapuán	Sasáo	Te	Chèlo²	Sapuán	Sasáo	Te	Chèlo²							J. S. A. Van Dissel	s a s á o	s a s a o	sasao	t e	t e	te	ch è l o ²	k E l o ²	kElo²
+535	278	word	Speranza	Haráp	Faotona		Ahecù	Haráp	Faotona		Ahecù								f ao t o n a	f a:o t o n a	fa:otona		⁇	⁇	a h e c ù	a h e k u	aheku
+536	278	word	Spirito	Antú	Bèchu	Begu	Ecoè	Antú	Bèchu	Begu	Ecoè							J. S. A. Van Dissel	b è c h u	b E k h u	bEkhu	b e g u	b e j u	beju	e c o è	e k o E	ekoE
+537	278	word	Sposare	Cawín	Fangowálu	Sappur	Pahona	Cawín	Fangowálu	Sappur	Pahona								f a n g o w á l u	f a n j o w a l u	fanjowalu	s a p p u r	s a p p u r	sappur	p a h o n a	p a h o n a	pahona
+538	278	word	Sputare	Meludáh	Menghedilo	Marsitidgiur	Aheito	Meludáh	Menghedilo	Marsitidgiur	Aheito								m e n g h e d i l o	m e n j h e d i l o	menjhedilo	m a r s i t i d gi u r	m a r s i t i d c u r	marsitidcur	a h ei t o	a h e:i t o	ahe:ito
+539	278	word	Stancarsi	Paiá	Erege d<i>o</i>d<i>o</i>	Pajah	Capiaca	Paiá	Erege dodo	Pajah	Capiaca								e r e g e # d o d o	e r e j e # d o d o	ereje dodo	p a j a h	p a j a h	pajah	c a p i a c a	k a p i a k a	kapiaka
+540	278	word	Star seduto	Berdudo Bintáng	Mudadao D<i>o</i>fi	Morsonggopan Bittang	Ahecu Cahomimi	Berdudo Bintáng	Mudadao Dofi	Morsonggopan Bittang	Ahecu Cahomimi						M--berduduk bintáng (?)	J. S. A. Van Dissel	m u d a d ao # d o f i	m u d a d a:o # d o f i	mudada:o dofi	m o r s o n g g o p a n # b i t t a n g	m o r s o n j j o p a n # b i t t a n j	morsonjjopan bittanj	a h e c u # c a h o m i m i	a h e k u # k a h o m i m i	aheku kahomimi
+541	278	word	Stracciare	Mentciaríc	Manica	Suwac	Capica	Mentciaríc	Manica	Suwac	Capica							J. S. A. Van Dissel	m a n i c a	m a n i k a	manika	s u w a c	s u w a k	suwak	c a p i c a	k a p i k a	kapika
+542	278	word	Strada	Gialán	Lala	Dalan	Ecò	Gialán	Lala	Dalan	Ecò						I--<pos=""noun"">	J. S. A. Van Dissel	l a l a	l a l a	lala	d a l a n	d a l a n	dalan	e c ò	e k O	ekO
+543	278	word	Stranutire	Bersín	Baho	Barsi	Eapacu	Bersín	Baho	Barsi	Eapacu							J. S. A. Van Dissel	b a h o	b a h o	baho	b a r s i	b a r s i	barsi	e a p a c u	e a p a k u	eapaku
+544	278	word	Stregato dal diavolo	Chená giin	Nifachico	Manginsona	Enocuè	Chená giin	Nifachico	Manginsona	Enocuè								n i f a ch i c o	n i f a k i k o	nifakiko	m a n gi n s o n a	m a n c n s o n a	mancnsona	e n o c u è	e n o k u E	enokuE
+545	278	word	Stritolare	Túmbuc	Muta	Mangulatac	Bachechè	Túmbuc	Muta	Mangulatac	Bachechè							J. S. A. Van Dissel	m u t a	m u t a	muta	m a n g u l a t a c	m a n j u l a t a k	manjulatak	b a ch e ch è	b a k e k E	bakekE
+546	278	word	Stupirsi	Heirán	D<i>o</i>d<i>o</i> mate		Eachidà	Heirán	Dodo mate		Eachidà								d o d o # m a t e	d o d o # m a t e	dodo mate		⁇	⁇	e a ch i d à	e a k i d a	eakida
+547	278	word	Subito	Sebentár	Dania	Tocchinnai	Paniha	Sebentár	Dania	Tocchinnai	Paniha						GPWR--Reciprocal (?)		d a n i a	d a n i a	dania	t o c ch i n n ai	t o k k i n n a:i	tokkinna:i	p a n i h a	p a n i x a	panixa
+548	278	word	Suo	Dia púnia	Nia		Eharudia	Dia púnia	Nia		Eharudia								n i a	n i a	nia		⁇	⁇	e h a r u d i a	e h a r u d i a	eharudia
+549	278	word	Superfluo	Limpah	L<i>o</i>ra		Echienia	Limpah	Lora		Echienia								l o r a	l o r a	lora		⁇	⁇	e ch i e n i a	e k i e n i a	ekienia
+550	278	word	Svegliarsi	Bangún		Tarsungul	Baharo	Bangún		Tarsungul	Baharo									⁇	⁇	t a r s u n g u l	t a r s u n j u l	tarsunjul	b a h a r o	b a h a r o	baharo
+551	278	word	Tagliare	Poton	Laforo	Manangoi	Huca	Poton	Laforo	Manangoi	Huca							J. S. A. Van Dissel	l a f o r o	l a f o r o	laforo	m a n a n g o i	m a n a n j o i	mananjoi	h u c a	h u k a	huka
+552	278	word	Tagliar barba	Ciucur	Laforo gambi		Moonè	Ciucur	Laforo gambi		Moonè								l a f o r o # g a m b i	l a f o r o # j a m b i	laforo jambi		⁇	⁇	m o o n è	m o o n E	moonE
+553	278	word	Tagliar boschi	Poton rimbu	Fanaba		Eápia	Poton rimbu	Fanaba		Eápia								f a n a b a	f a n a b a	fanaba		⁇	⁇	e á p i a	e a p i a	eapia
+554	278	word	Tagliente	Tagiám	Atar<i>o</i>	Mangiris	Eorodia	Tagiám	Ataro	Mangiris	Eorodia								a t a r o	a t a r o	ataro	m a n gi r i s	m a n c r i s	mancris	e o r o d i a	e o r o d i a	eorodia
+555	278	word	Temere	Tacút	Moghichi	Bijar	Caho	Tacút	Moghichi	Bijar	Caho								m o g h i ch i	m o j h i k i	mojhiki	b i j a r	b i j a r	bijar	c a h o	k a h o	kaho
+556	278	word	Temuto	Tacút acan dia	Cabúa		Coeue	Tacút acan dia	Cabúa		Coeue								c a b ú a	k a b u a	kabua		⁇	⁇	c o e u e	k o e u e	koeue
+557	278	word	Terra	Tana	Tano	Tano	Elopo	Tana	Tano	Tano	Elopo								t a n o	t a n o	tano	t a n o	t a n o	tano	e l o p o	e l o p o	elopo
+558	278	word	Terremoto	Goiáng tana	Durú	Lalo	Edihio	Goiáng tana	Durú	Lalo	Edihio								d u r ú	d u r u	duru	l a l o	l a l o	lalo	e d i h i o	e d i x i o	edixio
+559	278	word	Testa	Capala	Hog<i>o</i>	Ulu	Euru	Capala	Hogo	Ulu	Euru								h o g o	h o j o	hojo	u l u	u l u	ulu	e u r u	e u r u	euru
+560	278	word	Testa	Capala	Hog<i>o</i>	Ulu	Epua ulu	Capala	Hogo	Ulu	Epua ulu								h o g o	h o j o	hojo	u l u	u l u	ulu	e p u a # u l u	e p u a # u l u	epua ulu
+561	278	word	Testimonio	Sacsí	Sano<i>ng</i>oni	Si tindangi	Ecaca chipuoa	Sacsí	Sanongoni	Si tindangi	Ecaca chipuoa							J. S. A. Van Dissel	s a n o n g o n i	s a n o n j o n i	sanonjoni	s i # t i n d a n gi	s i # t i n d a n c	si tindanc	e c a c a # ch i p u o a	e k a k a # k i p u o a	ekaka kipuoa
+562	278	word	Testimonianza	Hal ber sacsí	Lafaduhu		Epuha euba	Hal ber sacsí	Lafaduhu		Epuha euba						M--hal bersacsí		l a f a d u h u	l a f a d u h u	lafaduhu		⁇	⁇	e p u h a # e u b a	e p u h a # e u b a	epuha euba
+563	278	word	Testimonianza	Hal ber sacsí	Lafaduhu		Eho uba	Hal ber sacsí	Lafaduhu		Eho uba						M--hal bersacsí		l a f a d u h u	l a f a d u h u	lafaduhu		⁇	⁇	e h o # u b a	e h o # u b a	eho uba
+564	278	word	Tetto di casa	Bumbo<i>ng</i>	Bulu nomo	Tarup		Bumbong	Bulu nomo	Tarup									b u l u # n o m o	b u l u # n o m o	bulu nomo	t a r u p	t a r u p	tarup		⁇	⁇
+565	278	word	Tetto di casa	Atap	Bulu nomo	Tarup		Atap	Bulu nomo	Tarup									b u l u # n o m o	b u l u # n o m o	bulu nomo	t a r u p	t a r u p	tarup		⁇	⁇
+566	278	word	Timido	Penactú	Atau	Biiar	Ucania	Penactú	Atau	Biiar	Ucania							J. S. A. Van Dissel	a t au	a t a:u	ata:u	b i i a r	b i i a r	biiar	u c a n i a	u k a n i a	ukania
+567	278	word	Tirar pietre	Lutar batú	Latebu gara	Mangalutarhon	Eabuaa	Lutar batú	Latebu gara	Mangalutarhon	Eabuaa							J. S. A. Van Dissel	l a t e b u # g a r a	l a t e b u # j a r a	latebu jara	m a n g a l u t a r h o n	m a n j a l u t a r h o n	manjalutarhon	e a b u a a	e a b u a a	eabuaa
+568	278	word	Torcia	Damar	D<i>o</i>god<i>o</i>go	Sulu²	Ehaenui	Damar	Dogodogo	Sulu²	Ehaenui							J. S. A. Van Dissel	d o g o d o g o	d o j o d o j o	dojodojo	s u l u ²	s u l u ²	sulu²	e h ae n u i	e h a:e n u i	eha:enui
+569	279	word	Tormentare	Meniachít	Mamacao		Baridaha aho	Meniachít	Mamacao		Baridaha aho								m a m a c ao	m a m a k a:o	mamaka:o		⁇	⁇	b a r i d a h a # a h o	b a r i d a h a # a h o	baridaha aho
+570	279	word	Tossire	Batúc	Mochehacheha	Bntuc	Ehe	Batúc	Mochehacheha	Bntuc	Ehe							J. S. A. Van Dissel	m o ch e h a ch e h a	m o k e h a k e h a	mokehakeha	b n t u c	b n t u k	bntuk	e h e	e h e	ehe
+571	279	word	Trattative matrimoniali	Porgiangián cawín	Famalúa li		Chipenanau	Porgiangián cawín	Famalúa li		Chipenanau						M--perjanjian kawin		f a m a l ú a # l i	f a m a l u a # l i	famalua li		⁇	⁇	ch i p e n a n au	k i p e n a n a:u	kipenana:u
+572	279	word	Tremare (di terremoto)	Goiá<i>ng</i>		Humuntal		Goiáng		Humuntal										⁇	⁇	h u m u n t a l	h u m u n t a l	humuntal		⁇	⁇
+573	279	word	Tremare				Cheachininichi				Cheachininichi									⁇	⁇		⁇	⁇	ch e a ch i n i n i ch i	k e a k i n i n i k i	keakininiki
+574	279	word	Trovare	Dapát	Nis<i>o</i>ndra	Mandapot	Pacoha	Dapát	Nisondra	Mandapot	Pacoha						GPWR--reciprocal (?)		n i s o n d r a	n i s o n d r a	nisondra	m a n d a p o t	m a n d a p o t	mandapot	p a c o h a	p a k o h a	pakoha
+575	279	word	Tutti	Samognia	Fefu	Saluhutna	Chidara	Samognia	Fefu	Saluhutna	Chidara								f e f u	f e f u	fefu	s a l u h u t n a	s a l u h u t n a	saluhutna	ch i d a r a	k i d a r a	kidara
+576	279	word	Unghia	Cucú	Saa	Nuhu	Canuúnu	Cucú	Saa	Nuhu	Canuúnu								s a a	s a a	saa	n u h u	n u h u	nuhu	c a n u ú n u	k a n u u n u	kanuunu
+577	279	word	Unghia	Cucú	Saa	Nuhu	Eca uapo	Cucú	Saa	Nuhu	Eca uapo								s a a	s a a	saa	n u h u	n u h u	nuhu	e c a # u a p o	e k a # u a p o	eka uapo
+578	279	word	Uomo	Orang	Niha	Giolma	Caca	Orang	Niha	Giolma	Caca								n i h a	n i x a	nixa	gi o l m a	c o l m a	colma	c a c a	k a k a	kaka
+579	279	word	Uovo	Telor	Adúlo	Pira	Iara	Telor	Adúlo	Pira	Iara								a d ú l o	a d u l o	adulo	p i r a	p i r a	pira	i a r a	i a r a	iara
+580	279	word	Utero	Pe<i>ng</i>anacán	Naha nono	Paranahan	Caacheo	Penganacán	Naha nono	Paranahan	Caacheo								n a h a # n o n o	n a h a # n o n o	naha nono	p a r a n a h a n	p a r a n a h a n	paranahan	c a a ch e o	k a a k e o	kaakeo
+581	279	word	Utile	Berguna	Ta uno	Buwat	Eharuca	Berguna	Ta uno	Buwat	Eharuca								t a # u n o	t a # u n o	ta uno	b u w a t	b u w a t	buwat	e h a r u c a	e h a r u k a	eharuka
+582	279	word	Ubriaco	Mabúc	Mabú		Eipuru	Mabúc	Mabú		Eipuru								m a b ú	m a b u	mabu		⁇	⁇	ei p u r u	e:i p u r u	e:ipuru
+583	279	word	Uccello	Buróng	Fòfo	Pidong	Cheèpa	Buróng	Fòfo	Pidong	Cheèpa								f ò f o	f O f o	fOfo	p i d o n g	p i d o n j	pidonj	ch e è p a	k e E p a	keEpa
+584	279	word	Uccidere	Bunú	Famunu	Mamunu	Pacahalè	Bunú	Famunu	Mamunu	Pacahalè						GPWR--reciprocal (?)		f a m u n u	f a m u n u	famunu	m a m u n u	m a m u n u	mamunu	p a c a h a l è	p a k a h a l E	pakahalE
+585	279	word	Uguale	Sama	Faoma	So<i>ng</i>on	Panacona	Sama	Faoma	Songon	Panacona						GPWR--reciprocal (?)		f ao m a	f a:o m a	fa:oma	s o n g o n	s o n j o n	sonjon	p a n a c o n a	p a n a k o n a	panakona
+586	279	word	Va bene	Baíc	Lau	Ima dengan	Abaua	Baíc	Lau	Ima dengan	Abaua							J. S. A. Van Dissel	l au	l a:u	la:u	i m a # d e n g a n	i m a # d e n j a n	ima denjan	a b au a	a b a:u a	aba:ua
+587	279	word	Vaiolato	Bertciapúc	Bahibahino		Capochepeche	Bertciapúc	Bahibahino		Capochepeche								b a h i b a h i n o	b a h i b a h i n o	bahibahino		⁇	⁇	c a p o ch e p e ch e	k a p o k e p e k e	kapokepeke
+588	279	word	Vaiolo	Tciaciar			Pacunuio	Tciaciar			Pacunuio						GPWR--reciprocal (?)			⁇	⁇		⁇	⁇	p a c u n u i o	p a k u n u i o	pakunuio
+589	279	word	Vai via	Pighí	Mofano	Ale mundur do laho do	Uaha nooni	Pighí	Mofano	Ale mundur do laho do	Uaha nooni								m o f a n o	m o f a n o	mofano	a l e # m u n d u r # d o # l a h o # d o	a l e # m u n d u r # d o # l a h o # d o	ale mundur do laho do	u a h a # n o o n i	u a h a # n o o n i	uaha nooni
+590	279	word	Valoroso	Braní	Amui	Begu	Chèoba elà ibudia	Braní	Amui	Begu	Chèoba elà ibudia								a m u i	a m u i	amui	b e g u	b e j u	beju	ch è o b a # e l à # i b u d i a	k E o b a # e l a # i b u d i a	kEoba ela ibudia
+591	279	word	Vomitare	Muntah		Marompas	Cheoa	Muntah		Marompas	Cheoa									⁇	⁇	m a r o m p a s	m a r o m p a s	marompas	ch e o a	k e o a	keoa
+592	279	word	Vecchio	Tua	Atúa	Matua	Capu	Tua	Atúa	Matua	Capu								a t ú a	a t u a	atua	m a t u a	m a t u a	matua	c a p u	k a p u	kapu
+593	279	word	Vedere	Liát	Mamaigi	Mornida	Pua	Liát	Mamaigi	Mornida	Pua								m a m ai gi	m a m a:i c	mama:ic	m o r n i d a	m o r n i d a	mornida	p u a	p u a	pua
+594	279	word	Vedova	Bálu prampuán	Laha mbanùa	Balu	Cabócu	Bálu prampuán	Laha mbanùa	Balu	Cabócu								l a h a # m b a n ù a	l a h a # m b a n u a	laha mbanua	b a l u	b a l u	balu	c a b ó c u	k a b o k u	kaboku
+595	279	word	Vedovo	Bálu lachí lachí	Si mate donga		Purihio	Bálu lachí lachí	Si mate donga		Purihio								s i # m a t e # d o n g a	s i # m a t e # d o n j a	si mate donja		⁇	⁇	p u r i h i o	p u r i x i o	purixio
+596	279	word	Vedova che sposa il cognato				Eacoupi				Eacoupi									⁇	⁇		⁇	⁇	e a c ou p i	e a k o:u p i	eako:upi
+597	279	word	Vedova che sposa un altro uomo				Caaia				Caaia									⁇	⁇		⁇	⁇	c a ai a	k a a:i a	kaa:ia
+598	279	word	Vedovo che ripiglia moglie				Pohòchi				Pohòchi									⁇	⁇		⁇	⁇	p o h ò ch i	p o h O k i	pohOki
+599	279	word	Vendere	Giuál	Nifamawe	Morgadis	Pachèli enia	Giuál	Nifamawe	Morgadis	Pachèli enia								n i f a m a w e	n i f a m a w e	nifamawe	m o r g a d i s	m o r j a d i s	morjadis	p a ch è l i # e n i a	p a k E l i # e n i a	pakEli enia
+600	279	word	Vendetta	Pembalasán	Falaombalo	Balos	Uacoli ipurudia	Pembalasán	Falaombalo	Balos	Uacoli ipurudia								f a l ao m b a l o	f a l a:o m b a l o	fala:ombalo	b a l o s	b a l o s	balos	u a c o l i # i p u r u d i a	u a k o l i # i p u r u d i a	uakoli ipurudia
+601	279	word	Venire	Data<i>ng</i>	Aine	Ro	Chicababa	Datang	Aine	Ro	Chicababa								ai n e	a:i n e	a:ine	r o	r o	ro	ch i c a b a b a	k i k a b a b a	kikababa
+602	279	word	Vento	Agnín	Angi	Alogo	Chiu	Agnín	Angi	Alogo	Chiu							J. S. A. Van Dissel	a n gi	a n c	anc	a l o g o	a l o j o	alojo	ch i u	k i u	kiu
+603	279	word	Ventre	Prút	Talu	Butuc	Echiteica	Prút	Talu	Butuc	Echiteica								t a l u	t a l u	talu	b u t u c	b u t u k	butuk	e ch i t ei c a	e k i t e:i k a	ekite:ika
+604	279	word	Ventre	Prút	Talu	Butuc	Echida	Prút	Talu	Butuc	Echida								t a l u	t a l u	talu	b u t u c	b u t u k	butuk	e ch i d a	e k i d a	ekida
+605	280	word	Ventre grosso	Prút besár	Búto	Mabubu		Prút besár	Búto	Mabubu									b ú t o	b u t o	buto	m a b u b u	m a b u b u	mabubu		⁇	⁇
+606	280	word	Vergine	Gadís	Ono alave	Dara	Poenamu	Gadís	Ono alave	Dara	Poenamu							J. S. A. Van Dissel	o n o # a l a v e	o n o # a l a v e	ono alave	d a r a	d a r a	dara	p o e n a m u	p o e n a m u	poenamu
+607	280	word	Verità	Butúl	Si duhu	Tutu	Ecunana	Butúl	Si duhu	Tutu	Ecunana								s i # d u h u	s i # d u h u	si duhu	t u t u	t u t u	tutu	e c u n a n a	e k u n a n a	ekunana
+608	280	word	Verso	Ca	Hò	Di	Ca	Ca	Hò	Di	Ca								h ò	h O	hO	d i	d i	di	c a	k a	ka
+609	280	word	Viaggiare	Gialán	Wecoli	Mordalan	Caha cacocoi	Gialán	Wecoli	Mordalan	Caha cacocoi								w e c o l i	w e k o l i	wekoli	m o r d a l a n	m o r d a l a n	mordalan	c a h a # c a c o c o i	k a h a # k a k o k o i	kaha kakokoi
+610	280	word	Vieni qui (detto a cani)				Ií				Ií									⁇	⁇		⁇	⁇	i í	i i	ii
+611	280	word	Vieni qui (detto a persone)	Mári sini		Ale tu son ma ho	Adeé	Mári sini		Ale tu son ma ho	Adeé									⁇	⁇	a l e # t u # s o n # m a # h o	a l e # t u # s o n # m a # h o	ale tu son ma ho	a d e é	a d e e	adee
+612	280	word	Villaggio	Campó<i>ng</i>	Banúa	Huta	Caudara	Campóng	Banúa	Huta	Caudara								b a n ú a	b a n u a	banua	h u t a	h u t a	huta	c au d a r a	k a:u d a r a	ka:udara
+613	280	word	Vincitore	Galíb	Sim<i>o</i>na	Na manaluhon	Eeò	Galíb	Simona	Na manaluhon	Eeò							J. S. A. Van Dissel	s i m o n a	s i m o n a	simona	n a # m a n a l u h o n	n a # m a n a l u h o n	na manaluhon	e e ò	e e O	eeO
+614	280	word	Viso	Mucá	Bava		Ebaca	Mucá	Bava		Ebaca								b a v a	b a v a	bava		⁇	⁇	e b a c a	e b a k a	ebaka
+615	280	word	Vivente	Idup	Auri	Mangulu	Coda	Idup	Auri	Mangulu	Coda								au r i	a:u r i	a:uri	m a n g u l u	m a n j u l u	manjulu	c o d a	k o d a	koda
+616	280	word	Voce	Suara	Li		Egi	Suara	Li		Egi								l i	l i	li		⁇	⁇	e gi	e c	ec
+617	280	word	Volare	Terbáng	Hunombo	Haba<i>ng</i>	Eèpa	Terbáng	Hunombo	Habang	Eèpa								h u n o m b o	h u n o m b o	hunombo	h a b a n g	h a b a n j	habanj	e è p a	e E p a	eEpa
+618	280	word	Volere	Mau	Bech<i>o</i>ggu	Olo	Uacahapi	Mau	Bechoggu	Olo	Uacahapi							J. S. A. Van Dissel	b e c h o g g u	b e k h o j j u	bekhojju	o l o	o l o	olo	u a c a h a p i	u a k a h a p i	uakahapi
+619	280	word	Vuoto	Cossóng	L<i>o</i> osisi	Rumar	Chèoba hela	Cossóng	Lo osisi	Rumar	Chèoba hela							J. S. A. Van Dissel	l o # o s i s i	l o # o s i s i	lo osisi	r u m a r	r u m a r	rumar	ch è o b a # h e l a	k E o b a # h e l a	kEoba hela
+620	280	word	Zanzara grande	Gnemúc	Die	Ronhit	Echia	Gnemúc	Die	Ronhit	Echia						M--Gemúc	J. S. A. Van Dissel	d i e	d i e	die	r o n h i t	r o n h i t	ronhit	e ch i a	e k i a	ekia
+621	280	word	Zanzara piccola		Die	Ronhit	Comau		Die	Ronhit	Comau							J. S. A. Van Dissel	d i e	d i e	die	r o n h i t	r o n h i t	ronhit	c o m au	k o m a:u	koma:u
+622	280	word	Zappa	Ciancúl	Facu	Tambila<i>ng</i>		Ciancúl	Facu	Tambilang							E--It is interesting that Enggano does not have the word for Malay ""cangkul"" when Modigliani visited.	J. S. A. Van Dissel	f a c u	f a k u	faku	t a m b i l a n g	t a m b i l a n j	tambilanj		⁇	⁇
+623	280	word	Zoppicare	Timpáng	Ahelahela	Mempanghempang	Caracoiaidia	Timpáng	Ahelahela	Mempanghempang	Caracoiaidia								a h e l a h e l a	a h e l a h e l a	ahelahela	m e m p a n g h e m p a n g	m e m p a n j h e m p a n j	mempanjhempanj	c a r a c o i ai d i a	k a r a k o i a:i d i a	karakoia:idia
+624	280	word	Zucca	Labu	Laidgiu		Edoa	Labu	Laidgiu		Edoa								l ai d gi u	l a:i d c u	la:idcu		⁇	⁇	e d o a	e d o a	edoa
+625	280	number	Uno	Satú	Sára	Sáda	Cáic	Satú	Sára	Sáda	Cáic								s á r a	s a r a	sara	s á d a	s a d a	sada	c á i c	k a i k	kaik
+626	280	number	Due	Duá	Duá	Dúwa	Adúwa	Duá	Duá	Dúwa	Adúwa								d u á	d u a	dua	d ú w a	d u w a	duwa	a d ú w a	a d u w a	aduwa
+627	280	number	Tre	Tiga	T<i>o</i>lu	Tòlu	Acòlu	Tiga	Tolu	Tòlu	Acòlu								t o l u	t o l u	tolu	t ò l u	t O l u	tOlu	a c ò l u	a k O l u	akOlu
+628	280	number	Quattro	Ampát	<i>O</i>fa	Opat	Afa	Ampát	Ofa	Opat	Afa								o f a	o f a	ofa	o p a t	o p a t	opat	a f a	a f a	afa
+629	280	number	Cinque	Líma	Lima	Líma	Alíme	Líma	Lima	Líma	Alíme								l i m a	l i m a	lima	l í m a	l i m a	lima	a l í m e	a l i m e	alime
+630	280	number	Sei	Annám	On<i>o</i>	Onòm	Cachíne	Annám	Ono	Onòm	Cachíne								o n o	o n o	ono	o n ò m	o n O m	onOm	c a ch í n e	k a k i n e	kakine
+631	280	number	Sette	Tugiú	Fitu	Pítu	Alíme adúwa	Tugiú	Fitu	Pítu	Alíme adúwa								f i t u	f i t u	fitu	p í t u	p i t u	pitu	a l í m e # a d ú w a	a l i m e # a d u w a	alime aduwa
+632	280	number	Otto	Dlapán	Walu	Uwálu	Afa afa	Dlapán	Walu	Uwálu	Afa afa								w a l u	w a l u	walu	u w á l u	u w a l u	uwalu	a f a # a f a	a f a # a f a	afa afa
+633	280	number	Nove	Sembilan	Siwa	Sija	Alíme afa	Sembilan	Siwa	Sija	Alíme afa								s i w a	s i w a	siwa	s i j a	s i j a	sija	a l í m e # a f a	a l i m e # a f a	alime afa
+634	280	number	Dieci	Sapúlu	Fúlu	Sappúlu	Cahafúlo	Sapúlu	Fúlu	Sappúlu	Cahafúlo								f ú l u	f u l u	fulu	s a p p ú l u	s a p p u l u	sappulu	c a h a f ú l o	k a h a f u l o	kahafulo
+635	280	number	Undici	Sablás (Satú blás)	Fele dgiára	Sappúlu sada	Cahafúlo cáic	Sablás (Satú blás)	Fele dgiára	Sappúlu sada	Cahafúlo cáic								f e l e # d gi á r a	f e l e # d c a r a	fele dcara	s a p p ú l u # s a d a	s a p p u l u # s a d a	sappulu sada	c a h a f ú l o # c á i c	k a h a f u l o # k a i k	kahafulo kaik
+636	280	number	Dodici	Duablás	Felendrúa	Sappúlu duwa	Cahafúlo adúwa	Duablás	Felendrúa	Sappúlu duwa	Cahafúlo adúwa								f e l e n d r ú a	f e l e n d r u a	felendrua	s a p p ú l u # d u w a	s a p p u l u # d u w a	sappulu duwa	c a h a f ú l o # a d ú w a	k a h a f u l o # a d u w a	kahafulo aduwa
+637	280	number	Tredici	Tigablás	Fele d<i>o</i>lu	Sappúlu tolu	Cahafúlo acòlu	Tigablás	Fele dolu	Sappúlu tolu	Cahafúlo acòlu								f e l e # d o l u	f e l e # d o l u	fele dolu	s a p p ú l u # t o l u	s a p p u l u # t o l u	sappulu tolu	c a h a f ú l o # a c ò l u	k a h a f u l o # a k O l u	kahafulo akOlu
+638	280	number	Quattordici	Ampatblás	Fele <i>o</i>fa	Sappúlu opat	Cahafúlo afá	Ampatblás	Fele ofa	Sappúlu opat	Cahafúlo afá						E--The given, original form ""Cagafúlo afá"" could be a typo for ""Cahafúlo afá""?, which is more consistent with the other related forms.		f e l e # o f a	f e l e # o f a	fele ofa	s a p p ú l u # o p a t	s a p p u l u # o p a t	sappulu opat	c a h a f ú l o # a f á	k a h a f u l o # a f a	kahafulo afa
+639	280	number	Quindici	Limablás	Fele lima	Sappúlu lima	Cahafúlo alíme	Limablás	Fele lima	Sappúlu lima	Cahafúlo alíme								f e l e # l i m a	f e l e # l i m a	fele lima	s a p p ú l u # l i m a	s a p p u l u # l i m a	sappulu lima	c a h a f ú l o # a l í m e	k a h a f u l o # a l i m e	kahafulo alime
+640	280	number	Sedici	Annamblás	Fele <i>o</i>no	Sappúlu onom	Cahafúlo cachine	Annamblás	Fele ono	Sappúlu onom	Cahafúlo cachine								f e l e # o n o	f e l e # o n o	fele ono	s a p p ú l u # o n o m	s a p p u l u # o n o m	sappulu onom	c a h a f ú l o # c a ch i n e	k a h a f u l o # k a k i n e	kahafulo kakine
+641	281	number	Diciassette	Tugiublás	Fele witu	Sappúlu pitu	Cahafúlo alíme adúwa	Tugiublás	Fele witu	Sappúlu pitu	Cahafúlo alíme adúwa								f e l e # w i t u	f e l e # w i t u	fele witu	s a p p ú l u # p i t u	s a p p u l u # p i t u	sappulu pitu	c a h a f ú l o # a l í m e # a d ú w a	k a h a f u l o # a l i m e # a d u w a	kahafulo alime aduwa
+642	281	number	Diciotto	Dlapanblás	Fele walu	Sappúlu uwalu	Cahafúlo afa afa	Dlapanblás	Fele walu	Sappúlu uwalu	Cahafúlo afa afa								f e l e # w a l u	f e l e # w a l u	fele walu	s a p p ú l u # u w a l u	s a p p u l u # u w a l u	sappulu uwalu	c a h a f ú l o # a f a # a f a	k a h a f u l o # a f a # a f a	kahafulo afa afa
+643	281	number	Diciannove	Sembilanblás	Fele dgíwa	Sappúlu sija	Cahafúlo alíme áfa	Sembilanblás	Fele dgíwa	Sappúlu sija	Cahafúlo alíme áfa								f e l e # d g í w a	f e l e # d j i w a	fele djiwa	s a p p ú l u # s i j a	s a p p u l u # s i j a	sappulu sija	c a h a f ú l o # a l í m e # á f a	k a h a f u l o # a l i m e # a f a	kahafulo alime afa
+644	281	number	Venti	Dua pulu	Dua wulu	Dúwa púlu	Cáic taccá	Dua pulu	Dua wulu	Dúwa púlu	Cáic taccá								d u a # w u l u	d u a # w u l u	dua wulu	d ú w a # p ú l u	d u w a # p u l u	duwa pulu	c á i c # t a cc á	k a i k # t a k a	kaik taka
+645	281	number	Trenta	Tiga pulo	T<i>o</i>lungafulu	Tòlu púlu	Cáic taccá cahafúlo	Tiga pulo	Tolungafulu	Tòlu púlu	Cáic taccá cahafúlo						M--The given, original form ""Tiga pulo"" could have been a typo for ""Tiga pulu""?, which is more consistent with the other related forms.		t o l u n g a f u l u	t o l u n j a f u l u	tolunjafulu	t ò l u # p ú l u	t O l u # p u l u	tOlu pulu	c á i c # t a cc á # c a h a f ú l o	k a i k # t a k a # k a h a f u l o	kaik taka kahafulo
+646	281	number	Novanta	Sembílan pulu	Siwa wulu	Sija púlu	Afa taccá cahafúlo	Sembílan pulu	Siwa wulu	Sija púlu	Afa taccá cahafúlo								s i w a # w u l u	s i w a # w u l u	siwa wulu	s i j a # p ú l u	s i j a # p u l u	sija pulu	a f a # t a cc á # c a h a f ú l o	a f a # t a k a # k a h a f u l o	afa taka kahafulo
+647	281	number	Cento	Saratus	Otu	Saratus	Alíme taccá	Saratus	Otu	Saratus	Alíme taccá								o t u	o t u	otu	s a r a t u s	s a r a t u s	saratus	a l í m e # t a cc á	a l i m e # t a k a	alime taka
+648	281	number	Duecento	Duaratus	Duangaotu	Dúwaratus	Cahafúlo taccá	Duaratus	Duangaotu	Dúwaratus	Cahafúlo taccá								d u a n g ao t u	d u a n j a:o t u	duanja:otu	d ú w a r a t u s	d u w a r a t u s	duwaratus	c a h a f ú l o # t a cc á	k a h a f u l o # t a k a	kahafulo taka
+649	281	number	Mille	Saribu	H<i>o</i>n<i>o</i>	Saribu	Alíme cahafúlo taccá	Saribu	Hono	Saribu	Alíme cahafúlo taccá								h o n o	h o n o	hono	s a r i b u	s a r i b u	saribu	a l í m e # c a h a f ú l o # t a cc á	a l i m e # k a h a f u l o # t a k a	alime kahafulo taka
