@@ -111,6 +111,19 @@ toba_batak_df <- toba_batak_df %>%
          toba_batak_COMMON = str_replace_all(toba_batak_COMMON, "\\#", " "))
 toba_batak_df |> write_tsv("ortho/ortho_toba_batak.tsv")
 
+# df_wide |> 
+#   select(-MALAY, -NIAS, -TOBA_BATAK, -ENGGANO) |> 
+#   rename_with(\(x) str_replace(x, "_1", ""), .cols = matches("(MALAY|NIAS|TOBA_BATAK|ENGGANO)"))
+
+df_wide |> 
+  mutate(ID = row_number()) |> 
+  relocate(ID, .before = PAGE) |> 
+  write_tsv("data-output/modigliani-1894-wide-table.tsv", na = "")
+df_wide |> 
+  mutate(ID = row_number()) |> 
+  relocate(ID, .before = PAGE) |> 
+  write_csv("data-output/modigliani-1894-wide-table.csv", na = "")
+
 # word count
 # df |> mutate(across(matches("(MALESE|NIAS|TOBA_BATACCO|ENGANESE)"), ~str_count(., "\\b[^;\\s]+\\b"), .names = "nwrd_{.col}"))
 
@@ -146,3 +159,25 @@ df_long3 <- df_long2 |>
          DOCULECT = replace(DOCULECT, DOCULECT == "TOBA_BATACCO", "TOBA_BATAK"))
 
 df_long3
+
+df_long3_words <- df_long3$WORD2
+
+df_long3_ortho <- qlcData::tokenize(strings = df_long3_words,
+                                    profile = "ortho/_10-modi1894_profile-skeleton.tsv",
+                                    method = "global",
+                                    transliterate = "Replacement",
+                                    ordering = NULL,
+                                    normalize = "NFC",
+                                    sep.replace = "#",
+                                    regex = TRUE)
+df_long3_ortho_strings <- df_long3_ortho$strings |> 
+  as_tibble() |> 
+  mutate(transliterated_common = str_replace_all(transliterated, "\\s", ""),
+         transliterated_common = str_replace_all(transliterated_common, "\\#", " "))
+
+write_tsv(df_long3_ortho_strings, file = "ortho/ortho_ALL_WORDS_LONG_TABLE.tsv")  
+
+df_long3 |> 
+  write_tsv("data-output/modigliani-1894-long-table.tsv", na = "")
+df_long3 |> 
+  write_csv("data-output/modigliani-1894-long-table.csv", na = "")
