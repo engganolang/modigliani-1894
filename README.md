@@ -44,20 +44,41 @@ International<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg
 
 <!-- badges: end -->
 
+## How to cite
+
+Please cite the source of the data set ([Modigliani
+1894](#ref-modigliani1894)) (if in in APA7<sup>th</sup>) and the
+particular version of this repository ([Rajeg
+2025](#ref-rajeg_digitised_2025)) (in
+[DataCite](https://support.datacite.org/docs/data-citation)) as follows:
+
+> Modigliani, E. (1894). *L’isola delle donne*. Ulrico Hoepli.
+> <https://www.google.co.uk/books/edition/L_isola_delle_donne/gksCAAAAMAAJ?hl=en&gbpv=0>
+
+> Rajeg, Gede Primahadi Wijaya (2025). Digitised comparative word list
+> of Malay, Nias, Toba-Batak, and Enggano in Modigliani’s “L’isola Delle
+> Donne” from 1894. University of Oxford. Dataset.
+> <https://doi.org/10.25446/oxford.28330022.v1>
+
+For future updates and version of records, please check the
+[Releases](https://github.com/engganolang/modigliani-1894/releases) page
+on this GitHub repository and its [Zenodo
+archive](https://doi.org/10.5281/zenodo.14789257).
+
 ## Overview
 
 The
 [data-source](https://github.com/engganolang/modigliani-1894/tree/main/data-source)
 directory contains the original data in .xlsx file that the first author
-hand-digitised from the original source (Modigliani 1894). The light
-annotation included reflects the content of the original source,
-covering several aspects. First, annotating the string component that is
-printed in italics in the original source; the marking is indicated by
-the XML tag `<i>` so it can be traced computationally. Second, there is
-also annotation concerning remark (`<rm...>`) for a given language
-column in the original source, and that concerning aspect of meaning
-(`<sem...>`). These annotations are still available in the `WORD` column
-of the
+hand-digitised from the original source ([Modigliani
+1894](#ref-modigliani1894)). The light annotation included reflects the
+content of the original source, covering several aspects. First,
+annotating the string component that is printed in italics in the
+original source; the marking is indicated by the XML tag `<i>` so it can
+be traced computationally. Second, there is also annotation concerning
+remark (`<rm...>`) for a given language column in the original source,
+and that concerning aspect of meaning (`<sem...>`). These annotations
+are still available in the `WORD` column of the
 [data-output](https://github.com/engganolang/modigliani-1894/tree/main/data-output)
 with
 [long-table](https://github.com/engganolang/modigliani-1894/blob/main/data-output/modigliani-1894-long-table.csv)
@@ -84,6 +105,15 @@ directory](https://github.com/engganolang/modigliani-1894/tree/main/ortho).
 
 Modigliani, Elio. 1894. *L’isola Delle Donne*. Milano: Ulrico Hoepli.
 <https://www.google.co.uk/books/edition/L_isola_delle_donne/gksCAAAAMAAJ?hl=en&gbpv=0>.
+
+</div>
+
+<div id="ref-rajeg_digitised_2025" class="csl-entry">
+
+Rajeg, Gede Primahadi Wijaya. 2025. “Digitised Comparative Word List of
+Malay, Nias, Toba-Batak, and Enggano in Modigliani’s ‘L’isola Delle
+Donne’ from 1894.” Dataset. University of Oxford.
+<https://doi.org/10.25446/oxford.28330022.v1>.
 
 </div>
 
